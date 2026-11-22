@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office lock files
+~$*
+
+# Environment files
+.env
+.venv/
+
+# Temporary/output files
+*.log
+*.tmp
