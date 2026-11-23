@@ -107,7 +107,7 @@ This charter is written before any analysis is run in this repository, so the on
 
 ### Data questions to answer first (NB01)
 
-These questions shape how the features are built. They are answered in [`01_customer_features.ipynb`](../03_analysis/01_customer_features.ipynb), with a summary table in its Section 6:
+These questions shape how the features are built:
 
 - How many orders does each customer place over the full 25 months, and how many customers have only one order in their whole history?
 - Of the 13,404 customers who bought once in Jan–Jun 2026, how many had bought before?
