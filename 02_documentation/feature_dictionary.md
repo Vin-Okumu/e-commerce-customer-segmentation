@@ -76,5 +76,5 @@ Taken from `Dim_Customers`. Used only to describe and validate segments.
 | Customers with no valid orders are kept in the tables but excluded from clustering | 66 customers (0.17%) in the full period have no spend, basket or category mix to compare |
 | `frequency`, `monetary` and `aov` are log-transformed before clustering | Spend is right-skewed (skewness 1.40); AOV is more skewed still (2.08) |
 | `pct_coupon_share` is profiling only | Undefined for the 28.3% of customers who never used a coupon |
-| Clustering uses log Frequency and log AOV instead of log Monetary (proposed, confirmed in NB03) | Monetary and AOV correlate at ρ = 0.88; log Monetary = log Frequency + log AOV, so nothing is lost |
+| Clustering uses log Frequency and log AOV instead of log Monetary (plain log, so the identity is exact) | Monetary and AOV correlate at ρ = 0.88; log Monetary = log Frequency + log AOV, so nothing is lost and spend is not counted twice |
 | `cancel/return rate` and a Recency transformation are tested in NB03 | Cancel/return rate is mostly zero; Recency has a long tail (skewness 1.69) |
