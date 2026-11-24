@@ -1,0 +1,112 @@
+{
+  "features": [
+    "recency_raw",
+    "log_frequency",
+    "log_aov",
+    "coupon_rate",
+    "cod_share",
+    "electronics_share",
+    "category_breadth"
+  ],
+  "transformations": {
+    "recency_raw": "none (days)",
+    "log_frequency": "natural log",
+    "log_aov": "natural log",
+    "others": "none"
+  },
+  "scaling": "StandardScaler (mean 0, standard deviation 1), fitted on the clustered customers",
+  "k": 7,
+  "n_init": 10,
+  "random_state": 42,
+  "naming_rules": [
+    "Lapsed high-value customers / Lapsed light buyers: the two clusters with the highest median recency_days, split by higher / lower median aov",
+    "Coupon-led buyers: max mean coupon_rate",
+    "Big-ticket Electronics buyers: max mean electronics_share",
+    "Core high-value regulars: max median aov",
+    "Frequent everyday shoppers: max median frequency",
+    "Occasional light shoppers: remaining cluster"
+  ],
+  "scaler_mean": {
+    "recency_raw": 119.552725,
+    "log_frequency": 1.63037,
+    "log_aov": 9.701517,
+    "coupon_rate": 0.201327,
+    "cod_share": 0.327733,
+    "electronics_share": 0.267824,
+    "category_breadth": 2.548735
+  },
+  "cluster_names": {
+    "2": "Lapsed high-value customers",
+    "6": "Lapsed light buyers",
+    "4": "Coupon-led buyers",
+    "1": "Big-ticket Electronics buyers",
+    "5": "Core high-value regulars",
+    "0": "Frequent everyday shoppers",
+    "3": "Occasional light shoppers"
+  },
+  "centroids_scaled": {
+    "Frequent everyday shoppers": {
+      "recency_raw": -0.29,
+      "log_frequency": 0.4913,
+      "log_aov": -0.7128,
+      "coupon_rate": -0.1471,
+      "cod_share": 0.5924,
+      "electronics_share": -0.8305,
+      "category_breadth": 0.7335
+    },
+    "Big-ticket Electronics buyers": {
+      "recency_raw": -0.0726,
+      "log_frequency": -0.6187,
+      "log_aov": 0.8999,
+      "coupon_rate": -0.0897,
+      "cod_share": -0.1815,
+      "electronics_share": 1.4644,
+      "category_breadth": -1.1024
+    },
+    "Lapsed high-value customers": {
+      "recency_raw": 1.9655,
+      "log_frequency": -0.5593,
+      "log_aov": 0.3933,
+      "coupon_rate": -0.2101,
+      "cod_share": -0.1262,
+      "electronics_share": 0.3024,
+      "category_breadth": -0.0456
+    },
+    "Occasional light shoppers": {
+      "recency_raw": -0.2213,
+      "log_frequency": -0.3497,
+      "log_aov": -0.907,
+      "coupon_rate": -0.1033,
+      "cod_share": 0.13,
+      "electronics_share": -1.0137,
+      "category_breadth": -1.0252
+    },
+    "Coupon-led buyers": {
+      "recency_raw": -0.2272,
+      "log_frequency": 0.2652,
+      "log_aov": 0.3405,
+      "coupon_rate": 1.257,
+      "cod_share": -0.163,
+      "electronics_share": 0.1955,
+      "category_breadth": 0.5358
+    },
+    "Core high-value regulars": {
+      "recency_raw": -0.392,
+      "log_frequency": 0.5749,
+      "log_aov": 0.5293,
+      "coupon_rate": -0.4271,
+      "cod_share": -0.26,
+      "electronics_share": 0.3951,
+      "category_breadth": 0.7017
+    },
+    "Lapsed light buyers": {
+      "recency_raw": 1.5389,
+      "log_frequency": -2.105,
+      "log_aov": -1.6459,
+      "coupon_rate": 0.2107,
+      "cod_share": 0.1595,
+      "electronics_share": -1.0537,
+      "category_breadth": -1.9464
+    }
+  }
+}
