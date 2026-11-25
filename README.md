@@ -63,7 +63,7 @@ The same three processed tables as the first project, copied unchanged with chec
 | `Dim_Customers.csv` | 40,000 | One customer (tier, registration date, age group, state) |
 | `Dim_Products.csv` | 2,000 | One product (category, brand, price) |
 
-**Continuity check.** Before any new analysis, NB01 reproduces all 12 headline figures published by the first project, including ₹1.41 bn revenue, 30,840 active customers and the 72.7% Electronics share *[NB01]*.
+**Continuity check.** Before any new analysis, [`01_customer_features.ipynb`](03_analysis/01_customer_features.ipynb) reproduces all 12 headline figures published by the first project, including ₹1.41 bn revenue, 30,840 active customers and the 72.7% Electronics share.
 
 **Testing on data the segments never saw.** The 25 months of orders are split so that segments built on the past can be checked against what customers did next:
 
@@ -98,7 +98,7 @@ Shared rules (valid order statuses, time windows, feature definitions) live in [
 <img src="04_report/figures/nb03_segment_profiles.png" width="800">
 </p>
 
-- **Seven segments**, separated mainly by *what* customers buy (category breadth, Electronics share, basket size) rather than *when* they last bought *[NB03]*:
+- **Seven segments**, separated mainly by *what* customers buy (category breadth, Electronics share, basket size) rather than *when* they last bought:
 
   | Segment | Customers | Revenue |
   |---|---|---|
@@ -110,8 +110,8 @@ Shared rules (valid order statuses, time windows, feature definitions) live in [
   | Lapsed high-value customers | 8.0% | 7.1% |
   | Lapsed light buyers | 5.0% | 0.4% |
 
-- **The structure is honest about its limits.** The segments are weakly separated (silhouette 0.150) but very stable (mean ARI 0.952 across 50 resamples). They are consistent slices of a continuum, not natural groups *[NB03]*.
-- **K-means and RFM see customers differently** (ARI 0.099). K-means describes buying style; RFM describes recency and spend *[NB03]*.
+- **Structural limits:** The segments are weakly separated (silhouette 0.150) but very stable (mean ARI 0.952 across 50 resamples). They are consistent slices of a continuum, not natural groups.
+- **K-means and RFM see customers differently** (ARI 0.099). K-means describes buying style; RFM describes recency and spend.
 
 ### Who is slipping away? *(Objective 3)*
 
@@ -119,15 +119,15 @@ Shared rules (valid order statuses, time windows, feature definitions) live in [
 <img src="04_report/figures/nb04_auc_comparison.png" width="700">
 </p>
 
-- **22.9% of customers placed no order in Jan–Jun 2026, and every segment lapsed at about that rate (22%–24%)** *[NB04]*.
-- **Recency, RFM and K-means segments could not predict who would lapse** (AUC 0.495–0.502). The loyalty tier could (0.570), and tier combined with segment did best (0.606) *[NB04]*.
-- **No gap length marks a lapse.** Customers who had not ordered for over 209 days lapsed at 22.0%, against 23.1% for everyone else *[NB04]*.
-- **Value neither builds nor fades with tenure.** Spend per registered customer is flat across the 12 registration cohorts *[NB04]*.
+- 22.9% of customers placed no order in Jan–Jun 2026, and **every segment lapsed at about that rate (22%–24%)**.
+- Recency, RFM and K-means segments **could not predict who would lapse** (AUC 0.495–0.502), but the loyalty tier could (0.570), and tier combined with segment did best (0.606) *[NB04]*.
+- **No gap length marks a lapse:** Customers who had not ordered for over 209 days lapsed at 22.0%, against 23.1% for everyone else.
+- **Value neither builds nor fades with tenure:** Spend per registered customer is flat across the 12 registration cohorts.
 
 ### Are the tiers right? *(Objective 2)*
 
-- **Tier tracks spend (ρ = +0.764), not recency (−0.126)** *[NB04]*.
-- **Customers whose behaviour did not match their tier behaved like their tier in 2026.** Under-tiered Silver customers spent ₹5,420 each, close to other Silver customers. Quiet Platinum customers came back and lapsed *less* than other Platinum customers (16.4% against 20.1%) *[NB04]*.
+- **Tier** tracks **spend (ρ = +0.764)**, not **recency (−0.126)**.
+- **Customers whose behaviour did not match their tier behaved like their tier in 2026.** Under-tiered Silver customers spent ₹5,420 each, close to other Silver customers. Quiet Platinum customers came back and lapsed *less* than other Platinum customers (16.4% against 20.1%).
 - On this evidence the tier programme is rewarding the right people: tier is a better guide to the next six months than past behaviour.
 
 ### Are coupons worth it? *(Objective 4)*
@@ -136,15 +136,15 @@ Shared rules (valid order statuses, time windows, feature definitions) live in [
 <img src="04_report/figures/nb05_coupon_persistence.png" width="650">
 </p>
 
-- **Coupon orders are only 1.5% larger** than the same customer's other orders, and **coupon users lapse at the same rate** as non-users once tier and order count are accounted for *[NB05]*.
-- **Coupon use is not a habit.** Customers who used coupons on more than half their orders in 2024–25 used them on about 20% in 2026, the same as everyone else *[NB05]*.
-- **`SAVE10` (10% off) is 97.0% of coupon cost**, and 73.2% of that falls on Electronics orders. One order received a ₹41,092 discount *[NB05]*.
+- Coupon orders are only **1.5% larger** than the same customers' other orders, and **coupon users lapse at the same rate** as non-users once tier and order count are accounted for.
+- **Coupon use is not a habit.** Customers who used coupons on more than half their orders in 2024–25 used them on about 20% in 2026, the same as everyone else.
+- **`SAVE10` (10% off) is 97.0% of coupon cost**, and 73.2% of that falls on Electronics orders. One order received a ₹41,092 discount.
 
 ### Who can reduce the Electronics dependence? *(Objective 5)*
 
-- **4,992 Electronics-led customers (12.5%) hold ₹1,192.2 M (22.4%) of revenue**, and 93.7% of them are Platinum. They lapse no more often than mixed customers in the same tier *[NB05]*.
-- **Sports is the best next category.** Electronics buyers buy Home *less* often than chance (lift 0.63) *[NB05]*.
-- **The opportunity is small:** ₹2.0–8.2 M at 5%–20% take-up, because an Electronics order is worth about four times a Sports order *[NB05]*.
+- **4,992 Electronics-led customers (12.5%) hold ₹1,192.2 M (22.4%) of revenue**, and 93.7% of them are Platinum. They lapse no more often than mixed customers in the same tier.
+- **Sports is the best next category.** Electronics buyers buy Home *less* often than chance (lift 0.63).
+- **The opportunity is small:** ₹2.0–8.2 M at 5%–20% take-up, because an Electronics order is worth about four times a Sports order.
 
 ### Where should the next rupee go? *(Objective 6)*
 
@@ -158,25 +158,25 @@ The full [segment playbook](04_report/segment_playbook.md) gives each segment a 
 <summary><b>View more charts</b> (RFM grid, choosing k, PCA map, lapse by tier and segment, coupon cost, category lift)</summary>
 <br>
 
-**RFM grid** *[NB02]*
+**RFM grid** from [`02_rfm_baseline.ipynb`](03_analysis/02_rfm_baseline.ipynb)
 <img src="04_report/figures/nb02_rfm_grid.png" width="700">
 
-**Choosing the number of clusters** *[NB03]*
+**Choosing the number of clusters** from[`03_kmeans_segmentation.ipynb`](03_analysis/03_kmeans_segmentation.ipynb)
 <img src="04_report/figures/nb03_choosing_k.png" width="900">
 
-**The segments on two PCA dimensions** *[NB03]*
+**The segments on two PCA dimensions** from [`03_kmeans_segmentation.ipynb`](03_analysis/03_kmeans_segmentation.ipynb)
 <img src="04_report/figures/nb03_pca_map.png" width="900">
 
-**Lapse rate by segment within each tier** *[NB04]*
+**Lapse rate by segment within each tier** from [`04_validation_tier_and_holdout.ipynb`](03_analysis/04_validation_tier_and_holdout.ipynb)
 <img src="04_report/figures/nb04_lapse_by_tier_and_segment.png" width="900">
 
-**Revenue and customers by segment and tier** *[NB04]*
+**Revenue and customers by segment and tier** from [`04_validation_tier_and_holdout.ipynb`](03_analysis/04_validation_tier_and_holdout.ipynb)
 <img src="04_report/figures/nb04_tier_matrix.png" width="650">
 
-**Coupon cost by segment** *[NB05]*
+**Coupon cost by segment** *from [`05_coupons_and_cross_sell.ipynb`](03_analysis/05_coupons_and_cross_sell.ipynb)
 <img src="04_report/figures/nb05_coupon_cost_by_segment.png" width="900">
 
-**Which categories share a customer** *[NB05]*
+**Which categories share a customer** from [`05_coupons_and_cross_sell.ipynb`](03_analysis/05_coupons_and_cross_sell.ipynb)
 <img src="04_report/figures/nb05_category_lift.png" width="600">
 
 </details>
@@ -185,24 +185,24 @@ The full [segment playbook](04_report/segment_playbook.md) gives each segment a 
 
 | # | Business question | Insight | Recommended action |
 |---|---|---|---|
-| 1 | Where should retention money go? | Three segments, almost all Platinum, hold ₹208.0 M of the ₹261.2 M at risk *[NB06]* | **Protect them with service, not discounts:** priority service, early access to launches and recognition |
-| 2 | Are coupons worth what they cost? | Coupons do not raise basket size or retention, and `SAVE10` is 97% of their cost *[NB05]* | **Cap `SAVE10` at ₹1,000** for a random half of customers, then roll out if spend holds (about ₹9.7 M saved per six months) |
-| 3 | Should we win back quiet customers? | Recency does not predict lapse, and quiet Platinum customers came back on their own *[NB04]* | **Drop recency-triggered win-back.** Send one low-cost reminder to half of the 4,058 low-activity Platinum customers and measure the difference |
-| 4 | Who can we cross-sell to? | 3,302 Electronics-led customers have room to add a category; Sports adds the most expected value *[NB05]* | **Run a Sports-first cross-sell trial**, judged against the 16.1% who add Sports without a campaign |
-| 5 | Should we change the tiers? | Under-tiered customers spent like their own tier in 2026 *[NB04]* | **Keep the tier rules.** Test an upgrade incentive on a random half of the 1,858 candidates before changing anything |
+| 1 | Where should retention money go? | Three segments, almost all Platinum, hold ₹208.0 M of the ₹261.2 M at risk | **Protect them with service, not discounts:** priority service, early access to launches and recognition |
+| 2 | Are coupons worth what they cost? | Coupons do not raise basket size or retention, and `SAVE10` is 97% of their cost | **Cap `SAVE10` at ₹1,000** for a random half of customers, then roll out if spend holds (about ₹9.7 M saved per six months) |
+| 3 | Should we win back quiet customers? | Recency does not predict lapse, and quiet Platinum customers came back on their own | **Drop recency-triggered win-back.** Send one low-cost reminder to half of the 4,058 low-activity Platinum customers and measure the difference |
+| 4 | Who can we cross-sell to? | 3,302 Electronics-led customers have room to add a category; Sports adds the most expected value | **Run a Sports-first cross-sell trial**, judged against the 16.1% who add Sports without a campaign |
+| 5 | Should we change the tiers? | Under-tiered customers spent like their own tier in 2026 | **Keep the tier rules.** Test an upgrade incentive on a random half of the 1,858 candidates before changing anything |
 
-Every action is framed as a **controlled trial**. NB06 sizes each one: the `SAVE10` cap trial could detect a 1.2-point change in lapse rate, and the smallest list-based trial a 6.1-point change *[NB06]*. The customer file [`customer_segments.csv`](01_data/output/customer_segments.csv) carries each customer's segment, scores, expected lapse probability, action and list flags, ready for a CRM.
+Every action is framed as a **controlled trial**. NB06 sizes each one: the `SAVE10` cap trial could detect a 1.2-point change in lapse rate, and the smallest list-based trial a 6.1-point change. The customer file [`customer_segments.csv`](01_data/output/customer_segments.csv) carries each customer's segment, scores, expected lapse probability, action and list flags, ready for a CRM.
 
 ## 6. What this changes from the first project
 
 | First project's recommendation *[Report §4]* | What this project found | Status |
 |---|---|---|
-| Win second orders from one-time buyers | 99.1% of Jan–Jun 2026 one-time buyers had ordered before; only 117 were genuinely new *[NB01]* | **Revised:** the issue is established customers buying less often, not missing second orders |
-| Protect Platinum, move Silver and Gold up | Tier predicts the next six months better than behaviour; under-tiered customers spent like their tier *[NB04]* | **Protect confirmed; upgrades as a trial only** |
-| Cross-sell Home and Sports to Electronics buyers | Sports is supported, Home is not (lift 0.63), and the total opportunity is small *[NB05]* | **Revised:** Sports first, as a trial |
+| Win second orders from one-time buyers | 99.1% of Jan–Jun 2026 one-time buyers had ordered before; only 117 were genuinely new | **Revised:** the issue is established customers buying less often, not missing second orders |
+| Protect Platinum, move Silver and Gold up | Tier predicts the next six months better than behaviour; under-tiered customers spent like their tier | **Protect confirmed; upgrades as a trial only** |
+| Cross-sell Home and Sports to Electronics buyers | Sports is supported, Home is not (lift 0.63), and the total opportunity is small | **Revised:** Sports first, as a trial |
 
 > **Notes on scope**
-> - **Likely synthetic data.** The first project noted very even distributions *[Report §5]*. This project found more signs: lapse matches random ordering, coupon use behaves like chance on each order, and customers' categories follow four fixed patterns *[NB04, NB05]*. On real data, recency and coupon habits would very likely matter more. The method (test segments on later behaviour before acting on them) would still apply.
+> - **Likely synthetic data.** The first project noted very even distributions *[Report §5]*. This project found more signs: lapse matches random ordering, coupon use behaves like chance on each order, and customers' categories follow four fixed patterns. On real data, recency and coupon habits would very likely matter more. The method (test segments on later behaviour before acting on them) would still apply.
 > - **Revenue, not profit.** There is no cost-of-goods data.
 > - **Associations, not proof of cause.** This is why each recommendation is a controlled trial.
 
