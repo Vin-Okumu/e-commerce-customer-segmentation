@@ -26,15 +26,15 @@ This is the follow-up to **[E-Commerce Sales Analytics](https://github.com/Vin-O
 
 | Metric | Value | What it tells management |
 |---|---|---|
-| Customer segments | **7**, from K-means on 7 behavioural features | A shared language for marketing, CRM and leadership *[NB03]* |
-| Top 3 segments | **54.7%** of customers, **79.3%** of revenue | Value is concentrated in Platinum-heavy, Electronics-heavy groups *[NB03]* |
-| Revenue at risk, Jul–Dec 2026 | **₹261.2 M** expected, **79.6%** of it in the top 3 segments | Protecting the top three is where the next rupee belongs *[NB06]* |
-| Predicting who stops buying | Recency, RFM and K-means: **AUC ≈ 0.50** (chance). Tier × segment: **0.606** | Recency-based win-back campaigns would not have found the customers who left *[NB04]* |
-| Coupons | **+1.5%** order value, **no** effect on retention | Coupons subsidise customers who would buy anyway *[NB05]* |
+| Customer segments | **7**, from K-means on 7 behavioural features | A shared language for marketing, CRM and leadership |
+| Top 3 segments | **54.7%** of customers, **79.3%** of revenue | Value is concentrated in Platinum-heavy, Electronics-heavy groups |
+| Revenue at risk, Jul–Dec 2026 | **₹261.2 M** expected, **79.6%** of it in the top 3 segments | Protecting the top three is where the next rupee belongs |
+| Predicting who stops buying | Recency, RFM and K-means: **AUC ≈ 0.50** (chance). Tier × segment: **0.606** | Recency-based win-back campaigns would not have found the customers who left |
+| Coupons | **+1.5%** order value, **no** effect on retention | Coupons subsidise customers who would buy anyway |
 | `SAVE10` capped at ₹1,000 | About **₹9.7 M** saved per six months | One pricing rule removes most coupon cost *[NB05, NB06]* |
-| Cross-sell (Sports first) | **₹2.0–8.2 M** at 5%–20% take-up | Worth a trial, but cross-selling cannot fix the Electronics dependence *[NB05]* |
+| Cross-sell (Sports first) | **₹2.0–8.2 M** at 5%–20% take-up | Worth a trial, but cross-selling cannot fix the Electronics dependence |
 
-Source tags such as *[NB04]* point to the notebook that calculates each figure. *[Report §x]* points to the [first project's report](https://github.com/Vin-Okumu/e-commerce-sales-analytics/blob/main/02_documentation/analysis_report.md).
+Source tags such as *[Report §x]* points to the [first project's report](https://github.com/Vin-Okumu/e-commerce-sales-analytics/blob/main/02_documentation/analysis_report.md).
 
 ---
 
@@ -46,12 +46,12 @@ The first project left these questions open. They are framed as six executive qu
 
 | # | Executive question | Objective | Notebook |
 |---|---|---|---|
-| 1 | "Beyond Silver, Gold and Platinum, who are our customers really?" | Build a behaviour-based segmentation | NB02, NB03 |
-| 2 | "Is our tier programme rewarding the right people?" | Test the loyalty tiers against real behaviour | NB04 |
-| 3 | "Who is slipping away, how much revenue goes with them, and do customers get more valuable over time?" | Measure lapse risk and the revenue tied to it | NB04 |
-| 4 | "Are coupons building loyalty, or subsidising people who would buy anyway?" | Judge whether coupons are worth what they cost | NB05 |
-| 5 | "Which customers can help us depend less on Electronics?" | Find who can reduce the Electronics dependence | NB05 |
-| 6 | "Where should the next rupee of retention and marketing spend go?" | Turn the segments into an action plan | NB06 |
+| 1 | "Beyond Silver, Gold and Platinum, who are our customers really?" | Build a behaviour-based segmentation | [`02_rfm_baseline.ipynb`](03_analysis/02_rfm_baseline.ipynb), [`03_kmeans_segmentation.ipynb`](03_analysis/03_kmeans_segmentation.ipynb) |
+| 2 | "Is our tier programme rewarding the right people?" | Test the loyalty tiers against real behaviour | [`04_validation_tier_and_holdout.ipynb`](03_analysis/04_validation_tier_and_holdout.ipynb) |
+| 3 | "Who is slipping away, how much revenue goes with them, and do customers get more valuable over time?" | Measure lapse risk and the revenue tied to it | [`04_validation_tier_and_holdout.ipynb`](03_analysis/04_validation_tier_and_holdout.ipynb) |
+| 4 | "Are coupons building loyalty, or subsidising people who would buy anyway?" | Judge whether coupons are worth what they cost | [`05_coupons_and_cross_sell.ipynb`](03_analysis/05_coupons_and_cross_sell.ipynb) |
+| 5 | "Which customers can help us depend less on Electronics?" | Find who can reduce the Electronics dependence | [`05_coupons_and_cross_sell.ipynb`](03_analysis/05_coupons_and_cross_sell.ipynb) |
+| 6 | "Where should the next rupee of retention and marketing spend go?" | Turn the segments into an action plan | [`06_segment_playbook.ipynb`](03_analysis/06_segment_playbook.ipynb) |
 
 ## 2. The data
 
@@ -120,7 +120,7 @@ Shared rules (valid order statuses, time windows, feature definitions) live in [
 </p>
 
 - 22.9% of customers placed no order in Jan–Jun 2026, and **every segment lapsed at about that rate (22%–24%)**.
-- Recency, RFM and K-means segments **could not predict who would lapse** (AUC 0.495–0.502), but the loyalty tier could (0.570), and tier combined with segment did best (0.606) *[NB04]*.
+- Recency, RFM and K-means segments **could not predict who would lapse** (AUC 0.495–0.502), but the loyalty tier could (0.570), and tier combined with segment did best (0.606).
 - **No gap length marks a lapse:** Customers who had not ordered for over 209 days lapsed at 22.0%, against 23.1% for everyone else.
 - **Value neither builds nor fades with tenure:** Spend per registered customer is flat across the 12 registration cohorts.
 
