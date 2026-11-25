@@ -1,0 +1,1859 @@
+customer_id,customer_tier,kmeans_segment,rfm_segment,r_score,recency_days,frequency,aov,monetary
+CUST00012149,Gold,Big-ticket Electronics buyers,Loyal,3,92,4,118284.3525,473137.41
+CUST00013567,Silver,Coupon-led buyers,Champions,4,48,6,61131.87333333333,366791.24
+CUST00005932,Gold,Coupon-led buyers,Champions,4,56,5,71833.824,359169.12
+CUST00037316,Silver,Big-ticket Electronics buyers,Loyal,4,33,4,85713.8375,342855.35
+CUST00025953,Gold,Core high-value regulars,Champions,4,52,6,56265.67833333334,337594.07
+CUST00016146,Gold,Core high-value regulars,Loyal,3,65,7,44799.91285714286,313599.39
+CUST00037728,Gold,Big-ticket Electronics buyers,Loyal,3,98,5,61800.28400000001,309001.42000000004
+CUST00018805,Gold,Big-ticket Electronics buyers,At risk,2,193,5,60532.504,302662.52
+CUST00036803,Gold,Coupon-led buyers,Champions,4,41,5,60181.46800000001,300907.34
+CUST00039391,Gold,Core high-value regulars,Loyal,3,84,6,50101.89833333334,300611.39
+CUST00016800,Gold,Big-ticket Electronics buyers,Loyal,4,55,4,74118.36,296473.44
+CUST00006268,Silver,Coupon-led buyers,Champions,5,2,8,36739.38125,293915.05
+CUST00037176,Gold,Coupon-led buyers,At risk,1,277,9,31759.86333333333,285838.77
+CUST00035591,Gold,Coupon-led buyers,At risk,2,120,8,35648.16375,285185.31
+CUST00006226,Gold,Core high-value regulars,Champions,4,47,6,47139.88166666666,282839.29
+CUST00008022,Silver,Core high-value regulars,Loyal,3,84,9,31235.59888888889,281120.39
+CUST00007124,Gold,Coupon-led buyers,Loyal,3,71,6,46458.97,278753.82
+CUST00012784,Gold,Core high-value regulars,Loyal,3,98,6,44667.4,268004.4
+CUST00034609,Silver,Big-ticket Electronics buyers,Loyal,5,22,4,66541.945,266167.78
+CUST00017025,Silver,Core high-value regulars,Champions,4,42,8,33267.8575,266142.86
+CUST00008382,Silver,Core high-value regulars,Loyal,3,66,7,37795.99428571428,264571.96
+CUST00019312,Gold,Core high-value regulars,At risk,2,159,5,52448.45599999999,262242.28
+CUST00005477,Gold,Coupon-led buyers,Champions,5,6,7,37209.02428571428,260463.17
+CUST00037514,Gold,Big-ticket Electronics buyers,About to sleep,2,171,3,86488.42666666667,259465.28
+CUST00006968,Gold,Core high-value regulars,At risk,2,136,5,51013.578,255067.89
+CUST00033710,Gold,Core high-value regulars,Loyal,3,87,7,36276.74857142857,253937.24
+CUST00019019,Gold,Core high-value regulars,Champions,5,24,6,41472.536666666674,248835.22000000003
+CUST00014440,Silver,Big-ticket Electronics buyers,Champions,5,14,5,49546.938,247734.69
+CUST00019045,Silver,Big-ticket Electronics buyers,Champions,4,58,5,49439.392,247196.96
+CUST00032670,Gold,Big-ticket Electronics buyers,Champions,4,48,5,49218.58,246092.9
+CUST00021618,Silver,Big-ticket Electronics buyers,About to sleep,2,191,4,61343.185,245372.74
+CUST00017464,Gold,Big-ticket Electronics buyers,Loyal,4,40,4,61134.52,244538.08
+CUST00025383,Gold,Big-ticket Electronics buyers,Champions,5,20,6,40269.16666666666,241615.0
+CUST00018767,Silver,Core high-value regulars,Champions,5,13,5,48316.212,241581.06
+CUST00025644,Gold,Big-ticket Electronics buyers,About to sleep,1,225,2,120676.355,241352.71
+CUST00010396,Gold,Coupon-led buyers,Champions,5,18,6,40218.37833333333,241310.27
+CUST00031133,Gold,Core high-value regulars,About to sleep,2,158,4,60098.9275,240395.71
+CUST00037299,Gold,Coupon-led buyers,Champions,4,45,8,29795.73125,238365.85
+CUST00009412,Gold,Big-ticket Electronics buyers,Loyal,5,18,4,59310.2675,237241.07
+CUST00012693,Gold,Coupon-led buyers,Loyal,5,3,4,59124.955,236499.82
+CUST00000861,Gold,Core high-value regulars,At risk,2,126,5,47213.256,236066.28
+CUST00027784,Gold,Core high-value regulars,Champions,5,19,9,26121.974444444444,235097.77
+CUST00023385,Silver,Coupon-led buyers,Loyal,5,9,4,58464.86,233859.44
+CUST00015142,Silver,Core high-value regulars,Champions,5,4,5,46743.404,233717.02
+CUST00039723,Silver,Big-ticket Electronics buyers,About to sleep,2,141,4,58289.445,233157.78
+CUST00036462,Gold,Core high-value regulars,Champions,5,5,5,46397.25,231986.25
+CUST00022285,Silver,Coupon-led buyers,Champions,4,42,6,38105.575,228633.45
+CUST00030622,Silver,Core high-value regulars,Loyal,3,71,5,45438.83,227194.15
+CUST00010159,Gold,Core high-value regulars,Champions,4,49,6,37613.488333333335,225680.93
+CUST00032151,Gold,Coupon-led buyers,At risk,1,220,5,44865.558000000005,224327.79000000004
+CUST00035063,Gold,Core high-value regulars,Loyal,3,73,10,22405.976,224059.76
+CUST00027676,Gold,Core high-value regulars,At risk,2,170,5,44693.658,223468.29
+CUST00007969,Silver,Core high-value regulars,Champions,4,62,7,31585.834285714285,221100.84
+CUST00029116,Gold,Core high-value regulars,Champions,5,0,10,22093.927,220939.27
+CUST00031411,Gold,Core high-value regulars,Loyal,4,38,4,54738.8325,218955.33
+CUST00022327,Gold,Big-ticket Electronics buyers,At risk,2,137,5,43720.41,218602.05
+CUST00012862,Silver,Core high-value regulars,At risk,2,116,6,36357.01,218142.06
+CUST00036424,Gold,Core high-value regulars,Champions,4,62,6,36150.27833333333,216901.67
+CUST00002606,Gold,Core high-value regulars,Champions,5,27,6,35476.67166666667,212860.03
+CUST00017046,Gold,Big-ticket Electronics buyers,Loyal,5,8,5,42245.648,211228.24
+CUST00010047,Gold,Core high-value regulars,Loyal,5,12,5,42105.464,210527.32
+CUST00023324,Gold,Coupon-led buyers,About to sleep,1,274,5,41802.094000000005,209010.47000000003
+CUST00013883,Silver,Core high-value regulars,About to sleep,2,118,5,41653.764,208268.82
+CUST00005475,Gold,Core high-value regulars,Loyal,4,49,5,41494.124,207470.62
+CUST00039717,Gold,Coupon-led buyers,Champions,4,52,6,34499.045,206994.27
+CUST00026927,Silver,Big-ticket Electronics buyers,Loyal,4,38,4,51447.42,205789.68
+CUST00025410,Gold,Coupon-led buyers,Champions,4,49,7,29345.66,205419.62
+CUST00026030,Gold,Big-ticket Electronics buyers,Loyal,4,40,4,51333.8275,205335.31
+CUST00027504,Gold,Core high-value regulars,Champions,5,14,6,34148.09333333333,204888.56
+CUST00022671,Gold,Core high-value regulars,Champions,5,17,7,29084.35571428572,203590.49
+CUST00033307,Gold,Coupon-led buyers,Loyal,3,79,7,28732.62285714286,201128.36
+CUST00028625,Gold,Coupon-led buyers,About to sleep,2,193,5,39829.686,199148.43
+CUST00006604,Gold,Core high-value regulars,Champions,4,40,9,21971.81777777777,197746.36
+CUST00025656,Gold,Coupon-led buyers,Champions,4,46,7,28247.17714285714,197730.24
+CUST00014965,Gold,Core high-value regulars,Loyal,5,19,4,48941.4625,195765.85
+CUST00021261,Silver,Big-ticket Electronics buyers,Loyal,5,5,4,48551.5025,194206.01
+CUST00016143,Silver,Core high-value regulars,Loyal,4,39,5,38723.708,193618.54
+CUST00007630,Silver,Core high-value regulars,Loyal,3,82,4,48053.76,192215.04
+CUST00019929,Gold,Core high-value regulars,Loyal,4,56,4,47968.295,191873.18
+CUST00008141,Gold,Core high-value regulars,Loyal,5,2,4,47340.23,189360.92
+CUST00006120,Gold,Core high-value regulars,Loyal,3,63,6,31513.963333333333,189083.78
+CUST00002036,Gold,Big-ticket Electronics buyers,Loyal,5,1,3,62574.40333333333,187723.21
+CUST00026088,Silver,Big-ticket Electronics buyers,Loyal,4,59,4,46923.36,187693.44
+CUST00020432,Gold,Coupon-led buyers,Champions,5,20,8,23397.44125,187179.53
+CUST00038452,Silver,Coupon-led buyers,Loyal,3,108,3,62287.09666666666,186861.29
+CUST00026263,Gold,Core high-value regulars,At risk,2,126,9,20610.19555555556,185491.76
+CUST00033674,Gold,Core high-value regulars,Loyal,3,99,7,26430.268571428573,185011.88
+CUST00013808,Gold,Core high-value regulars,Loyal,5,6,5,36974.806,184874.03
+CUST00020334,Gold,Coupon-led buyers,Champions,5,2,9,20439.987777777777,183959.89
+CUST00021503,Gold,Big-ticket Electronics buyers,Loyal,3,64,4,45917.2025,183668.81
+CUST00006207,Silver,Big-ticket Electronics buyers,About to sleep,2,162,4,45576.5575,182306.23
+CUST00005847,Gold,Coupon-led buyers,Champions,5,1,8,22711.99875,181695.99
+CUST00023646,Gold,Core high-value regulars,Champions,5,1,6,30267.908333333336,181607.45
+CUST00037048,Gold,Big-ticket Electronics buyers,About to sleep,2,113,4,45339.5525,181358.21
+CUST00023630,Gold,Core high-value regulars,Loyal,5,12,5,35962.028,179810.13999999998
+CUST00005510,Gold,Coupon-led buyers,About to sleep,1,388,4,44850.285,179401.13999999998
+CUST00019096,Gold,Big-ticket Electronics buyers,Loyal,4,38,4,44799.8775,179199.50999999998
+CUST00026461,Gold,Core high-value regulars,Champions,5,6,8,22219.73875,177757.90999999997
+CUST00017809,Gold,Big-ticket Electronics buyers,About to sleep,2,120,3,59229.19333333332,177687.57999999996
+CUST00011817,Silver,Big-ticket Electronics buyers,Loyal,3,106,4,44378.1525,177512.61
+CUST00021282,Gold,Coupon-led buyers,Loyal,4,43,5,35448.9,177244.5
+CUST00029128,Gold,Coupon-led buyers,At risk,2,134,6,29480.88833333333,176885.33
+CUST00015810,Gold,Core high-value regulars,Champions,4,43,8,22055.30125,176442.41
+CUST00037298,Gold,Core high-value regulars,Champions,5,22,6,29344.88,176069.28
+CUST00025341,Gold,Big-ticket Electronics buyers,Loyal,4,54,3,58610.29666666666,175830.88999999998
+CUST00008912,Gold,Core high-value regulars,Loyal,3,80,9,19493.800000000003,175444.2
+CUST00018809,Gold,Coupon-led buyers,At risk,2,168,8,21875.19375,175001.55000000002
+CUST00029930,Gold,Coupon-led buyers,Loyal,5,12,5,34799.756,173998.78
+CUST00004320,Gold,Core high-value regulars,Champions,5,20,7,24762.542857142857,173337.8
+CUST00028821,Gold,Core high-value regulars,Champions,5,10,7,24740.45714285714,173183.19999999998
+CUST00005184,Gold,Coupon-led buyers,Loyal,3,97,7,24716.27857142857,173013.95
+CUST00014362,Gold,Core high-value regulars,Loyal,4,51,4,42732.76,170931.03999999998
+CUST00013311,Silver,Core high-value regulars,Champions,4,40,7,24387.67142857143,170713.7
+CUST00005405,Gold,Core high-value regulars,At risk,2,127,6,28404.421666666665,170426.53
+CUST00028609,Gold,Coupon-led buyers,Champions,4,42,6,28278.806666666667,169672.84
+CUST00003207,Gold,Core high-value regulars,Champions,5,6,7,24102.390000000003,168716.73
+CUST00017320,Gold,Big-ticket Electronics buyers,About to sleep,2,127,2,84095.52500000001,168191.05000000002
+CUST00035552,Gold,Coupon-led buyers,About to sleep,2,132,4,41964.6725,167858.69
+CUST00034706,Gold,Core high-value regulars,About to sleep,2,132,5,33565.14,167825.7
+CUST00039350,Silver,Coupon-led buyers,Loyal,3,103,5,33532.412,167662.06
+CUST00013715,Gold,Coupon-led buyers,At risk,2,174,8,20885.015,167080.12
+CUST00013045,Gold,Core high-value regulars,Loyal,3,107,5,33366.638,166833.19
+CUST00021152,Gold,Big-ticket Electronics buyers,About to sleep,1,221,3,55290.63666666666,165871.90999999997
+CUST00028034,Gold,Big-ticket Electronics buyers,About to sleep,1,235,5,33069.644,165348.22
+CUST00023627,Gold,Core high-value regulars,At risk,2,134,7,23601.737142857142,165212.16
+CUST00004343,Gold,Core high-value regulars,At risk,2,168,7,23568.054285714286,164976.38
+CUST00032550,Gold,Big-ticket Electronics buyers,Loyal,3,101,5,32981.716,164908.58
+CUST00026756,Silver,Big-ticket Electronics buyers,Loyal,4,53,2,82309.71,164619.42
+CUST00021239,Gold,Big-ticket Electronics buyers,Loyal,4,60,5,32865.294,164326.47
+CUST00011474,Gold,Coupon-led buyers,Loyal,4,53,5,32793.974,163969.87
+CUST00009442,Silver,Big-ticket Electronics buyers,About to sleep,2,184,3,54552.50999999999,163657.52999999997
+CUST00014971,Gold,Coupon-led buyers,Loyal,3,70,5,32663.266,163316.33
+CUST00017008,Gold,Core high-value regulars,At risk,2,170,6,27172.51,163035.06
+CUST00036005,Gold,Coupon-led buyers,Loyal,5,5,5,32561.56,162807.8
+CUST00013118,Gold,Core high-value regulars,Champions,5,23,7,23185.88285714286,162301.18000000002
+CUST00026191,Silver,Coupon-led buyers,Loyal,3,92,4,40521.07,162084.28
+CUST00024760,Gold,Big-ticket Electronics buyers,Loyal,3,65,5,32294.824,161474.12
+CUST00027841,Gold,Coupon-led buyers,Loyal,3,99,7,23032.96285714285,161230.74
+CUST00006594,Gold,Core high-value regulars,Loyal,3,111,5,32242.304,161211.52
+CUST00033976,Gold,Coupon-led buyers,At risk,2,175,7,23026.754285714287,161187.28
+CUST00023493,Silver,Core high-value regulars,Loyal,3,82,4,40263.8775,161055.50999999998
+CUST00034386,Silver,Big-ticket Electronics buyers,Loyal,5,10,5,32045.644,160228.22
+CUST00023922,Silver,Coupon-led buyers,At risk,1,200,6,26685.046666666676,160110.28000000003
+CUST00001067,Gold,Core high-value regulars,Champions,5,16,6,26658.908333333336,159953.45
+CUST00002308,Gold,Big-ticket Electronics buyers,About to sleep,1,233,4,39957.76,159831.04
+CUST00021763,Gold,Core high-value regulars,Loyal,5,21,5,31875.83,159379.15
+CUST00034406,Silver,Big-ticket Electronics buyers,Loyal,4,57,3,53063.4,159190.2
+CUST00014733,Gold,Coupon-led buyers,Champions,5,6,9,17598.483333333334,158386.35
+CUST00037239,Gold,Core high-value regulars,Loyal,4,55,4,39553.5475,158214.19
+CUST00004297,Gold,Big-ticket Electronics buyers,Loyal,4,34,4,39519.61,158078.44
+CUST00019395,Gold,Big-ticket Electronics buyers,Loyal,3,73,5,31404.224,157021.12
+CUST00006319,Silver,Big-ticket Electronics buyers,About to sleep,1,223,4,39224.67,156898.68
+CUST00021574,Silver,Big-ticket Electronics buyers,Loyal,4,62,3,52262.81333333333,156788.44
+CUST00018732,Gold,Coupon-led buyers,Loyal,3,87,7,22379.74142857143,156658.19
+CUST00027157,Gold,Coupon-led buyers,Loyal,3,104,8,19233.50375,153868.03
+CUST00005281,Silver,Big-ticket Electronics buyers,Loyal,5,12,5,30704.376,153521.88
+CUST00024446,Gold,Core high-value regulars,Loyal,3,79,7,21922.80285714285,153459.62
+CUST00027973,Gold,Core high-value regulars,About to sleep,2,133,5,30688.094,153440.47
+CUST00024023,Gold,Core high-value regulars,At risk,2,143,7,21901.79857142857,153312.59
+CUST00021617,Gold,Core high-value regulars,Champions,5,25,8,19113.06875,152904.55
+CUST00013964,Silver,Big-ticket Electronics buyers,About to sleep,2,162,3,50816.81333333333,152450.44
+CUST00031104,Gold,Core high-value regulars,About to sleep,2,133,5,30383.948,151919.74
+CUST00023185,Gold,Core high-value regulars,Loyal,3,67,5,30356.866,151784.33000000002
+CUST00008156,Gold,Coupon-led buyers,About to sleep,1,316,5,30346.514000000003,151732.57
+CUST00025006,Silver,Big-ticket Electronics buyers,About to sleep,2,174,4,37729.22,150916.88
+CUST00002048,Gold,Coupon-led buyers,Champions,5,11,8,18704.37375,149634.99
+CUST00008403,Silver,Big-ticket Electronics buyers,About to sleep,2,115,2,74675.12000000001,149350.24000000002
+CUST00019486,Gold,Core high-value regulars,Loyal,4,62,5,29806.308,149031.54
+CUST00019662,Silver,Big-ticket Electronics buyers,Loyal,4,45,1,148991.97,148991.97
+CUST00038998,Gold,Coupon-led buyers,About to sleep,1,250,5,29775.03,148875.15
+CUST00000912,Silver,Big-ticket Electronics buyers,About to sleep,2,179,4,36740.035,146960.13999999998
+CUST00016779,Silver,Big-ticket Electronics buyers,About to sleep,2,136,5,29307.74,146538.7
+CUST00001916,Gold,Big-ticket Electronics buyers,About to sleep,1,208,2,73089.955,146179.91
+CUST00037902,Silver,Core high-value regulars,Loyal,3,80,3,48672.32333333333,146016.97
+CUST00030395,Gold,Core high-value regulars,Loyal,4,52,5,29179.876,145899.38
+CUST00011114,Gold,Big-ticket Electronics buyers,Loyal,5,16,3,48416.25666666666,145248.77
+CUST00011025,Gold,Big-ticket Electronics buyers,Loyal,3,106,4,36294.68,145178.72
+CUST00011931,Gold,Core high-value regulars,About to sleep,2,168,5,29025.352000000003,145126.76
+CUST00016436,Gold,Big-ticket Electronics buyers,Loyal,4,60,4,36095.6925,144382.77
+CUST00000386,Gold,Big-ticket Electronics buyers,About to sleep,1,217,2,72143.205,144286.41
+CUST00002977,Silver,Coupon-led buyers,At risk,2,150,7,20611.297142857144,144279.08000000002
+CUST00028667,Silver,Core high-value regulars,At risk,2,157,6,23978.459999999995,143870.75999999998
+CUST00027074,Silver,Coupon-led buyers,Loyal,3,66,3,47952.786666666674,143858.36000000002
+CUST00024577,Silver,Core high-value regulars,Champions,5,27,6,23949.956666666665,143699.74
+CUST00009356,Silver,Big-ticket Electronics buyers,Loyal,3,70,2,71545.36,143090.72
+CUST00016568,Gold,Coupon-led buyers,About to sleep,1,202,5,28419.532,142097.66
+CUST00006886,Gold,Core high-value regulars,Loyal,3,81,5,28347.028,141735.14
+CUST00030118,Silver,Core high-value regulars,Champions,4,47,9,15738.034444444444,141642.31
+CUST00016409,Gold,Core high-value regulars,Champions,5,27,9,15722.90222222222,141506.12
+CUST00002527,Gold,Coupon-led buyers,About to sleep,2,130,4,35325.005,141300.02
+CUST00003155,Gold,Core high-value regulars,At risk,2,119,7,20120.11,140840.77
+CUST00015996,Gold,Core high-value regulars,Loyal,3,82,6,23465.00833333333,140790.05
+CUST00028599,Gold,Coupon-led buyers,Loyal,4,56,3,46915.13333333333,140745.4
+CUST00008840,Gold,Coupon-led buyers,Loyal,3,105,7,20017.53285714285,140122.72999999998
+CUST00019766,Silver,Coupon-led buyers,Champions,4,59,7,19993.82285714286,139956.76
+CUST00029862,Gold,Coupon-led buyers,About to sleep,1,238,4,34964.215,139856.86
+CUST00023362,Gold,Big-ticket Electronics buyers,Loyal,3,71,3,46542.04666666666,139626.13999999998
+CUST00034113,Gold,Coupon-led buyers,About to sleep,2,120,4,34869.4225,139477.69
+CUST00039092,Silver,Coupon-led buyers,About to sleep,2,134,3,46422.44333333333,139267.33
+CUST00000297,Gold,Core high-value regulars,Loyal,3,72,7,19871.557142857146,139100.9
+CUST00013072,Gold,Core high-value regulars,About to sleep,2,117,5,27810.93,139054.65
+CUST00027590,Gold,Core high-value regulars,About to sleep,2,125,4,34754.79,139019.16
+CUST00036647,Gold,Core high-value regulars,Loyal,3,87,7,19828.59,138800.13
+CUST00002744,Gold,Big-ticket Electronics buyers,Champions,5,6,6,23104.56,138627.36
+CUST00007564,Gold,Core high-value regulars,Loyal,3,85,9,15396.658888888887,138569.93
+CUST00014083,Silver,Core high-value regulars,Loyal,5,13,5,27649.143999999997,138245.71999999997
+CUST00036674,Silver,Core high-value regulars,Loyal,3,87,4,34546.845,138187.38
+CUST00033682,Gold,Big-ticket Electronics buyers,About to sleep,2,188,3,45943.57666666667,137830.73
+CUST00030262,Silver,Core high-value regulars,About to sleep,2,122,5,27555.114,137775.57
+CUST00026421,Gold,Core high-value regulars,Champions,4,51,7,19661.355714285717,137629.49
+CUST00000643,Silver,Big-ticket Electronics buyers,Loyal,5,9,3,45703.01333333333,137109.03999999998
+CUST00020010,Gold,Big-ticket Electronics buyers,Loyal,3,106,4,34109.345,136437.38
+CUST00005200,Gold,Core high-value regulars,Loyal,3,97,5,27265.354,136326.77
+CUST00024833,Gold,Core high-value regulars,Loyal,3,82,5,27213.624,136068.12
+CUST00025789,Gold,Core high-value regulars,Champions,5,20,6,22654.24,135925.44
+CUST00011631,Silver,Big-ticket Electronics buyers,About to sleep,1,196,2,67849.86499999999,135699.72999999998
+CUST00028699,Silver,Core high-value regulars,Champions,4,36,7,19275.844285714287,134930.91
+CUST00011016,Silver,Big-ticket Electronics buyers,About to sleep,2,159,3,44818.75333333333,134456.25999999998
+CUST00013908,Gold,Coupon-led buyers,Champions,4,31,7,19177.12428571429,134239.87
+CUST00004329,Gold,Core high-value regulars,Champions,4,39,8,16747.12625,133977.01
+CUST00008942,Gold,Core high-value regulars,Loyal,3,102,5,26659.052000000003,133295.26
+CUST00021669,Gold,Core high-value regulars,Loyal,3,103,7,18986.81142857143,132907.68
+CUST00017040,Gold,Core high-value regulars,Loyal,5,27,6,22150.165,132900.99
+CUST00009102,Silver,Core high-value regulars,Loyal,5,4,5,26569.232,132846.16
+CUST00006369,Silver,Coupon-led buyers,Needs attention,3,64,4,33192.395,132769.58
+CUST00020897,Gold,Big-ticket Electronics buyers,Hibernating,2,112,4,33117.34,132469.36
+CUST00021512,Gold,Core high-value regulars,About to sleep,2,182,5,26444.782,132223.91
+CUST00007284,Gold,Coupon-led buyers,Loyal,3,63,6,22036.601666666666,132219.61
+CUST00020029,Gold,Coupon-led buyers,Hibernating,2,127,4,33035.7275,132142.91
+CUST00009052,Gold,Core high-value regulars,Loyal,3,69,6,21893.19,131359.13999999998
+CUST00023093,Gold,Core high-value regulars,Loyal,3,103,5,26247.832,131239.16
+CUST00039029,Silver,Big-ticket Electronics buyers,Hibernating,2,130,3,43575.40333333333,130726.21
+CUST00004814,Gold,Coupon-led buyers,Loyal,4,44,5,26125.204,130626.02
+CUST00004749,Gold,Big-ticket Electronics buyers,Recent low spenders,4,42,3,43533.64,130600.92
+CUST00021897,Gold,Core high-value regulars,Loyal,3,67,7,18656.452857142856,130595.17
+CUST00030229,Silver,Core high-value regulars,Hibernating,2,151,4,32645.17,130580.68
+CUST00012227,Gold,Coupon-led buyers,Champions,5,18,7,18650.777142857143,130555.44
+CUST00018958,Gold,Core high-value regulars,Recent low spenders,4,51,4,32617.915,130471.66
+CUST00020714,Silver,Coupon-led buyers,Recent low spenders,4,34,4,32602.9,130411.6
+CUST00020024,Gold,Coupon-led buyers,Loyal,5,14,6,21535.066666666666,129210.4
+CUST00003055,Gold,Big-ticket Electronics buyers,Needs attention,3,67,4,32297.425,129189.69999999998
+CUST00020662,Gold,Coupon-led buyers,Hibernating,1,258,4,32230.722500000003,128922.89
+CUST00033887,Gold,Coupon-led buyers,Hibernating,2,170,4,32199.855,128799.42
+CUST00022777,Silver,Coupon-led buyers,Recent low spenders,5,10,4,32171.7325,128686.93
+CUST00031660,Silver,Core high-value regulars,Champions,4,28,7,18379.45571428572,128656.19
+CUST00023248,Gold,Core high-value regulars,Hibernating,1,196,4,32077.725,128310.9
+CUST00015096,Gold,Core high-value regulars,Loyal,5,21,6,21273.536666666667,127641.22
+CUST00022188,Silver,Big-ticket Electronics buyers,Hibernating,1,204,3,42464.23,127392.69
+CUST00000221,Silver,Core high-value regulars,About to sleep,2,141,6,21216.896666666667,127301.38
+CUST00034826,Gold,Coupon-led buyers,About to sleep,2,194,5,25451.554,127257.77
+CUST00025280,Gold,Core high-value regulars,Champions,5,9,9,14077.304444444444,126695.74
+CUST00016488,Silver,Core high-value regulars,Recent low spenders,4,56,4,31637.235,126548.94
+CUST00032473,Gold,Coupon-led buyers,Loyal,5,16,6,21064.001666666667,126384.01
+CUST00034178,Gold,Big-ticket Electronics buyers,Hibernating,2,135,4,31464.295,125857.18
+CUST00031770,Silver,Core high-value regulars,Loyal,3,86,5,25126.336,125631.68
+CUST00026961,Silver,Core high-value regulars,Recent low spenders,4,37,4,31377.3475,125509.39
+CUST00036423,Gold,Coupon-led buyers,About to sleep,2,141,5,25096.272,125481.36
+CUST00007209,Gold,Big-ticket Electronics buyers,Needs attention,3,111,3,41806.76666666667,125420.3
+CUST00026489,Gold,Big-ticket Electronics buyers,Hibernating,2,145,3,41775.76666666666,125327.3
+CUST00000754,Gold,Core high-value regulars,Loyal,3,77,6,20858.006666666668,125148.04
+CUST00003089,Silver,Big-ticket Electronics buyers,Hibernating,1,325,2,62485.635,124971.27
+CUST00020643,Silver,Core high-value regulars,Loyal,3,97,5,24856.954,124284.77
+CUST00016598,Silver,Core high-value regulars,Loyal,4,46,5,24781.798,123908.99
+CUST00015898,Silver,Coupon-led buyers,About to sleep,1,218,5,24697.63,123488.15
+CUST00006159,Gold,Big-ticket Electronics buyers,Loyal,4,45,5,24697.11,123485.55
+CUST00027426,Gold,Core high-value regulars,Loyal,3,110,6,20506.025,123036.15
+CUST00033860,Silver,Core high-value regulars,Recent low spenders,4,28,4,30744.115,122976.46
+CUST00019502,Gold,Big-ticket Electronics buyers,Hibernating,1,223,4,30668.0525,122672.21
+CUST00034617,Silver,Coupon-led buyers,Recent low spenders,5,0,3,40890.21,122670.63
+CUST00004149,Gold,Coupon-led buyers,Champions,5,5,7,17505.942857142858,122541.6
+CUST00002074,Gold,Coupon-led buyers,Loyal,5,12,5,24452.522,122262.61
+CUST00025420,Silver,Core high-value regulars,Recent low spenders,5,5,4,30560.14,122240.56
+CUST00010879,Gold,Big-ticket Electronics buyers,About to sleep,2,129,5,24430.116,122150.58
+CUST00020286,Gold,Big-ticket Electronics buyers,Hibernating,2,142,4,30283.390000000003,121133.56
+CUST00028174,Silver,Big-ticket Electronics buyers,Hibernating,2,152,3,40376.48666666666,121129.46
+CUST00005604,Gold,Coupon-led buyers,Loyal,3,78,5,24209.556,121047.78
+CUST00037621,Silver,Coupon-led buyers,About to sleep,1,235,5,24161.374000000003,120806.87
+CUST00033180,Gold,Core high-value regulars,Champions,4,57,10,12066.043,120660.43
+CUST00001762,Gold,Core high-value regulars,At risk,2,136,8,15071.71125,120573.69
+CUST00001347,Silver,Core high-value regulars,Hibernating,2,129,3,40084.863333333335,120254.59
+CUST00027766,Silver,Coupon-led buyers,Hibernating,1,431,4,30003.26,120013.04
+CUST00002491,Silver,Core high-value regulars,Recent low spenders,4,42,3,39956.79666666667,119870.39
+CUST00030454,Gold,Coupon-led buyers,Recent low spenders,5,20,4,29892.315,119569.26
+CUST00004658,Silver,Big-ticket Electronics buyers,Recent low spenders,5,22,4,29806.205,119224.82
+CUST00039633,Gold,Core high-value regulars,About to sleep,2,138,5,23835.836000000003,119179.18
+CUST00010815,Silver,Core high-value regulars,Hibernating,2,151,3,39679.496666666666,119038.49
+CUST00036255,Gold,Core high-value regulars,Loyal,5,1,5,23807.02,119035.1
+CUST00023087,Gold,Big-ticket Electronics buyers,Loyal,3,76,5,23712.93,118564.65
+CUST00007211,Silver,Big-ticket Electronics buyers,Loyal,5,14,5,23681.764,118408.82
+CUST00016287,Gold,Core high-value regulars,Champions,5,3,7,16909.96857142857,118369.78
+CUST00015259,Silver,Core high-value regulars,Recent low spenders,5,17,4,29573.12,118292.48
+CUST00016378,Gold,Core high-value regulars,Champions,5,24,7,16888.114285714288,118216.8
+CUST00032116,Gold,Core high-value regulars,Loyal,5,21,6,19693.075,118158.44999999998
+CUST00034388,Gold,Coupon-led buyers,At risk,2,116,7,16860.06142857143,118020.43
+CUST00012448,Silver,Coupon-led buyers,About to sleep,1,205,5,23592.932,117964.66
+CUST00036067,Gold,Core high-value regulars,Champions,5,6,7,16841.69,117891.83
+CUST00000055,Silver,Core high-value regulars,Loyal,4,32,5,23480.78,117403.9
+CUST00025176,Gold,Core high-value regulars,Champions,5,7,8,14660.3475,117282.78
+CUST00023792,Gold,Big-ticket Electronics buyers,About to sleep,2,138,5,23430.962,117154.81
+CUST00009546,Gold,Coupon-led buyers,Loyal,4,62,5,23347.406,116737.03
+CUST00024468,Silver,Big-ticket Electronics buyers,Hibernating,2,137,2,58226.975000000006,116453.95
+CUST00024414,Gold,Core high-value regulars,At risk,1,250,7,16522.748571428572,115659.24
+CUST00030189,Gold,Core high-value regulars,Hibernating,2,191,4,28913.0275,115652.11
+CUST00039223,Gold,Core high-value regulars,Hibernating,2,134,4,28880.845,115523.38
+CUST00033070,Gold,Core high-value regulars,At risk,2,149,8,14438.45125,115507.61
+CUST00010911,Silver,Big-ticket Electronics buyers,Recent low spenders,4,43,2,57699.94,115399.88
+CUST00035315,Gold,Coupon-led buyers,Loyal,4,28,6,19217.706666666665,115306.24
+CUST00018328,Gold,Core high-value regulars,Champions,5,22,8,14395.13125,115161.05
+CUST00035270,Gold,Core high-value regulars,Loyal,3,71,5,23030.526,115152.63
+CUST00027433,Gold,Core high-value regulars,Loyal,5,18,6,19176.391666666663,115058.35
+CUST00032913,Gold,Core high-value regulars,Loyal,4,51,6,19156.351666666666,114938.11
+CUST00032724,Gold,Core high-value regulars,Needs attention,3,91,4,28685.9575,114743.83
+CUST00004672,Gold,Core high-value regulars,Loyal,4,59,6,19112.345,114674.07
+CUST00007506,Gold,Core high-value regulars,Loyal,5,9,5,22915.514,114577.57
+CUST00035835,Silver,Coupon-led buyers,Needs attention,3,84,4,28625.6275,114502.51
+CUST00019323,Gold,Coupon-led buyers,Recent low spenders,4,44,4,28573.9075,114295.63
+CUST00033430,Gold,Big-ticket Electronics buyers,Hibernating,1,204,2,56828.335,113656.67
+CUST00015741,Gold,Big-ticket Electronics buyers,Loyal,3,92,5,22692.782,113463.91
+CUST00024536,Gold,Core high-value regulars,Hibernating,2,181,4,28303.985,113215.94
+CUST00031920,Silver,Coupon-led buyers,Recent low spenders,4,35,4,28191.745,112766.98
+CUST00030718,Silver,Core high-value regulars,Recent low spenders,4,38,4,28175.1075,112700.43
+CUST00032981,Gold,Core high-value regulars,Loyal,5,21,5,22506.218,112531.09
+CUST00011467,Silver,Big-ticket Electronics buyers,Hibernating,1,238,2,56064.6,112129.2
+CUST00029386,Gold,Core high-value regulars,Recent low spenders,5,14,4,28010.097500000003,112040.39
+CUST00013040,Gold,Core high-value regulars,Recent low spenders,5,10,4,27915.085000000003,111660.34
+CUST00026753,Gold,Big-ticket Electronics buyers,Recent low spenders,5,19,3,37168.543333333335,111505.63
+CUST00011073,Gold,Core high-value regulars,About to sleep,2,168,5,22258.398,111291.99
+CUST00000621,Gold,Big-ticket Electronics buyers,Loyal,3,84,5,22163.08,110815.4
+CUST00016681,Silver,Big-ticket Electronics buyers,Hibernating,2,150,2,55370.545,110741.09
+CUST00011314,Gold,Big-ticket Electronics buyers,Hibernating,2,152,3,36870.206666666665,110610.62
+CUST00016672,Gold,Core high-value regulars,Loyal,3,82,7,15801.118571428571,110607.83
+CUST00022250,Silver,Big-ticket Electronics buyers,Needs attention,3,87,3,36868.70333333333,110606.11
+CUST00024851,Gold,Coupon-led buyers,Recent low spenders,5,12,4,27585.1625,110340.65
+CUST00000610,Gold,Core high-value regulars,Hibernating,1,209,4,27550.6775,110202.71
+CUST00018131,Silver,Coupon-led buyers,Needs attention,3,75,3,36648.1,109944.3
+CUST00009662,Silver,Coupon-led buyers,Loyal,4,52,6,18303.643333333337,109821.86000000002
+CUST00007116,Silver,Big-ticket Electronics buyers,Recent low spenders,5,16,4,27453.895,109815.58
+CUST00011294,Gold,Big-ticket Electronics buyers,Needs attention,3,111,4,27396.455,109585.82
+CUST00000276,Gold,Core high-value regulars,Recent low spenders,4,62,4,27387.9275,109551.71
+CUST00022504,Gold,Core high-value regulars,Loyal,5,23,5,21882.208,109411.04
+CUST00005626,Gold,Core high-value regulars,Loyal,3,75,5,21818.266,109091.33
+CUST00022198,Gold,Core high-value regulars,Loyal,3,73,5,21794.544,108972.72
+CUST00024461,Gold,Core high-value regulars,About to sleep,2,116,6,18142.07833333333,108852.47
+CUST00039053,Gold,Coupon-led buyers,Loyal,5,19,6,18140.41,108842.46
+CUST00020033,Gold,Coupon-led buyers,Hibernating,2,128,3,36216.636666666665,108649.91
+CUST00028255,Gold,Core high-value regulars,Needs attention,3,88,4,27143.835000000003,108575.34
+CUST00013642,Gold,Core high-value regulars,Loyal,3,63,6,18095.4,108572.4
+CUST00022497,Gold,Big-ticket Electronics buyers,Hibernating,1,290,2,54190.525,108381.05
+CUST00031809,Silver,Big-ticket Electronics buyers,Recent low spenders,4,50,2,54155.725,108311.45
+CUST00009515,Gold,Coupon-led buyers,At risk,1,226,7,15468.354285714287,108278.48
+CUST00023880,Gold,Core high-value regulars,About to sleep,2,170,6,18044.486666666668,108266.92
+CUST00005922,Gold,Core high-value regulars,Loyal,4,40,5,21633.308,108166.54
+CUST00030198,Silver,Core high-value regulars,Loyal,4,51,5,21622.472,108112.36
+CUST00035997,Gold,Big-ticket Electronics buyers,Loyal,3,82,5,21536.91,107684.55
+CUST00031937,Silver,Big-ticket Electronics buyers,Needs attention,3,100,4,26899.985,107599.94
+CUST00002570,Gold,Coupon-led buyers,Hibernating,1,247,4,26878.69,107514.76
+CUST00038058,Gold,Core high-value regulars,Recent low spenders,5,1,3,35813.78,107441.34
+CUST00009897,Gold,Core high-value regulars,Champions,5,18,7,15329.975714285714,107309.83
+CUST00034000,Gold,Big-ticket Electronics buyers,Recent low spenders,4,50,3,35698.34666666667,107095.04
+CUST00019077,Silver,Big-ticket Electronics buyers,Recent low spenders,4,52,3,35695.57666666667,107086.73
+CUST00034005,Gold,Big-ticket Electronics buyers,Needs attention,3,96,3,35644.68666666667,106934.06
+CUST00020111,Silver,Core high-value regulars,About to sleep,1,203,6,17801.96,106811.76
+CUST00027480,Gold,Coupon-led buyers,About to sleep,1,223,5,21343.412,106717.06
+CUST00029633,Gold,Core high-value regulars,Loyal,4,39,5,21311.952,106559.76
+CUST00014205,Gold,Coupon-led buyers,About to sleep,2,187,5,21299.35,106496.75
+CUST00007662,Silver,Big-ticket Electronics buyers,Hibernating,2,178,3,35467.22,106401.66
+CUST00021814,Gold,Big-ticket Electronics buyers,Recent low spenders,5,18,4,26579.455,106317.82
+CUST00026227,Gold,Coupon-led buyers,Loyal,3,72,5,21255.236,106276.18
+CUST00000488,Silver,Coupon-led buyers,Recent low spenders,4,50,4,26548.18,106192.72
+CUST00038884,Gold,Core high-value regulars,About to sleep,2,134,5,21180.454,105902.27
+CUST00039427,Gold,Big-ticket Electronics buyers,Recent low spenders,5,27,3,35282.60666666667,105847.82
+CUST00015012,Gold,Coupon-led buyers,Loyal,5,19,6,17615.541666666668,105693.25
+CUST00033558,Silver,Coupon-led buyers,About to sleep,1,209,5,21103.334,105516.67
+CUST00003081,Gold,Coupon-led buyers,Loyal,4,34,6,17585.916666666668,105515.5
+CUST00026500,Silver,Big-ticket Electronics buyers,Recent low spenders,4,41,4,26364.620000000003,105458.48
+CUST00003390,Silver,Coupon-led buyers,Recent low spenders,5,10,4,26356.2425,105424.97
+CUST00024636,Gold,Coupon-led buyers,Loyal,3,81,5,21070.684,105353.42
+CUST00011943,Gold,Core high-value regulars,At risk,2,119,8,13163.80625,105310.45
+CUST00036917,Gold,Coupon-led buyers,Hibernating,2,117,3,35093.950000000004,105281.85
+CUST00028652,Gold,Coupon-led buyers,Recent low spenders,5,20,4,26317.8575,105271.43
+CUST00009097,Gold,Coupon-led buyers,Loyal,5,18,6,17538.358333333334,105230.15
+CUST00011399,Silver,Coupon-led buyers,Champions,5,6,10,10505.175,105051.75
+CUST00024344,Gold,Core high-value regulars,Hibernating,2,157,4,26200.1825,104800.73
+CUST00009099,Silver,Big-ticket Electronics buyers,Needs attention,3,73,4,26148.975,104595.9
+CUST00023508,Gold,Core high-value regulars,Loyal,4,34,5,20912.776,104563.88
+CUST00025893,Gold,Core high-value regulars,Loyal,5,17,5,20899.538,104497.69
+CUST00036037,Gold,Coupon-led buyers,About to sleep,1,247,6,17410.093333333334,104460.56
+CUST00022412,Gold,Core high-value regulars,At risk,2,139,7,14907.238571428572,104350.67
+CUST00028443,Silver,Coupon-led buyers,Needs attention,3,83,4,25927.64,103710.56
+CUST00002010,Gold,Coupon-led buyers,About to sleep,1,197,6,17223.951666666664,103343.71
+CUST00029878,Gold,Core high-value regulars,Loyal,5,15,6,17223.236666666668,103339.42
+CUST00038574,Gold,Big-ticket Electronics buyers,Hibernating,1,402,2,51602.475,103204.95
+CUST00038425,Gold,Coupon-led buyers,Hibernating,1,275,4,25793.275,103173.1
+CUST00031565,Silver,Core high-value regulars,About to sleep,2,134,5,20624.26,103121.3
+CUST00036119,Gold,Coupon-led buyers,At risk,2,148,7,14721.528571428573,103050.7
+CUST00005942,Gold,Core high-value regulars,Loyal,3,74,5,20567.348,102836.74
+CUST00029637,Gold,Core high-value regulars,Needs attention,3,82,4,25701.800000000003,102807.2
+CUST00026463,Silver,Coupon-led buyers,Hibernating,2,174,4,25640.1175,102560.47
+CUST00020786,Gold,Core high-value regulars,Hibernating,2,137,4,25618.425000000003,102473.7
+CUST00025085,Gold,Coupon-led buyers,About to sleep,2,136,5,20478.466,102392.33
+CUST00035466,Silver,Coupon-led buyers,Recent low spenders,4,57,4,25592.0225,102368.09
+CUST00012129,Gold,Big-ticket Electronics buyers,Needs attention,3,104,3,34048.44666666666,102145.34
+CUST00002023,Gold,Core high-value regulars,About to sleep,2,147,6,16989.52,101937.12
+CUST00027929,Gold,Core high-value regulars,Recent low spenders,4,31,3,33890.82,101672.46
+CUST00020991,Gold,Coupon-led buyers,Champions,5,4,8,12691.3175,101530.54
+CUST00011844,Gold,Coupon-led buyers,Recent low spenders,4,39,4,25382.1775,101528.71
+CUST00015636,Silver,Big-ticket Electronics buyers,Loyal,4,58,5,20305.218,101526.09
+CUST00007856,Gold,Core high-value regulars,Loyal,5,1,6,16880.495,101282.97
+CUST00028351,Gold,Coupon-led buyers,Loyal,5,20,6,16878.295000000002,101269.77
+CUST00005891,Gold,Big-ticket Electronics buyers,Recent low spenders,4,57,4,25315.57,101262.28
+CUST00019146,Gold,Coupon-led buyers,Loyal,5,22,6,16851.451666666668,101108.71
+CUST00038166,Gold,Coupon-led buyers,At risk,2,112,8,12636.06125,101088.49
+CUST00034916,Gold,Big-ticket Electronics buyers,Hibernating,2,154,3,33555.333333333336,100666.0
+CUST00023536,Gold,Big-ticket Electronics buyers,Recent low spenders,4,57,4,25159.0375,100636.15
+CUST00015509,Gold,Big-ticket Electronics buyers,Loyal,5,10,6,16744.496666666666,100466.98
+CUST00003423,Gold,Core high-value regulars,About to sleep,2,116,5,20091.266,100456.33
+CUST00016781,Silver,Core high-value regulars,Loyal,4,50,6,16727.041666666668,100362.25
+CUST00023289,Silver,Big-ticket Electronics buyers,Hibernating,1,475,1,100331.65,100331.65
+CUST00005346,Silver,Core high-value regulars,Hibernating,2,192,4,25076.545,100306.18
+CUST00019419,Silver,Core high-value regulars,Loyal,4,57,5,19995.802,99979.01
+CUST00035702,Silver,Coupon-led buyers,About to sleep,2,157,5,19962.82,99814.1
+CUST00015304,Gold,Big-ticket Electronics buyers,Loyal,4,45,5,19929.856,99649.28
+CUST00025977,Gold,Big-ticket Electronics buyers,Needs attention,3,89,4,24887.87,99551.48
+CUST00038049,Gold,Big-ticket Electronics buyers,Recent low spenders,5,2,3,33181.113333333335,99543.34
+CUST00038811,Gold,Core high-value regulars,Hibernating,2,144,4,24857.8125,99431.25
+CUST00014145,Silver,Coupon-led buyers,Loyal,3,105,6,16534.77666666667,99208.66
+CUST00003747,Gold,Core high-value regulars,Recent low spenders,5,16,3,32968.39666666667,98905.19
+CUST00039210,Silver,Big-ticket Electronics buyers,Recent low spenders,5,6,2,49441.71,98883.42
+CUST00008126,Gold,Core high-value regulars,Hibernating,2,113,4,24687.9275,98751.71
+CUST00003291,Gold,Big-ticket Electronics buyers,Recent low spenders,4,54,3,32911.886666666665,98735.66
+CUST00030506,Gold,Coupon-led buyers,Loyal,3,82,5,19703.59,98517.95
+CUST00017936,Gold,Core high-value regulars,Loyal,4,50,5,19690.444,98452.22
+CUST00014255,Gold,Big-ticket Electronics buyers,Recent low spenders,4,55,4,24575.075,98300.3
+CUST00007380,Silver,Big-ticket Electronics buyers,Hibernating,2,156,3,32728.31333333333,98184.94
+CUST00011986,Gold,Core high-value regulars,Loyal,4,44,5,19614.132,98070.66
+CUST00012257,Gold,Core high-value regulars,At risk,1,227,7,13969.320000000002,97785.24
+CUST00001906,Gold,Core high-value regulars,About to sleep,2,155,5,19539.146,97695.73
+CUST00027486,Silver,Big-ticket Electronics buyers,Needs attention,3,83,2,48829.91,97659.82
+CUST00031185,Silver,Core high-value regulars,Loyal,3,66,7,13947.105714285712,97629.74
+CUST00013301,Silver,Core high-value regulars,Champions,4,33,7,13915.942857142856,97411.6
+CUST00024443,Gold,Core high-value regulars,About to sleep,2,156,5,19478.43,97392.15
+CUST00029443,Silver,Core high-value regulars,Loyal,3,96,7,13912.087142857144,97384.61
+CUST00038168,Silver,Coupon-led buyers,Recent low spenders,4,57,3,32424.210000000003,97272.63
+CUST00033506,Gold,Big-ticket Electronics buyers,Recent low spenders,5,13,2,48599.36,97198.72
+CUST00017976,Silver,Big-ticket Electronics buyers,Needs attention,3,93,4,24162.58,96650.32
+CUST00018984,Silver,Coupon-led buyers,Hibernating,2,182,4,24105.63,96422.52
+CUST00009882,Gold,Core high-value regulars,Hibernating,2,113,4,24051.87,96207.48
+CUST00012645,Silver,Coupon-led buyers,Recent low spenders,4,53,4,24025.1675,96100.67
+CUST00015538,Silver,Coupon-led buyers,Recent low spenders,4,29,3,32026.49,96079.47
+CUST00036152,Gold,Coupon-led buyers,Hibernating,2,139,4,24018.2525,96073.01
+CUST00035534,Silver,Big-ticket Electronics buyers,Needs attention,3,109,2,48020.585,96041.17
+CUST00027715,Gold,Core high-value regulars,About to sleep,2,177,5,19197.83,95989.15
+CUST00018176,Gold,Coupon-led buyers,About to sleep,2,160,6,15962.263333333334,95773.58
+CUST00002091,Gold,Big-ticket Electronics buyers,Needs attention,3,63,3,31846.28,95538.84
+CUST00024845,Gold,Coupon-led buyers,About to sleep,1,198,5,19084.71,95423.55
+CUST00010533,Gold,Big-ticket Electronics buyers,Loyal,3,90,6,15886.168333333331,95317.01
+CUST00019079,Gold,Coupon-led buyers,Loyal,3,95,6,15853.975,95123.85
+CUST00031585,Gold,Coupon-led buyers,Loyal,3,77,5,19023.07,95115.35
+CUST00014771,Gold,Coupon-led buyers,Recent low spenders,4,59,4,23720.67,94882.68
+CUST00011743,Gold,Coupon-led buyers,Loyal,5,16,5,18973.202,94866.01
+CUST00012051,Gold,Core high-value regulars,Loyal,5,11,5,18967.07,94835.35
+CUST00022678,Gold,Big-ticket Electronics buyers,Loyal,5,4,5,18916.634,94583.17
+CUST00004810,Gold,Coupon-led buyers,Recent low spenders,4,47,4,23636.64,94546.56
+CUST00039724,Gold,Big-ticket Electronics buyers,Hibernating,2,167,4,23574.935,94299.74
+CUST00017950,Silver,Big-ticket Electronics buyers,Hibernating,1,368,1,94125.4,94125.4
+CUST00015058,Silver,Big-ticket Electronics buyers,Needs attention,3,89,4,23495.05,93980.2
+CUST00023494,Gold,Core high-value regulars,Needs attention,3,105,4,23480.9175,93923.67
+CUST00003953,Silver,Core high-value regulars,Loyal,3,88,5,18778.132,93890.66
+CUST00020647,Gold,Core high-value regulars,Loyal,4,37,6,15615.565,93693.39
+CUST00037453,Silver,Core high-value regulars,Hibernating,2,138,3,31058.296666666665,93174.89
+CUST00035378,Gold,Coupon-led buyers,Loyal,5,21,6,15513.745,93082.47
+CUST00016041,Gold,Coupon-led buyers,About to sleep,2,155,6,15507.415,93044.49
+CUST00004675,Gold,Coupon-led buyers,About to sleep,2,130,5,18592.604,92963.02
+CUST00039919,Silver,Core high-value regulars,Hibernating,2,169,3,30954.096666666668,92862.29
+CUST00031394,Silver,Big-ticket Electronics buyers,Hibernating,2,156,4,23201.2,92804.8
+CUST00003697,Gold,Core high-value regulars,Loyal,3,66,5,18505.584,92527.92
+CUST00022227,Gold,Coupon-led buyers,Recent low spenders,4,53,4,23077.5725,92310.29
+CUST00031478,Gold,Core high-value regulars,About to sleep,2,145,5,18419.972,92099.86
+CUST00001100,Silver,Core high-value regulars,Loyal,3,82,7,13131.254285714283,91918.78
+CUST00018752,Silver,Core high-value regulars,Loyal,3,111,5,18371.51,91857.55
+CUST00024907,Gold,Core high-value regulars,Recent low spenders,5,23,4,22909.6625,91638.65
+CUST00002297,Gold,Big-ticket Electronics buyers,Needs attention,3,107,2,45726.34,91452.68
+CUST00035607,Gold,Big-ticket Electronics buyers,Recent low spenders,4,33,4,22821.095,91284.38
+CUST00035918,Gold,Core high-value regulars,About to sleep,2,159,5,18215.17,91075.85
+CUST00013294,Gold,Big-ticket Electronics buyers,Recent low spenders,4,49,3,30197.68333333333,90593.05
+CUST00018335,Gold,Coupon-led buyers,Loyal,3,80,7,12941.412857142856,90589.89
+CUST00004697,Gold,Core high-value regulars,Loyal,4,28,6,15094.72,90568.32
+CUST00004668,Gold,Coupon-led buyers,Recent low spenders,5,13,4,22534.195,90136.78
+CUST00036733,Silver,Core high-value regulars,Needs attention,3,96,3,29960.31,89880.93
+CUST00022347,Gold,Core high-value regulars,Loyal,3,65,5,17916.524,89582.62000000001
+CUST00001961,Gold,Core high-value regulars,Loyal,5,21,5,17856.73,89283.65
+CUST00016341,Silver,Big-ticket Electronics buyers,Loyal,4,41,5,17846.273999999998,89231.37
+CUST00027473,Gold,Coupon-led buyers,Loyal,3,87,6,14826.141666666668,88956.85
+CUST00007735,Gold,Coupon-led buyers,Needs attention,3,72,4,22135.85,88543.40000000001
+CUST00027037,Silver,Core high-value regulars,Hibernating,2,164,4,22122.85,88491.4
+CUST00002221,Gold,Big-ticket Electronics buyers,Hibernating,1,207,3,29495.036666666667,88485.11
+CUST00018090,Gold,Core high-value regulars,Loyal,3,82,5,17696.5,88482.5
+CUST00037846,Gold,Core high-value regulars,Champions,5,17,7,12601.561428571427,88210.93
+CUST00007343,Gold,Core high-value regulars,Hibernating,2,146,4,22050.68,88202.72
+CUST00005052,Gold,Core high-value regulars,Loyal,3,91,7,12553.615714285716,87875.31000000001
+CUST00007311,Gold,Coupon-led buyers,About to sleep,1,197,5,17527.896,87639.48
+CUST00026139,Gold,Coupon-led buyers,Loyal,3,95,6,14597.413333333332,87584.48
+CUST00038935,Gold,Core high-value regulars,At risk,1,238,7,12508.425714285711,87558.98
+CUST00010907,Gold,Coupon-led buyers,Champions,4,43,8,10934.94375,87479.55
+CUST00017101,Silver,Core high-value regulars,About to sleep,2,158,5,17481.628,87408.14
+CUST00019443,Silver,Coupon-led buyers,Needs attention,3,76,4,21795.785,87183.14
+CUST00028780,Gold,Big-ticket Electronics buyers,Hibernating,2,162,4,21794.5175,87178.06999999999
+CUST00035061,Gold,Core high-value regulars,Champions,5,14,8,10896.88875,87175.11
+CUST00036123,Gold,Core high-value regulars,About to sleep,2,179,6,14525.866666666669,87155.2
+CUST00005058,Gold,Core high-value regulars,About to sleep,2,124,5,17372.172,86860.86
+CUST00001098,Gold,Coupon-led buyers,Loyal,3,77,5,17362.294,86811.47
+CUST00030694,Gold,Core high-value regulars,Loyal,4,51,5,17357.05,86785.25
+CUST00007667,Gold,Big-ticket Electronics buyers,Hibernating,2,153,3,28825.81333333333,86477.44
+CUST00005312,Gold,Coupon-led buyers,Loyal,4,59,6,14402.031666666664,86412.18999999999
+CUST00018466,Gold,Big-ticket Electronics buyers,Needs attention,3,86,3,28770.936666666665,86312.81
+CUST00012466,Silver,Big-ticket Electronics buyers,Needs attention,3,110,4,21552.5425,86210.17
+CUST00007072,Gold,Coupon-led buyers,Hibernating,1,231,4,21516.1625,86064.65
+CUST00025175,Gold,Coupon-led buyers,Needs attention,3,75,3,28657.64333333333,85972.93
+CUST00015247,Gold,Core high-value regulars,About to sleep,2,175,5,17188.34,85941.7
+CUST00028150,Gold,Coupon-led buyers,Champions,4,48,8,10729.47,85835.76
+CUST00001620,Silver,Core high-value regulars,Needs attention,3,105,4,21401.7975,85607.19
+CUST00038511,Silver,Big-ticket Electronics buyers,Loyal,4,48,5,17118.288,85591.44
+CUST00020421,Silver,Coupon-led buyers,Hibernating,2,153,4,21383.5025,85534.01000000001
+CUST00035816,Gold,Core high-value regulars,Loyal,3,66,5,17037.078,85185.39
+CUST00024971,Silver,Core high-value regulars,Loyal,3,70,6,14175.581666666669,85053.49
+CUST00003467,Gold,Coupon-led buyers,About to sleep,1,221,6,14161.646666666666,84969.87999999999
+CUST00026607,Silver,Coupon-led buyers,About to sleep,2,169,5,16980.162,84900.81
+CUST00015358,Gold,Big-ticket Electronics buyers,Recent low spenders,4,61,3,28242.88333333333,84728.65
+CUST00011182,Gold,Big-ticket Electronics buyers,Recent low spenders,4,35,3,28235.493333333336,84706.48000000001
+CUST00020909,Gold,Core high-value regulars,At risk,1,201,8,10566.19375,84529.55
+CUST00012226,Gold,Core high-value regulars,Loyal,3,80,5,16816.338,84081.69
+CUST00001368,Silver,Coupon-led buyers,Loyal,4,55,5,16733.688000000002,83668.44
+CUST00009438,Gold,Coupon-led buyers,About to sleep,1,313,6,13915.028333333334,83490.17
+CUST00027682,Gold,Core high-value regulars,Loyal,3,104,5,16687.95,83439.75
+CUST00021356,Silver,Coupon-led buyers,Recent low spenders,5,17,4,20837.87,83351.48
+CUST00031974,Silver,Big-ticket Electronics buyers,Recent low spenders,4,51,4,20820.34,83281.36
+CUST00004931,Gold,Core high-value regulars,Loyal,5,3,6,13869.313333333334,83215.88
+CUST00004591,Silver,Coupon-led buyers,About to sleep,2,124,6,13857.303333333331,83143.81999999999
+CUST00035815,Silver,Coupon-led buyers,Hibernating,2,113,4,20775.487500000003,83101.95000000001
+CUST00035423,Gold,Core high-value regulars,Loyal,4,32,6,13786.548333333332,82719.29
+CUST00030608,Silver,Core high-value regulars,About to sleep,2,115,5,16530.370000000003,82651.85
+CUST00025102,Gold,Coupon-led buyers,Loyal,4,39,5,16518.204,82591.02
+CUST00039322,Silver,Coupon-led buyers,Recent low spenders,4,31,3,27431.01333333333,82293.04
+CUST00038219,Silver,Big-ticket Electronics buyers,Needs attention,3,70,2,41128.325,82256.65
+CUST00020814,Gold,Big-ticket Electronics buyers,Hibernating,2,190,3,27377.42,82132.26000000001
+CUST00000248,Gold,Big-ticket Electronics buyers,Hibernating,2,156,4,20479.2425,81916.97
+CUST00005624,Gold,Core high-value regulars,Loyal,3,101,5,16378.284,81891.42
+CUST00031334,Gold,Coupon-led buyers,About to sleep,2,191,6,13642.436666666668,81854.62000000001
+CUST00015257,Silver,Coupon-led buyers,Loyal,5,26,5,16358.382,81791.91
+CUST00027424,Gold,Coupon-led buyers,Recent low spenders,5,25,4,20417.725,81670.9
+CUST00004722,Gold,Core high-value regulars,Recent low spenders,5,15,4,20312.3225,81249.29
+CUST00035501,Gold,Big-ticket Electronics buyers,About to sleep,1,222,5,16229.472,81147.36
+CUST00029944,Gold,Big-ticket Electronics buyers,Recent low spenders,5,10,2,40540.39,81080.78
+CUST00021192,Silver,Core high-value regulars,Recent low spenders,4,32,4,20177.24,80708.95999999999
+CUST00038759,Gold,Core high-value regulars,Recent low spenders,5,23,4,20130.3575,80521.43
+CUST00036059,Gold,Coupon-led buyers,About to sleep,2,164,6,13412.061666666666,80472.37
+CUST00016006,Gold,Core high-value regulars,Loyal,3,88,5,16041.384000000002,80206.92000000001
+CUST00009347,Gold,Coupon-led buyers,Loyal,4,54,5,16022.7,80113.5
+CUST00023953,Gold,Coupon-led buyers,Champions,5,21,7,11423.138571428572,79961.97
+CUST00027729,Gold,Core high-value regulars,Loyal,4,30,5,15978.668,79893.34
+CUST00006126,Gold,Coupon-led buyers,About to sleep,2,169,5,15974.65,79873.25
+CUST00006416,Gold,Big-ticket Electronics buyers,Needs attention,3,78,3,26534.41333333333,79603.24
+CUST00010860,Gold,Coupon-led buyers,Hibernating,2,186,4,19860.0075,79440.03
+CUST00026858,Silver,Big-ticket Electronics buyers,Recent low spenders,5,11,2,39498.315,78996.63
+CUST00012175,Gold,Big-ticket Electronics buyers,Recent low spenders,5,18,3,26323.486666666668,78970.46
+CUST00038234,Gold,Core high-value regulars,Loyal,3,94,8,9868.765,78950.12
+CUST00029935,Silver,Core high-value regulars,Hibernating,1,199,5,15786.662,78933.31
+CUST00011422,Gold,Core high-value regulars,About to sleep,2,158,7,11276.179999999998,78933.26
+CUST00024565,Gold,Core high-value regulars,Recent low spenders,4,54,4,19697.375,78789.5
+CUST00032877,Gold,Coupon-led buyers,Loyal,5,9,8,9845.12875,78761.03
+CUST00032216,Silver,Big-ticket Electronics buyers,Hibernating,2,122,1,78759.94,78759.94
+CUST00021038,Gold,Coupon-led buyers,Recent low spenders,5,3,5,15714.096,78570.48
+CUST00038733,Gold,Core high-value regulars,Needs attention,3,70,5,15681.058,78405.29000000001
+CUST00019756,Gold,Coupon-led buyers,Loyal,3,85,6,13021.606666666668,78129.64
+CUST00002630,Gold,Coupon-led buyers,Loyal,5,5,8,9744.03875,77952.31
+CUST00001259,Gold,Coupon-led buyers,Recent low spenders,4,32,5,15588.394,77941.97
+CUST00032914,Gold,Core high-value regulars,Loyal,4,60,7,11134.142857142857,77939.0
+CUST00020154,Silver,Big-ticket Electronics buyers,Recent low spenders,4,31,2,38955.875,77911.75
+CUST00016044,Gold,Core high-value regulars,Needs attention,3,106,5,15445.85,77229.25
+CUST00026168,Gold,Core high-value regulars,About to sleep,2,187,6,12827.12,76962.72
+CUST00016843,Gold,Core high-value regulars,Recent low spenders,5,9,5,15372.826,76864.13
+CUST00023002,Gold,Coupon-led buyers,Recent low spenders,5,24,5,15357.086,76785.43000000001
+CUST00013970,Silver,Big-ticket Electronics buyers,Recent low spenders,5,13,3,25582.816666666666,76748.45
+CUST00012892,Silver,Coupon-led buyers,Recent low spenders,4,53,3,25557.416666666668,76672.25
+CUST00010852,Silver,Big-ticket Electronics buyers,Recent low spenders,4,42,4,19142.5925,76570.37
+CUST00031631,Silver,Big-ticket Electronics buyers,Recent low spenders,4,55,3,25520.07,76560.20999999999
+CUST00014999,Silver,Core high-value regulars,Recent low spenders,4,54,3,25477.77666666667,76433.33
+CUST00003643,Silver,Coupon-led buyers,Recent low spenders,5,9,4,19094.2075,76376.83
+CUST00025711,Silver,Coupon-led buyers,Hibernating,2,164,3,25451.186666666665,76353.56
+CUST00006699,Silver,Coupon-led buyers,Needs attention,3,100,4,19077.96,76311.84
+CUST00025477,Silver,Coupon-led buyers,Hibernating,2,127,3,25431.11333333333,76293.34
+CUST00000097,Gold,Coupon-led buyers,Needs attention,3,111,5,15238.420000000002,76192.1
+CUST00038636,Gold,Coupon-led buyers,Hibernating,2,185,5,15219.06,76095.3
+CUST00006154,Gold,Core high-value regulars,Recent low spenders,5,6,5,15214.962,76074.81
+CUST00011348,Gold,Big-ticket Electronics buyers,Recent low spenders,5,10,3,25305.586666666662,75916.76
+CUST00002093,Silver,Core high-value regulars,Recent low spenders,4,29,4,18972.307500000003,75889.23000000001
+CUST00007294,Silver,Coupon-led buyers,About to sleep,1,202,6,12597.326666666666,75583.95999999999
+CUST00031119,Gold,Core high-value regulars,Hibernating,2,113,4,18850.735,75402.94
+CUST00039449,Gold,Core high-value regulars,Recent low spenders,4,51,5,15075.414,75377.07
+CUST00009440,Silver,Big-ticket Electronics buyers,Hibernating,1,216,4,18839.9575,75359.83
+CUST00006182,Gold,Coupon-led buyers,About to sleep,1,244,6,12510.891666666665,75065.34999999999
+CUST00039840,Silver,Coupon-led buyers,Recent low spenders,5,8,4,18717.737500000003,74870.95000000001
+CUST00018066,Gold,Coupon-led buyers,Needs attention,3,84,5,14938.12,74690.6
+CUST00023495,Silver,Core high-value regulars,Needs attention,3,105,3,24896.70333333333,74690.11
+CUST00017092,Silver,Coupon-led buyers,Hibernating,2,190,4,18647.805,74591.21999999999
+CUST00023556,Silver,Big-ticket Electronics buyers,Recent low spenders,5,26,1,74099.37,74099.37
+CUST00016392,Gold,Coupon-led buyers,Hibernating,2,150,4,18469.8775,73879.51
+CUST00027025,Gold,Core high-value regulars,Recent low spenders,5,9,5,14767.398,73836.99
+CUST00027860,Gold,Core high-value regulars,Loyal,4,40,7,10527.442857142858,73692.1
+CUST00024236,Gold,Core high-value regulars,Loyal,4,48,6,12281.753333333334,73690.52
+CUST00014251,Gold,Coupon-led buyers,Hibernating,1,243,5,14731.172,73655.86
+CUST00038760,Silver,Core high-value regulars,Needs attention,3,84,4,18406.9225,73627.69
+CUST00010370,Silver,Core high-value regulars,Loyal,5,5,6,12244.426666666666,73466.56
+CUST00016277,Silver,Core high-value regulars,Recent low spenders,4,47,4,18352.7875,73411.15
+CUST00000003,Silver,Big-ticket Electronics buyers,Hibernating,2,121,2,36693.88,73387.76
+CUST00019217,Silver,Coupon-led buyers,Hibernating,2,186,4,18339.79,73359.16
+CUST00006325,Gold,Big-ticket Electronics buyers,Needs attention,3,104,3,24449.896666666667,73349.69
+CUST00029801,Gold,Coupon-led buyers,About to sleep,2,123,6,12216.465000000002,73298.79000000001
+CUST00003910,Silver,Coupon-led buyers,Recent low spenders,4,44,5,14636.319999999998,73181.59999999999
+CUST00032872,Gold,Core high-value regulars,Hibernating,2,131,3,24372.08666666667,73116.26000000001
+CUST00011907,Gold,Coupon-led buyers,Recent low spenders,4,39,5,14621.59,73107.95
+CUST00029217,Silver,Big-ticket Electronics buyers,Recent low spenders,5,22,2,36425.96,72851.92
+CUST00025206,Gold,Core high-value regulars,Loyal,3,104,7,10400.401428571427,72802.81
+CUST00018298,Silver,Core high-value regulars,Recent low spenders,4,33,5,14558.52,72792.6
+CUST00030236,Gold,Big-ticket Electronics buyers,Needs attention,3,73,5,14556.918,72784.59
+CUST00005815,Gold,Core high-value regulars,Loyal,3,99,7,10393.934285714287,72757.54000000001
+CUST00012562,Gold,Coupon-led buyers,Hibernating,1,313,2,36239.595,72479.19
+CUST00021419,Silver,Coupon-led buyers,About to sleep,1,234,6,12031.653333333334,72189.92
+CUST00008775,Silver,Coupon-led buyers,Loyal,4,33,7,10292.798571428571,72049.59
+CUST00003919,Silver,Big-ticket Electronics buyers,Hibernating,2,163,2,35979.025,71958.05
+CUST00000472,Silver,Big-ticket Electronics buyers,Needs attention,3,77,3,23961.673333333336,71885.02
+CUST00034751,Gold,Core high-value regulars,Hibernating,2,128,5,14362.185999999998,71810.93
+CUST00031898,Gold,Core high-value regulars,Recent low spenders,4,61,5,14358.23,71791.15
+CUST00000637,Silver,Big-ticket Electronics buyers,Needs attention,3,83,3,23911.046666666665,71733.14
+CUST00038591,Gold,Coupon-led buyers,Recent low spenders,5,10,4,17896.135,71584.54
+CUST00025871,Gold,Core high-value regulars,Loyal,5,25,8,8947.4825,71579.86
+CUST00017609,Gold,Core high-value regulars,Needs attention,3,84,5,14309.95,71549.75
+CUST00024817,Gold,Big-ticket Electronics buyers,Hibernating,1,244,3,23765.77666666667,71297.33
+CUST00013368,Gold,Coupon-led buyers,Needs attention,3,99,5,14205.2,71026.0
+CUST00004255,Silver,Coupon-led buyers,Hibernating,2,138,2,35452.695,70905.39
+CUST00007454,Silver,Big-ticket Electronics buyers,Hibernating,1,279,1,70869.81,70869.81
+CUST00002316,Gold,Core high-value regulars,Loyal,4,53,6,11771.516666666668,70629.1
+CUST00024136,Silver,Core high-value regulars,Loyal,4,54,6,11761.37,70568.22
+CUST00016667,Silver,Big-ticket Electronics buyers,Hibernating,2,138,4,17611.665,70446.66
+CUST00026804,Gold,Big-ticket Electronics buyers,Needs attention,3,95,2,35204.77,70409.54
+CUST00024961,Gold,Core high-value regulars,Needs attention,3,84,5,14047.514,70237.56999999999
+CUST00014417,Silver,Coupon-led buyers,Needs attention,3,66,3,23384.13666666667,70152.41
+CUST00017531,Gold,Coupon-led buyers,Recent low spenders,5,20,5,14010.296000000002,70051.48000000001
+CUST00032495,Gold,Core high-value regulars,Loyal,5,1,8,8734.98125,69879.85
+CUST00006000,Silver,Core high-value regulars,Hibernating,2,150,5,13964.244,69821.22
+CUST00038825,Silver,Big-ticket Electronics buyers,Needs attention,3,98,1,69803.12,69803.12
+CUST00013008,Silver,Big-ticket Electronics buyers,Hibernating,1,311,1,69652.48,69652.48
+CUST00007537,Gold,Core high-value regulars,Needs attention,3,66,4,17391.98,69567.92
+CUST00030946,Gold,Coupon-led buyers,Loyal,4,31,6,11594.340000000002,69566.04000000001
+CUST00019244,Gold,Core high-value regulars,Recent low spenders,4,56,4,17376.6175,69506.47
+CUST00005958,Gold,Coupon-led buyers,Recent low spenders,5,0,5,13886.363999999998,69431.81999999999
+CUST00026535,Gold,Coupon-led buyers,Loyal,4,30,7,9914.67857142857,69402.75
+CUST00036511,Gold,Big-ticket Electronics buyers,Needs attention,3,95,5,13875.678,69378.39
+CUST00028445,Gold,Core high-value regulars,Recent low spenders,5,26,5,13867.122,69335.61
+CUST00001997,Silver,Core high-value regulars,Recent low spenders,5,8,4,17321.5725,69286.29
+CUST00009790,Gold,Core high-value regulars,Hibernating,2,161,4,17232.495000000003,68929.98000000001
+CUST00034084,Gold,Core high-value regulars,Recent low spenders,4,62,5,13782.794,68913.97
+CUST00008309,Silver,Coupon-led buyers,Hibernating,2,122,3,22931.036666666667,68793.11
+CUST00000696,Silver,Core high-value regulars,Needs attention,3,94,3,22909.05,68727.15
+CUST00007508,Silver,Core high-value regulars,Loyal,3,76,7,9803.265714285715,68622.86
+CUST00003017,Gold,Coupon-led buyers,Loyal,5,27,6,11427.006666666666,68562.04
+CUST00022211,Silver,Big-ticket Electronics buyers,Recent low spenders,4,61,2,34278.545,68557.09
+CUST00033055,Silver,Big-ticket Electronics buyers,Hibernating,2,190,3,22830.536666666667,68491.61
+CUST00017403,Silver,Core high-value regulars,Recent low spenders,4,42,3,22778.710000000003,68336.13
+CUST00018857,Gold,Core high-value regulars,Needs attention,3,71,4,17079.4425,68317.77
+CUST00027997,Silver,Big-ticket Electronics buyers,Hibernating,2,158,3,22768.95333333333,68306.86
+CUST00001124,Gold,Big-ticket Electronics buyers,Needs attention,3,68,5,13654.514,68272.57
+CUST00025746,Gold,Coupon-led buyers,Loyal,5,1,7,9730.63,68114.41
+CUST00015182,Gold,Coupon-led buyers,Recent low spenders,4,45,5,13569.041999999998,67845.20999999999
+CUST00037979,Gold,Coupon-led buyers,Hibernating,1,239,5,13562.045999999998,67810.23
+CUST00005342,Gold,Core high-value regulars,Needs attention,3,88,5,13547.588,67737.94
+CUST00002363,Gold,Coupon-led buyers,Hibernating,2,159,5,13541.418,67707.09
+CUST00020487,Silver,Coupon-led buyers,Hibernating,1,198,4,16905.1325,67620.53
+CUST00012442,Gold,Core high-value regulars,Loyal,4,50,7,9657.942857142858,67605.6
+CUST00018584,Gold,Coupon-led buyers,Hibernating,2,115,5,13516.966,67584.83
+CUST00024380,Gold,Big-ticket Electronics buyers,Recent low spenders,5,23,3,22520.353333333333,67561.06
+CUST00019107,Gold,Core high-value regulars,Hibernating,2,177,4,16880.504999999997,67522.01999999999
+CUST00002976,Silver,Core high-value regulars,Recent low spenders,4,43,5,13483.35,67416.75
+CUST00006072,Gold,Core high-value regulars,Recent low spenders,5,6,5,13479.688,67398.44
+CUST00017281,Gold,Core high-value regulars,Recent low spenders,4,29,5,13472.628,67363.14
+CUST00024292,Silver,Big-ticket Electronics buyers,Recent low spenders,5,9,2,33664.725000000006,67329.45000000001
+CUST00005774,Silver,Coupon-led buyers,About to sleep,2,131,6,11198.545,67191.27
+CUST00024124,Gold,Core high-value regulars,Loyal,5,22,7,9577.042857142858,67039.3
+CUST00013611,Gold,Core high-value regulars,Recent low spenders,5,25,4,16710.935,66843.74
+CUST00020715,Silver,Core high-value regulars,Hibernating,2,122,5,13363.472,66817.36
+CUST00002713,Gold,Core high-value regulars,Loyal,3,82,6,11122.675,66736.05
+CUST00034415,Gold,Coupon-led buyers,Hibernating,1,250,5,13291.526000000002,66457.63
+CUST00003720,Gold,Core high-value regulars,Recent low spenders,5,25,5,13290.802,66454.01000000001
+CUST00018245,Gold,Big-ticket Electronics buyers,Needs attention,3,94,2,33148.73,66297.46
+CUST00007830,Gold,Core high-value regulars,Loyal,3,106,6,11044.565,66267.39
+CUST00018708,Silver,Core high-value regulars,Recent low spenders,4,34,4,16555.0475,66220.19
+CUST00035076,Gold,Core high-value regulars,About to sleep,2,171,6,11035.86,66215.16
+CUST00021828,Gold,Core high-value regulars,Hibernating,2,121,4,16510.0,66040.0
+CUST00030366,Gold,Coupon-led buyers,Needs attention,3,78,5,13190.626,65953.13
+CUST00014587,Gold,Big-ticket Electronics buyers,Recent low spenders,5,24,4,16481.3625,65925.45
+CUST00027923,Gold,Core high-value regulars,Hibernating,2,121,5,13179.178,65895.89
+CUST00005219,Silver,Coupon-led buyers,Recent low spenders,4,29,4,16463.425,65853.7
+CUST00030278,Gold,Core high-value regulars,Hibernating,2,115,4,16453.17,65812.68
+CUST00037034,Silver,Core high-value regulars,Recent low spenders,5,23,3,21899.106666666663,65697.31999999999
+CUST00022645,Gold,Coupon-led buyers,About to sleep,1,257,8,8144.70875,65157.67
+CUST00026080,Silver,Big-ticket Electronics buyers,Recent low spenders,4,46,1,65103.74,65103.74
+CUST00008802,Gold,Coupon-led buyers,Recent low spenders,5,25,4,16270.015,65080.06
+CUST00015667,Gold,Core high-value regulars,At risk,2,179,9,7210.405555555556,64893.65
+CUST00033471,Gold,Coupon-led buyers,Needs attention,3,95,4,16219.635,64878.54
+CUST00001381,Silver,Core high-value regulars,Recent low spenders,5,8,3,21608.096666666668,64824.29
+CUST00021026,Gold,Big-ticket Electronics buyers,Hibernating,2,117,3,21592.943333333333,64778.83
+CUST00036416,Gold,Core high-value regulars,Needs attention,3,91,4,16188.11,64752.44
+CUST00008872,Silver,Big-ticket Electronics buyers,Recent low spenders,5,10,2,32361.335,64722.67
+CUST00022553,Gold,Coupon-led buyers,Hibernating,2,151,5,12916.328,64581.64
+CUST00036996,Gold,Core high-value regulars,Needs attention,3,74,4,16133.6575,64534.63
+CUST00002971,Gold,Coupon-led buyers,About to sleep,2,137,6,10730.551666666666,64383.31
+CUST00015451,Gold,Coupon-led buyers,Needs attention,3,87,3,21436.39,64309.17
+CUST00015912,Silver,Coupon-led buyers,Hibernating,2,138,5,12858.878,64294.39
+CUST00020380,Gold,Coupon-led buyers,About to sleep,1,197,7,9166.038571428571,64162.27
+CUST00018025,Silver,Coupon-led buyers,Hibernating,2,151,5,12828.208,64141.04
+CUST00005717,Gold,Coupon-led buyers,Loyal,3,71,7,9153.521428571428,64074.65
+CUST00031522,Silver,Coupon-led buyers,Hibernating,2,159,5,12808.004,64040.02
+CUST00035459,Gold,Coupon-led buyers,Hibernating,1,277,4,16004.2625,64017.05
+CUST00014391,Gold,Core high-value regulars,Loyal,3,87,7,9094.734285714285,63663.14
+CUST00005653,Gold,Core high-value regulars,Hibernating,2,118,4,15894.505,63578.02
+CUST00010615,Gold,Coupon-led buyers,Recent low spenders,5,13,4,15883.65,63534.6
+CUST00033677,Gold,Core high-value regulars,Recent low spenders,4,45,4,15861.54,63446.16
+CUST00025838,Gold,Core high-value regulars,Recent low spenders,4,34,4,15847.2175,63388.87
+CUST00021134,Gold,Big-ticket Electronics buyers,Recent low spenders,4,36,3,21111.906666666662,63335.72
+CUST00034012,Gold,Big-ticket Electronics buyers,Hibernating,2,126,3,21040.05,63120.15
+CUST00023094,Gold,Core high-value regulars,Needs attention,3,99,5,12609.794,63048.97
+CUST00027632,Gold,Big-ticket Electronics buyers,Recent low spenders,5,3,3,20960.960000000003,62882.880000000005
+CUST00028513,Silver,Core high-value regulars,Hibernating,1,210,5,12558.16,62790.8
+CUST00003299,Gold,Big-ticket Electronics buyers,Recent low spenders,5,23,5,12546.822,62734.11
+CUST00001578,Silver,Coupon-led buyers,Hibernating,2,124,5,12501.808,62509.04
+CUST00015484,Gold,Big-ticket Electronics buyers,Hibernating,2,173,2,31251.26,62502.52
+CUST00004776,Silver,Big-ticket Electronics buyers,Hibernating,2,147,2,31191.07,62382.14
+CUST00027620,Gold,Core high-value regulars,Hibernating,2,191,5,12417.234,62086.17
+CUST00035589,Silver,Big-ticket Electronics buyers,Hibernating,1,377,1,62086.09,62086.09
+CUST00001575,Gold,Coupon-led buyers,Hibernating,1,273,3,20677.396666666667,62032.19
+CUST00015321,Silver,Big-ticket Electronics buyers,Hibernating,1,302,2,30972.15,61944.3
+CUST00028160,Gold,Core high-value regulars,Recent low spenders,4,54,5,12342.052,61710.26
+CUST00034903,Gold,Core high-value regulars,Loyal,5,15,6,10269.701666666666,61618.21
+CUST00024505,Gold,Big-ticket Electronics buyers,Hibernating,2,122,3,20525.67,61577.01
+CUST00035312,Gold,Coupon-led buyers,Recent low spenders,4,58,4,15384.4675,61537.87
+CUST00020933,Gold,Coupon-led buyers,Hibernating,2,116,4,15359.2575,61437.03
+CUST00012492,Gold,Coupon-led buyers,Hibernating,2,115,5,12278.096,61390.48
+CUST00006709,Gold,Coupon-led buyers,Hibernating,1,228,4,15284.7425,61138.97
+CUST00014035,Gold,Coupon-led buyers,About to sleep,2,167,7,8723.128571428571,61061.9
+CUST00000833,Gold,Core high-value regulars,Hibernating,2,123,5,12203.53,61017.65
+CUST00014137,Silver,Core high-value regulars,Recent low spenders,4,53,5,12190.228,60951.14000000001
+CUST00037771,Gold,Coupon-led buyers,Hibernating,2,149,3,20309.393333333333,60928.18
+CUST00021393,Silver,Coupon-led buyers,Needs attention,3,66,4,15216.04,60864.16
+CUST00009143,Gold,Coupon-led buyers,Loyal,5,27,6,10143.961666666666,60863.77
+CUST00028432,Silver,Coupon-led buyers,Hibernating,2,132,5,12159.857999999998,60799.28999999999
+CUST00013422,Gold,Coupon-led buyers,Loyal,5,4,6,10131.003333333334,60786.02
+CUST00035334,Gold,Coupon-led buyers,Recent low spenders,5,4,3,20259.2,60777.6
+CUST00015366,Silver,Coupon-led buyers,Recent low spenders,4,54,4,15180.9275,60723.71
+CUST00033555,Gold,Core high-value regulars,Loyal,3,92,6,10103.973333333332,60623.84
+CUST00007543,Gold,Coupon-led buyers,Loyal,5,9,7,8645.83,60520.81
+CUST00032824,Silver,Coupon-led buyers,Loyal,5,26,6,10064.356666666668,60386.14
+CUST00023651,Gold,Big-ticket Electronics buyers,Hibernating,2,122,3,20106.58,60319.740000000005
+CUST00004099,Gold,Coupon-led buyers,Hibernating,2,136,5,12046.926,60234.630000000005
+CUST00019201,Gold,Coupon-led buyers,Loyal,4,53,6,10037.241666666669,60223.45
+CUST00032219,Silver,Big-ticket Electronics buyers,Needs attention,3,105,3,19961.876666666667,59885.630000000005
+CUST00013688,Silver,Big-ticket Electronics buyers,Hibernating,1,448,1,59805.55,59805.55
+CUST00034337,Gold,Core high-value regulars,Loyal,3,78,6,9963.961666666668,59783.77
+CUST00001768,Gold,Core high-value regulars,Hibernating,2,166,5,11945.418,59727.09
+CUST00019825,Silver,Big-ticket Electronics buyers,Needs attention,3,109,1,59651.78,59651.78
+CUST00009762,Gold,Coupon-led buyers,Needs attention,3,76,5,11897.264,59486.32
+CUST00018324,Gold,Core high-value regulars,Loyal,3,89,8,7422.6875,59381.5
+CUST00016632,Gold,Coupon-led buyers,Hibernating,2,135,5,11849.758,59248.79
+CUST00035089,Silver,Coupon-led buyers,Recent low spenders,5,10,4,14790.1375,59160.55
+CUST00008033,Gold,Coupon-led buyers,Recent low spenders,4,43,5,11793.134,58965.67
+CUST00015951,Silver,Core high-value regulars,Loyal,4,35,6,9825.625,58953.75
+CUST00008656,Gold,Core high-value regulars,Needs attention,3,96,5,11771.254,58856.27
+CUST00034403,Silver,Big-ticket Electronics buyers,Needs attention,3,72,2,29372.765,58745.53
+CUST00005061,Gold,Core high-value regulars,Hibernating,2,156,4,14642.775,58571.1
+CUST00039612,Gold,Core high-value regulars,Loyal,5,20,6,9750.845,58505.07
+CUST00033432,Gold,Coupon-led buyers,About to sleep,1,207,7,8335.981428571427,58351.87
+CUST00014058,Gold,Core high-value regulars,Recent low spenders,4,31,5,11636.494,58182.47
+CUST00026771,Gold,Core high-value regulars,Loyal,4,47,6,9689.653333333334,58137.92
+CUST00021823,Silver,Coupon-led buyers,Recent low spenders,5,11,3,19266.96,57800.88
+CUST00032231,Silver,Core high-value regulars,Recent low spenders,5,22,5,11531.156,57655.78
+CUST00030680,Silver,Coupon-led buyers,Recent low spenders,4,44,4,14388.77,57555.08
+CUST00034596,Gold,Coupon-led buyers,Recent low spenders,5,23,5,11486.394,57431.97
+CUST00016080,Gold,Coupon-led buyers,Hibernating,2,177,4,14332.0725,57328.29
+CUST00032097,Silver,Core high-value regulars,Recent low spenders,4,55,4,14319.545,57278.18
+CUST00027983,Silver,Big-ticket Electronics buyers,Recent low spenders,4,58,4,14316.24,57264.96
+CUST00028492,Silver,Core high-value regulars,Recent low spenders,4,33,5,11441.384,57206.92
+CUST00030241,Gold,Coupon-led buyers,Hibernating,1,199,4,14296.53,57186.12
+CUST00039833,Gold,Core high-value regulars,Hibernating,2,113,5,11436.226,57181.13
+CUST00028644,Silver,Big-ticket Electronics buyers,Hibernating,2,195,3,19021.376666666667,57064.13
+CUST00004277,Silver,Coupon-led buyers,Recent low spenders,5,12,4,14255.760000000002,57023.04000000001
+CUST00012487,Gold,Core high-value regulars,Needs attention,3,80,5,11350.85,56754.25
+CUST00005427,Silver,Big-ticket Electronics buyers,Hibernating,1,363,1,56680.6,56680.6
+CUST00018747,Gold,Coupon-led buyers,About to sleep,1,314,6,9430.7,56584.2
+CUST00002384,Gold,Coupon-led buyers,Loyal,5,7,7,8077.127142857142,56539.88999999999
+CUST00002242,Gold,Coupon-led buyers,Recent low spenders,5,5,4,14129.105,56516.42
+CUST00033154,Silver,Core high-value regulars,Needs attention,3,70,5,11260.362,56301.81
+CUST00013374,Gold,Core high-value regulars,Loyal,5,12,6,9382.576666666666,56295.46
+CUST00006845,Gold,Coupon-led buyers,Needs attention,3,104,4,14059.4775,56237.91
+CUST00013272,Gold,Core high-value regulars,Champions,4,32,10,5621.9980000000005,56219.98
+CUST00031184,Silver,Core high-value regulars,Hibernating,2,126,3,18729.92,56189.76
+CUST00031149,Silver,Big-ticket Electronics buyers,Needs attention,3,80,3,18630.923333333336,55892.77
+CUST00029980,Gold,Coupon-led buyers,Hibernating,2,152,5,11176.484,55882.42
+CUST00019792,Gold,Coupon-led buyers,Hibernating,2,160,4,13940.7625,55763.05
+CUST00038149,Gold,Coupon-led buyers,About to sleep,1,360,7,7892.027142857143,55244.19
+CUST00030281,Gold,Coupon-led buyers,Recent low spenders,4,33,5,11044.866,55224.33
+CUST00008044,Gold,Coupon-led buyers,Hibernating,1,249,5,11026.172,55130.86
+CUST00015917,Silver,Big-ticket Electronics buyers,Hibernating,1,271,2,27560.535,55121.07
+CUST00031256,Gold,Core high-value regulars,Needs attention,3,84,4,13776.795,55107.18
+CUST00026192,Silver,Coupon-led buyers,Recent low spenders,5,18,4,13740.065,54960.26
+CUST00025282,Gold,Core high-value regulars,Recent low spenders,4,52,4,13730.975,54923.9
+CUST00017849,Silver,Coupon-led buyers,Recent low spenders,4,43,4,13718.5525,54874.21
+CUST00004372,Gold,Core high-value regulars,About to sleep,2,171,6,9124.105,54744.63
+CUST00028645,Silver,Big-ticket Electronics buyers,Recent low spenders,5,25,3,18234.06,54702.18
+CUST00004153,Gold,Big-ticket Electronics buyers,Needs attention,3,63,3,18191.52333333333,54574.57
+CUST00005265,Gold,Big-ticket Electronics buyers,Hibernating,1,200,3,18176.23,54528.69
+CUST00023735,Gold,Big-ticket Electronics buyers,Hibernating,1,233,2,27207.77,54415.54
+CUST00021813,Gold,Core high-value regulars,Recent low spenders,5,14,5,10880.352,54401.76
+CUST00001464,Silver,Big-ticket Electronics buyers,Hibernating,2,191,3,18121.736666666668,54365.21
+CUST00021365,Gold,Coupon-led buyers,Needs attention,3,64,4,13570.465,54281.86
+CUST00021249,Gold,Coupon-led buyers,Recent low spenders,5,2,4,13560.93,54243.72
+CUST00012353,Silver,Coupon-led buyers,About to sleep,2,179,7,7743.777142857143,54206.44
+CUST00012679,Gold,Coupon-led buyers,Hibernating,2,112,5,10837.59,54187.95
+CUST00027126,Gold,Core high-value regulars,Recent low spenders,5,15,4,13516.3925,54065.57
+CUST00020350,Gold,Core high-value regulars,Recent low spenders,5,21,5,10805.656,54028.28
+CUST00028567,Gold,Coupon-led buyers,Hibernating,2,122,5,10772.22,53861.1
+CUST00007028,Gold,Core high-value regulars,Needs attention,3,97,4,13410.9,53643.600000000006
+CUST00029105,Gold,Coupon-led buyers,Loyal,5,25,8,6695.02,53560.16
+CUST00027551,Silver,Big-ticket Electronics buyers,Recent low spenders,4,40,3,17852.476666666666,53557.43
+CUST00006306,Gold,Core high-value regulars,Hibernating,2,176,4,13387.01,53548.04
+CUST00022121,Gold,Coupon-led buyers,Hibernating,1,285,5,10699.904,53499.52
+CUST00007269,Gold,Core high-value regulars,Needs attention,3,107,4,13347.15,53388.600000000006
+CUST00014982,Gold,Coupon-led buyers,Recent low spenders,5,23,4,13331.822499999998,53327.28999999999
+CUST00000069,Gold,Core high-value regulars,Loyal,5,17,6,8871.935,53231.61
+CUST00032615,Gold,Coupon-led buyers,Recent low spenders,4,29,5,10641.824,53209.12
+CUST00032066,Gold,Big-ticket Electronics buyers,Recent low spenders,4,59,2,26590.11,53180.22
+CUST00021409,Gold,Coupon-led buyers,Needs attention,3,104,3,17692.403333333332,53077.21
+CUST00023532,Gold,Big-ticket Electronics buyers,Recent low spenders,5,4,2,26528.895,53057.79
+CUST00034075,Silver,Core high-value regulars,Hibernating,2,157,3,17647.836666666666,52943.51
+CUST00031644,Silver,Big-ticket Electronics buyers,Needs attention,3,72,3,17634.87,52904.61
+CUST00029494,Gold,Coupon-led buyers,Loyal,5,22,7,7539.538571428572,52776.77
+CUST00007790,Gold,Big-ticket Electronics buyers,Loyal,3,77,6,8788.158333333333,52728.95
+CUST00022999,Gold,Big-ticket Electronics buyers,Recent low spenders,5,6,3,17532.11333333333,52596.34
+CUST00005539,Silver,Big-ticket Electronics buyers,Hibernating,2,181,2,26286.01,52572.02
+CUST00023949,Gold,Core high-value regulars,Needs attention,3,108,5,10492.49,52462.45
+CUST00020572,Gold,Core high-value regulars,Recent low spenders,4,49,5,10479.202,52396.01
+CUST00034188,Gold,Coupon-led buyers,Hibernating,1,209,5,10407.342,52036.71
+CUST00020253,Gold,Core high-value regulars,About to sleep,2,142,6,8668.333333333334,52010.0
+CUST00023107,Gold,Coupon-led buyers,About to sleep,2,151,6,8665.551666666666,51993.31
+CUST00028125,Gold,Coupon-led buyers,About to sleep,1,217,7,7422.684285714286,51958.79
+CUST00011917,Gold,Big-ticket Electronics buyers,Hibernating,2,190,3,17313.756666666668,51941.27
+CUST00038983,Silver,Big-ticket Electronics buyers,Recent low spenders,5,14,3,17305.443333333333,51916.33
+CUST00024398,Gold,Big-ticket Electronics buyers,Hibernating,2,139,5,10382.936,51914.68
+CUST00020056,Silver,Big-ticket Electronics buyers,Recent low spenders,5,11,3,17254.946666666667,51764.84
+CUST00032636,Gold,Core high-value regulars,Loyal,4,28,6,8626.283333333335,51757.7
+CUST00015110,Gold,Big-ticket Electronics buyers,Hibernating,2,150,2,25836.0,51672.0
+CUST00023043,Gold,Coupon-led buyers,Loyal,3,84,6,8611.605000000001,51669.630000000005
+CUST00038897,Gold,Core high-value regulars,Needs attention,3,90,4,12871.4825,51485.93
+CUST00037290,Gold,Core high-value regulars,Hibernating,2,147,4,12851.175,51404.7
+CUST00002664,Gold,Coupon-led buyers,Needs attention,3,64,5,10244.438,51222.19
+CUST00034417,Gold,Coupon-led buyers,Needs attention,3,102,5,10200.478,51002.39
+CUST00022267,Gold,Core high-value regulars,Recent low spenders,5,19,4,12728.915,50915.66
+CUST00020160,Gold,Big-ticket Electronics buyers,Recent low spenders,5,4,3,16930.94,50792.82
+CUST00001697,Silver,Big-ticket Electronics buyers,Needs attention,3,104,3,16928.280000000002,50784.84
+CUST00015946,Gold,Coupon-led buyers,Loyal,3,67,6,8462.07,50772.42
+CUST00007014,Gold,Coupon-led buyers,Recent low spenders,5,23,4,12682.495,50729.98
+CUST00033285,Gold,Coupon-led buyers,Hibernating,2,115,5,10145.532,50727.66
+CUST00007381,Gold,Core high-value regulars,Needs attention,3,74,4,12670.2775,50681.11
+CUST00034840,Silver,Coupon-led buyers,Loyal,3,66,7,7227.629999999999,50593.41
+CUST00031083,Gold,Coupon-led buyers,Loyal,4,33,6,8419.581666666667,50517.49
+CUST00033909,Gold,Coupon-led buyers,Loyal,5,17,6,8416.146666666667,50496.880000000005
+CUST00032853,Gold,Big-ticket Electronics buyers,Needs attention,3,65,3,16762.606666666667,50287.82
+CUST00018999,Gold,Coupon-led buyers,Recent low spenders,5,10,4,12564.13,50256.52
+CUST00002383,Gold,Big-ticket Electronics buyers,Hibernating,2,127,3,16749.466666666667,50248.4
+CUST00028190,Silver,Big-ticket Electronics buyers,Recent low spenders,4,55,2,25108.855,50217.71
+CUST00016328,Silver,Coupon-led buyers,Loyal,4,48,7,7168.005714285716,50176.04000000001
+CUST00033796,Silver,Coupon-led buyers,Recent low spenders,4,46,5,10024.42,50122.1
+CUST00028486,Gold,Core high-value regulars,Recent low spenders,5,8,5,10024.264,50121.32
+CUST00003876,Gold,Coupon-led buyers,About to sleep,1,228,7,7151.038571428572,50057.27
+CUST00018173,Gold,Big-ticket Electronics buyers,Hibernating,2,142,3,16681.2,50043.6
+CUST00013331,Gold,Big-ticket Electronics buyers,Hibernating,1,201,4,12508.62,50034.48
+CUST00011371,Gold,Big-ticket Electronics buyers,Needs attention,3,75,2,24982.94,49965.88
+CUST00015792,Gold,Coupon-led buyers,Loyal,5,4,8,6245.162499999999,49961.3
+CUST00016764,Gold,Coupon-led buyers,Recent low spenders,5,18,4,12467.4825,49869.93
+CUST00004452,Gold,Coupon-led buyers,Needs attention,3,69,5,9970.813999999998,49854.06999999999
+CUST00022578,Gold,Big-ticket Electronics buyers,Hibernating,2,119,1,49802.78,49802.78
+CUST00036727,Gold,Big-ticket Electronics buyers,Hibernating,2,169,2,24881.13,49762.26
+CUST00031855,Gold,Coupon-led buyers,Loyal,4,30,6,8287.583333333332,49725.49999999999
+CUST00029341,Gold,Core high-value regulars,Recent low spenders,4,38,4,12421.6625,49686.65
+CUST00031357,Gold,Core high-value regulars,Hibernating,1,205,5,9934.12,49670.6
+CUST00018109,Gold,Big-ticket Electronics buyers,Hibernating,1,313,1,49663.99,49663.99
+CUST00033797,Gold,Coupon-led buyers,Recent low spenders,4,31,3,16550.2,49650.6
+CUST00033379,Gold,Coupon-led buyers,Loyal,5,9,6,8270.435,49622.60999999999
+CUST00004920,Gold,Core high-value regulars,Recent low spenders,5,3,5,9904.454000000002,49522.27
+CUST00013056,Gold,Coupon-led buyers,Recent low spenders,4,45,5,9903.972,49519.86
+CUST00003737,Gold,Coupon-led buyers,Needs attention,3,87,4,12371.2125,49484.85
+CUST00014776,Gold,Coupon-led buyers,Loyal,4,59,8,6185.071250000001,49480.57000000001
+CUST00025918,Gold,Coupon-led buyers,Needs attention,3,85,3,16491.70666666667,49475.12
+CUST00008314,Gold,Coupon-led buyers,Needs attention,3,107,3,16488.793333333335,49466.380000000005
+CUST00014153,Gold,Coupon-led buyers,About to sleep,1,324,7,7064.595714285714,49452.17
+CUST00001810,Gold,Core high-value regulars,About to sleep,2,175,6,8237.933333333334,49427.600000000006
+CUST00032718,Gold,Coupon-led buyers,Loyal,3,74,6,8235.813333333334,49414.880000000005
+CUST00018676,Gold,Core high-value regulars,Loyal,5,0,6,8230.781666666668,49384.69
+CUST00009965,Gold,Coupon-led buyers,Needs attention,3,103,4,12336.4975,49345.99
+CUST00030546,Gold,Core high-value regulars,Needs attention,3,90,3,16439.913333333334,49319.740000000005
+CUST00000346,Gold,Coupon-led buyers,Needs attention,3,84,4,12320.955,49283.82
+CUST00029522,Gold,Core high-value regulars,Needs attention,3,63,5,9854.474,49272.37
+CUST00006826,Gold,Coupon-led buyers,Recent low spenders,5,15,4,12315.47,49261.880000000005
+CUST00023252,Gold,Big-ticket Electronics buyers,Recent low spenders,5,15,3,16401.420000000002,49204.26
+CUST00004284,Gold,Big-ticket Electronics buyers,Needs attention,3,78,4,12290.9125,49163.65
+CUST00017248,Gold,Big-ticket Electronics buyers,Needs attention,3,77,2,24573.17,49146.34
+CUST00038209,Silver,Big-ticket Electronics buyers,Needs attention,3,86,2,24565.975,49131.95
+CUST00004554,Gold,Core high-value regulars,Recent low spenders,4,37,5,9824.702,49123.51
+CUST00020396,Gold,Coupon-led buyers,Loyal,4,47,6,8185.078333333334,49110.47
+CUST00014611,Gold,Coupon-led buyers,Recent low spenders,5,21,5,9813.678,49068.39
+CUST00037910,Silver,Core high-value regulars,Recent low spenders,4,53,5,9812.106,49060.53
+CUST00005223,Gold,Coupon-led buyers,Recent low spenders,4,34,3,16352.616666666669,49057.85
+CUST00011165,Gold,Coupon-led buyers,Hibernating,2,191,5,9810.094,49050.47
+CUST00013951,Gold,Coupon-led buyers,Recent low spenders,5,5,4,12259.565,49038.26
+CUST00018097,Gold,Coupon-led buyers,Hibernating,1,277,3,16343.826666666666,49031.48
+CUST00013360,Gold,Coupon-led buyers,Needs attention,3,77,4,12255.0875,49020.35
+CUST00013371,Gold,Big-ticket Electronics buyers,Needs attention,3,95,4,12245.395,48981.58
+CUST00005355,Gold,Coupon-led buyers,Recent low spenders,5,21,4,12245.05,48980.2
+CUST00024130,Gold,Core high-value regulars,Hibernating,2,140,5,9794.578,48972.89
+CUST00010606,Gold,Big-ticket Electronics buyers,Recent low spenders,4,34,2,24482.91,48965.82
+CUST00025653,Gold,Coupon-led buyers,Recent low spenders,5,2,4,12233.725,48934.9
+CUST00002150,Silver,Big-ticket Electronics buyers,Hibernating,1,240,2,24457.395,48914.79
+CUST00014590,Gold,Coupon-led buyers,Loyal,4,58,7,6985.574285714286,48899.02
+CUST00026012,Gold,Coupon-led buyers,Hibernating,1,237,3,16299.29,48897.87
+CUST00020137,Gold,Big-ticket Electronics buyers,Hibernating,2,134,3,16295.796666666669,48887.39
+CUST00023187,Silver,Coupon-led buyers,Hibernating,1,222,4,12211.0075,48844.03
+CUST00016241,Gold,Coupon-led buyers,Loyal,3,85,6,8136.716666666667,48820.3
+CUST00022091,Gold,Big-ticket Electronics buyers,Hibernating,2,173,3,16269.553333333335,48808.66
+CUST00013609,Gold,Big-ticket Electronics buyers,Hibernating,2,140,2,24401.82,48803.64
+CUST00010083,Gold,Coupon-led buyers,Hibernating,1,261,5,9758.882,48794.41
+CUST00037301,Gold,Coupon-led buyers,About to sleep,2,129,7,6970.345714285715,48792.420000000006
+CUST00018556,Gold,Coupon-led buyers,Hibernating,2,143,4,12197.4,48789.600000000006
+CUST00006218,Gold,Coupon-led buyers,Loyal,3,87,6,8129.633333333334,48777.8
+CUST00037031,Gold,Coupon-led buyers,Loyal,4,62,6,8128.601666666666,48771.61
+CUST00037333,Gold,Big-ticket Electronics buyers,Hibernating,2,150,3,16249.736666666666,48749.21
+CUST00006742,Gold,Core high-value regulars,Loyal,5,16,7,6962.284285714287,48735.990000000005
+CUST00025572,Gold,Big-ticket Electronics buyers,Recent low spenders,5,25,3,16223.766666666668,48671.3
+CUST00021591,Silver,Big-ticket Electronics buyers,Hibernating,2,162,2,24328.305,48656.61
+CUST00033461,Silver,Coupon-led buyers,Recent low spenders,4,36,5,9729.772,48648.86
+CUST00009629,Gold,Coupon-led buyers,Needs attention,3,82,4,12139.9775,48559.91
+CUST00026614,Gold,Coupon-led buyers,Recent low spenders,4,36,4,12139.625,48558.5
+CUST00027043,Gold,Big-ticket Electronics buyers,Recent low spenders,5,21,3,16184.463333333331,48553.39
+CUST00011137,Gold,Coupon-led buyers,Loyal,3,80,8,6068.805,48550.44
+CUST00006127,Gold,Coupon-led buyers,Hibernating,2,176,5,9702.228,48511.14
+CUST00023575,Gold,Core high-value regulars,Hibernating,2,167,4,12124.225,48496.9
+CUST00012643,Silver,Big-ticket Electronics buyers,Hibernating,2,140,3,16163.906666666664,48491.72
+CUST00015219,Gold,Big-ticket Electronics buyers,Recent low spenders,5,19,3,16162.873333333337,48488.62
+CUST00034678,Gold,Big-ticket Electronics buyers,Hibernating,2,131,2,24226.105,48452.21
+CUST00036802,Silver,Big-ticket Electronics buyers,Hibernating,2,128,2,24198.685,48397.37
+CUST00014836,Gold,Big-ticket Electronics buyers,Needs attention,3,68,2,24186.4,48372.8
+CUST00021029,Gold,Core high-value regulars,Hibernating,2,129,3,16123.056666666664,48369.17
+CUST00008700,Gold,Core high-value regulars,Hibernating,2,168,5,9663.548,48317.74
+CUST00023825,Gold,Coupon-led buyers,Hibernating,2,184,5,9660.98,48304.9
+CUST00027998,Gold,Big-ticket Electronics buyers,Recent low spenders,5,21,1,48283.67,48283.67
+CUST00026692,Gold,Big-ticket Electronics buyers,Hibernating,1,214,2,24119.965,48239.93
+CUST00035636,Gold,Big-ticket Electronics buyers,Hibernating,2,133,3,16070.786666666669,48212.36
+CUST00037106,Gold,Core high-value regulars,Hibernating,2,154,3,16039.266666666668,48117.8
+CUST00022090,Gold,Coupon-led buyers,Recent low spenders,5,25,4,12023.55,48094.2
+CUST00039594,Gold,Coupon-led buyers,Loyal,5,14,8,6011.35,48090.8
+CUST00011018,Gold,Coupon-led buyers,Hibernating,2,122,4,12021.7375,48086.95
+CUST00025458,Gold,Coupon-led buyers,Recent low spenders,4,43,3,16024.88,48074.64
+CUST00019169,Gold,Core high-value regulars,Needs attention,3,87,3,16021.316666666668,48063.95
+CUST00013539,Gold,Coupon-led buyers,Recent low spenders,4,55,3,16011.94,48035.82
+CUST00004625,Gold,Big-ticket Electronics buyers,Needs attention,3,63,3,16011.926666666666,48035.78
+CUST00015279,Gold,Coupon-led buyers,Hibernating,1,206,5,9606.216,48031.08
+CUST00025945,Gold,Coupon-led buyers,Loyal,5,0,6,8004.555,48027.33
+CUST00027611,Gold,Core high-value regulars,Hibernating,2,120,5,9604.402,48022.01
+CUST00010771,Gold,Core high-value regulars,Recent low spenders,4,52,4,12004.502500000002,48018.01000000001
+CUST00026370,Silver,Coupon-led buyers,Hibernating,1,265,3,16004.706666666663,48014.12
+CUST00031710,Gold,Big-ticket Electronics buyers,Hibernating,1,205,3,15984.696666666665,47954.09
+CUST00038016,Gold,Coupon-led buyers,Hibernating,1,217,5,9579.25,47896.25
+CUST00004335,Gold,Coupon-led buyers,Hibernating,1,239,4,11972.2375,47888.95
+CUST00034599,Gold,Core high-value regulars,Hibernating,2,180,4,11971.8325,47887.33
+CUST00015914,Gold,Big-ticket Electronics buyers,Recent low spenders,5,2,5,9572.19,47860.95
+CUST00037284,Gold,Core high-value regulars,Recent low spenders,4,31,4,11958.9825,47835.93
+CUST00034347,Gold,Coupon-led buyers,Needs attention,3,83,5,9559.044,47795.22
+CUST00000804,Gold,Coupon-led buyers,Recent low spenders,4,28,3,15925.356666666668,47776.07000000001
+CUST00018295,Gold,Coupon-led buyers,Hibernating,2,176,2,23875.6,47751.2
+CUST00029901,Gold,Coupon-led buyers,Needs attention,3,74,4,11928.745,47714.98
+CUST00014000,Silver,Big-ticket Electronics buyers,Recent low spenders,4,32,2,23831.215,47662.43
+CUST00034746,Gold,Big-ticket Electronics buyers,Hibernating,2,188,3,15874.48,47623.44
+CUST00026333,Gold,Core high-value regulars,Recent low spenders,5,14,4,11900.785,47603.14
+CUST00037220,Gold,Coupon-led buyers,Needs attention,3,95,5,9519.824,47599.12
+CUST00013807,Gold,Coupon-led buyers,Recent low spenders,4,42,4,11889.0325,47556.13
+CUST00012550,Silver,Coupon-led buyers,Recent low spenders,4,50,3,15846.92,47540.76
+CUST00011818,Gold,Big-ticket Electronics buyers,Hibernating,2,150,3,15842.67,47528.01
+CUST00038879,Gold,Coupon-led buyers,Hibernating,1,196,4,11881.2975,47525.19
+CUST00003161,Gold,Core high-value regulars,Recent low spenders,4,40,5,9491.958,47459.79
+CUST00035495,Gold,Core high-value regulars,About to sleep,2,139,6,7909.420000000001,47456.52
+CUST00038318,Gold,Core high-value regulars,Recent low spenders,5,24,4,11863.145,47452.58
+CUST00034758,Gold,Coupon-led buyers,Recent low spenders,4,39,4,11859.0525,47436.21
+CUST00010590,Gold,Coupon-led buyers,Hibernating,2,115,3,15811.876666666669,47435.630000000005
+CUST00016803,Gold,Big-ticket Electronics buyers,Needs attention,3,107,3,15799.503333333334,47398.51
+CUST00016477,Gold,Coupon-led buyers,Hibernating,1,240,5,9474.164,47370.82
+CUST00026122,Gold,Coupon-led buyers,Needs attention,3,81,4,11839.759999999998,47359.03999999999
+CUST00034160,Gold,Core high-value regulars,Hibernating,1,216,5,9470.982,47354.91
+CUST00006145,Gold,Big-ticket Electronics buyers,Needs attention,3,76,3,15782.156666666668,47346.47
+CUST00019102,Silver,Big-ticket Electronics buyers,Hibernating,2,141,2,23627.63,47255.26
+CUST00010539,Gold,Coupon-led buyers,Needs attention,3,111,4,11813.2775,47253.11
+CUST00019808,Gold,Core high-value regulars,Recent low spenders,5,17,3,15743.72,47231.16
+CUST00011903,Gold,Core high-value regulars,About to sleep,2,192,6,7869.583333333333,47217.5
+CUST00022883,Gold,Coupon-led buyers,Hibernating,2,164,4,11802.3175,47209.27
+CUST00014020,Gold,Coupon-led buyers,Loyal,3,105,6,7866.693333333334,47200.16
+CUST00031683,Gold,Core high-value regulars,Needs attention,3,81,4,11797.4875,47189.95
+CUST00017393,Gold,Core high-value regulars,Hibernating,2,116,5,9436.854,47184.27
+CUST00024103,Gold,Core high-value regulars,Recent low spenders,5,8,4,11786.97,47147.880000000005
+CUST00020092,Gold,Core high-value regulars,Recent low spenders,5,0,5,9419.12,47095.6
+CUST00003320,Gold,Big-ticket Electronics buyers,Recent low spenders,5,26,3,15698.086666666668,47094.26
+CUST00023859,Gold,Coupon-led buyers,Recent low spenders,5,24,5,9398.012,46990.06
+CUST00036935,Gold,Core high-value regulars,Recent low spenders,4,34,4,11726.6875,46906.75
+CUST00021545,Gold,Core high-value regulars,Hibernating,1,211,5,9360.198,46800.99
+CUST00008989,Gold,Coupon-led buyers,Hibernating,1,295,5,9358.766,46793.83
+CUST00018022,Gold,Big-ticket Electronics buyers,Needs attention,3,97,3,15595.733333333335,46787.2
+CUST00038420,Gold,Big-ticket Electronics buyers,Recent low spenders,4,47,2,23387.965,46775.93
+CUST00025309,Gold,Coupon-led buyers,Loyal,3,79,7,6678.46,46749.22
+CUST00033103,Gold,Big-ticket Electronics buyers,Hibernating,2,192,2,23365.745000000003,46731.490000000005
+CUST00036925,Gold,Coupon-led buyers,Hibernating,1,197,4,11678.295,46713.18
+CUST00004962,Gold,Coupon-led buyers,Recent low spenders,4,45,4,11676.1375,46704.55
+CUST00034365,Gold,Core high-value regulars,Loyal,4,45,7,6668.112857142857,46676.79
+CUST00035184,Gold,Coupon-led buyers,Recent low spenders,5,24,3,15556.309999999998,46668.92999999999
+CUST00017765,Gold,Big-ticket Electronics buyers,Recent low spenders,4,59,3,15538.973333333332,46616.92
+CUST00007157,Gold,Big-ticket Electronics buyers,Recent low spenders,5,0,3,15534.956666666663,46604.87
+CUST00037351,Gold,Core high-value regulars,Needs attention,3,94,4,11650.25,46601.0
+CUST00038824,Silver,Big-ticket Electronics buyers,Recent low spenders,5,9,4,11638.1575,46552.63
+CUST00005263,Gold,Coupon-led buyers,About to sleep,2,195,7,6649.994285714287,46549.96000000001
+CUST00033469,Gold,Coupon-led buyers,Hibernating,2,172,3,15508.153333333334,46524.46
+CUST00010282,Gold,Big-ticket Electronics buyers,Recent low spenders,5,13,2,23243.54,46487.08
+CUST00028722,Gold,Coupon-led buyers,Loyal,5,11,8,5807.94375,46463.55
+CUST00006935,Gold,Core high-value regulars,Recent low spenders,5,24,5,9292.622,46463.11
+CUST00012225,Gold,Coupon-led buyers,Hibernating,2,120,4,11614.6075,46458.43
+CUST00009404,Gold,Coupon-led buyers,Needs attention,3,79,4,11609.2,46436.8
+CUST00020379,Gold,Coupon-led buyers,Hibernating,2,123,3,15475.576666666668,46426.73
+CUST00007239,Gold,Big-ticket Electronics buyers,Recent low spenders,4,43,3,15463.253333333332,46389.76
+CUST00027492,Gold,Core high-value regulars,Recent low spenders,5,22,3,15463.03,46389.09
+CUST00013240,Gold,Coupon-led buyers,Recent low spenders,5,24,5,9267.672,46338.35999999999
+CUST00035756,Gold,Big-ticket Electronics buyers,Recent low spenders,5,6,2,23164.135,46328.27
+CUST00035157,Gold,Coupon-led buyers,Recent low spenders,4,33,4,11576.8125,46307.25
+CUST00001343,Gold,Core high-value regulars,Loyal,5,9,6,7715.049999999999,46290.3
+CUST00039708,Gold,Coupon-led buyers,Hibernating,2,134,5,9254.442,46272.21
+CUST00019163,Gold,Coupon-led buyers,Recent low spenders,4,61,4,11552.5325,46210.13
+CUST00011507,Gold,Coupon-led buyers,Hibernating,2,123,5,9241.994,46209.97
+CUST00001009,Gold,Coupon-led buyers,Hibernating,1,257,5,9239.246,46196.23
+CUST00029666,Gold,Big-ticket Electronics buyers,Hibernating,1,298,1,46187.0,46187.0
+CUST00035394,Gold,Coupon-led buyers,Recent low spenders,5,14,5,9231.402,46157.01
+CUST00019098,Gold,Coupon-led buyers,Hibernating,2,132,5,9228.76,46143.8
+CUST00039389,Gold,Big-ticket Electronics buyers,Recent low spenders,4,45,4,11535.77,46143.08
+CUST00017896,Gold,Big-ticket Electronics buyers,Needs attention,3,81,2,23054.85,46109.7
+CUST00019667,Gold,Coupon-led buyers,Hibernating,1,214,5,9216.482,46082.41
+CUST00039638,Gold,Core high-value regulars,Needs attention,3,98,4,11519.95,46079.8
+CUST00024899,Gold,Big-ticket Electronics buyers,Needs attention,3,64,3,15358.703333333331,46076.11
+CUST00010527,Gold,Core high-value regulars,Needs attention,3,100,4,11518.1125,46072.45
+CUST00010284,Gold,Coupon-led buyers,Recent low spenders,5,4,5,9207.112,46035.56
+CUST00018712,Gold,Coupon-led buyers,Needs attention,3,100,5,9203.658,46018.29
+CUST00019557,Gold,Big-ticket Electronics buyers,Hibernating,2,162,2,23009.015,46018.03
+CUST00003797,Gold,Coupon-led buyers,Loyal,4,37,6,7668.621666666667,46011.73
+CUST00003403,Gold,Coupon-led buyers,Recent low spenders,5,5,3,15333.663333333332,46000.99
+CUST00011571,Gold,Core high-value regulars,Recent low spenders,4,30,5,9197.144,45985.72
+CUST00028384,Gold,Coupon-led buyers,Needs attention,3,109,3,15327.01,45981.03
+CUST00002214,Gold,Big-ticket Electronics buyers,Recent low spenders,5,14,2,22988.085,45976.17
+CUST00001512,Gold,Coupon-led buyers,Hibernating,1,346,5,9192.886,45964.43
+CUST00031121,Gold,Big-ticket Electronics buyers,Hibernating,2,154,2,22939.515,45879.03
+CUST00027703,Gold,Big-ticket Electronics buyers,Needs attention,3,67,3,15280.93,45842.79
+CUST00038365,Gold,Coupon-led buyers,Needs attention,3,74,5,9155.74,45778.7
+CUST00000453,Gold,Coupon-led buyers,Loyal,3,84,6,7624.631666666667,45747.79
+CUST00006727,Gold,Coupon-led buyers,Needs attention,3,101,3,15247.713333333337,45743.14000000001
+CUST00036857,Gold,Coupon-led buyers,About to sleep,2,140,7,6533.071428571428,45731.5
+CUST00029324,Gold,Coupon-led buyers,About to sleep,2,175,6,7620.378333333333,45722.27
+CUST00012041,Silver,Core high-value regulars,Hibernating,2,120,5,9143.716,45718.58
+CUST00015862,Gold,Coupon-led buyers,Hibernating,1,290,4,11417.2,45668.8
+CUST00003856,Gold,Big-ticket Electronics buyers,Needs attention,3,83,2,22826.4,45652.8
+CUST00031777,Gold,Coupon-led buyers,Hibernating,2,141,3,15208.14,45624.42
+CUST00024767,Gold,Coupon-led buyers,Hibernating,2,128,5,9122.838,45614.19
+CUST00034776,Gold,Coupon-led buyers,Hibernating,1,273,3,15182.936666666666,45548.81
+CUST00004502,Gold,Coupon-led buyers,Loyal,3,93,6,7579.126666666667,45474.76
+CUST00022946,Gold,Big-ticket Electronics buyers,Hibernating,2,156,2,22737.08,45474.16
+CUST00034471,Gold,Coupon-led buyers,Recent low spenders,4,45,4,11363.54,45454.16
+CUST00008053,Gold,Big-ticket Electronics buyers,Needs attention,3,76,2,22700.19,45400.38
+CUST00007648,Gold,Core high-value regulars,Loyal,5,10,6,7565.740000000001,45394.44
+CUST00000433,Silver,Big-ticket Electronics buyers,Recent low spenders,5,26,2,22696.4,45392.8
+CUST00036767,Gold,Coupon-led buyers,Hibernating,1,237,3,15129.266666666665,45387.8
+CUST00018052,Gold,Coupon-led buyers,Needs attention,3,107,5,9074.134,45370.67
+CUST00028127,Gold,Big-ticket Electronics buyers,Recent low spenders,4,28,4,11342.6025,45370.41
+CUST00013775,Gold,Big-ticket Electronics buyers,Needs attention,3,100,3,15118.783333333333,45356.35
+CUST00038028,Gold,Big-ticket Electronics buyers,Hibernating,2,162,2,22673.76,45347.52
+CUST00012970,Gold,Coupon-led buyers,Recent low spenders,5,15,4,11334.7,45338.8
+CUST00014641,Gold,Coupon-led buyers,About to sleep,2,126,7,6475.884285714286,45331.19
+CUST00035897,Gold,Core high-value regulars,Recent low spenders,5,10,4,11322.365,45289.46
+CUST00011082,Gold,Coupon-led buyers,Recent low spenders,4,29,5,9057.426,45287.130000000005
+CUST00028137,Gold,Core high-value regulars,Needs attention,3,85,3,15091.016666666668,45273.05
+CUST00006888,Gold,Coupon-led buyers,Loyal,3,79,11,4106.181818181818,45168.0
+CUST00004616,Gold,Coupon-led buyers,Needs attention,3,90,4,11283.8675,45135.47
+CUST00019531,Silver,Big-ticket Electronics buyers,Hibernating,2,166,3,15044.64,45133.92
+CUST00026429,Gold,Big-ticket Electronics buyers,Needs attention,3,94,3,15043.606666666668,45130.82
+CUST00031771,Gold,Core high-value regulars,Hibernating,2,121,4,11273.9025,45095.61
+CUST00039599,Gold,Coupon-led buyers,Recent low spenders,5,27,4,11272.712499999998,45090.84999999999
+CUST00034474,Gold,Coupon-led buyers,Hibernating,2,132,3,15029.229999999998,45087.69
+CUST00003474,Gold,Coupon-led buyers,Hibernating,1,210,3,15028.96,45086.880000000005
+CUST00008809,Gold,Coupon-led buyers,Hibernating,1,261,3,15027.16666666667,45081.50000000001
+CUST00028520,Gold,Coupon-led buyers,About to sleep,2,145,6,7502.833333333333,45017.0
+CUST00031296,Gold,Big-ticket Electronics buyers,Hibernating,2,112,2,22488.41,44976.82
+CUST00009731,Gold,Core high-value regulars,Hibernating,2,125,4,11243.89,44975.56
+CUST00017605,Gold,Coupon-led buyers,About to sleep,1,235,6,7495.811666666667,44974.87
+CUST00023133,Gold,Core high-value regulars,Recent low spenders,5,5,4,11234.3075,44937.23
+CUST00004986,Gold,Big-ticket Electronics buyers,Hibernating,1,211,3,14975.65,44926.95
+CUST00030112,Gold,Core high-value regulars,Needs attention,3,65,4,11231.4775,44925.91
+CUST00012905,Gold,Big-ticket Electronics buyers,Recent low spenders,5,27,1,44916.79,44916.79
+CUST00001787,Gold,Big-ticket Electronics buyers,Recent low spenders,4,44,3,14961.316666666666,44883.95
+CUST00018898,Silver,Coupon-led buyers,Hibernating,1,222,4,11210.185,44840.74
+CUST00015766,Gold,Coupon-led buyers,Hibernating,2,144,4,11205.49,44821.96
+CUST00014666,Gold,Big-ticket Electronics buyers,Needs attention,3,69,3,14940.12,44820.36
+CUST00036952,Gold,Coupon-led buyers,Loyal,3,82,6,7465.916666666667,44795.5
+CUST00001302,Gold,Coupon-led buyers,Loyal,4,43,6,7464.463333333333,44786.78
+CUST00028158,Gold,Coupon-led buyers,Recent low spenders,4,30,5,8927.534,44637.67
+CUST00024515,Gold,Coupon-led buyers,Recent low spenders,4,44,5,8924.756,44623.78
+CUST00024870,Gold,Big-ticket Electronics buyers,Needs attention,3,108,3,14858.893333333332,44576.68
+CUST00024967,Silver,Coupon-led buyers,Hibernating,2,154,3,14846.116666666669,44538.35
+CUST00004820,Gold,Coupon-led buyers,Needs attention,3,103,3,14841.526666666668,44524.58
+CUST00037698,Gold,Big-ticket Electronics buyers,Hibernating,2,142,3,14837.186666666666,44511.56
+CUST00016051,Gold,Big-ticket Electronics buyers,Recent low spenders,5,7,4,11117.1425,44468.57
+CUST00005120,Gold,Coupon-led buyers,Hibernating,1,341,3,14815.916666666666,44447.75
+CUST00033548,Gold,Coupon-led buyers,Hibernating,2,183,3,14804.566666666666,44413.7
+CUST00010959,Gold,Core high-value regulars,Recent low spenders,5,1,4,11102.2375,44408.95
+CUST00038509,Gold,Big-ticket Electronics buyers,Recent low spenders,4,44,2,22198.865,44397.73
+CUST00000259,Gold,Coupon-led buyers,About to sleep,2,157,6,7396.811666666666,44380.87
+CUST00036495,Gold,Coupon-led buyers,Hibernating,2,131,4,11077.47,44309.880000000005
+CUST00035065,Gold,Coupon-led buyers,Loyal,4,49,6,7382.535,44295.21
+CUST00008385,Gold,Coupon-led buyers,Needs attention,3,65,3,14749.99,44249.97
+CUST00019181,Gold,Coupon-led buyers,Recent low spenders,5,24,5,8845.692,44228.46
+CUST00030605,Silver,Coupon-led buyers,Recent low spenders,4,54,4,11040.1025,44160.41
+CUST00004708,Gold,Big-ticket Electronics buyers,Hibernating,2,185,3,14719.856666666668,44159.57
+CUST00020759,Gold,Core high-value regulars,Recent low spenders,5,20,4,11035.5525,44142.21
+CUST00020736,Gold,Core high-value regulars,About to sleep,1,231,6,7354.981666666667,44129.89
+CUST00030600,Gold,Coupon-led buyers,Hibernating,2,163,5,8815.826,44079.13
+CUST00005850,Gold,Big-ticket Electronics buyers,Needs attention,3,69,4,11017.155,44068.62
+CUST00007094,Gold,Coupon-led buyers,Hibernating,2,182,3,14686.21,44058.63
+CUST00004857,Gold,Core high-value regulars,Loyal,5,23,6,7341.211666666667,44047.27
+CUST00001933,Silver,Big-ticket Electronics buyers,Recent low spenders,5,21,4,11011.465,44045.86
+CUST00001287,Gold,Core high-value regulars,Needs attention,3,95,3,14645.75,43937.25
+CUST00019555,Gold,Big-ticket Electronics buyers,Hibernating,2,148,2,21942.085,43884.17
+CUST00035265,Gold,Core high-value regulars,Hibernating,2,166,4,10970.7875,43883.15
+CUST00016179,Gold,Coupon-led buyers,Loyal,3,86,6,7306.803333333333,43840.82
+CUST00011056,Gold,Coupon-led buyers,Loyal,3,65,6,7303.518333333333,43821.11
+CUST00023027,Gold,Coupon-led buyers,Hibernating,2,149,4,10946.8275,43787.31
+CUST00019648,Gold,Coupon-led buyers,Hibernating,2,130,4,10943.26,43773.04
+CUST00003634,Silver,Core high-value regulars,Recent low spenders,4,31,5,8752.75,43763.75
+CUST00015865,Gold,Coupon-led buyers,Needs attention,3,72,4,10939.2225,43756.89
+CUST00020844,Gold,Big-ticket Electronics buyers,Hibernating,2,181,4,10927.5675,43710.27
+CUST00008670,Gold,Big-ticket Electronics buyers,Recent low spenders,4,53,4,10927.045,43708.18
+CUST00005696,Gold,Big-ticket Electronics buyers,Recent low spenders,4,53,3,14538.616666666669,43615.85
+CUST00010386,Gold,Big-ticket Electronics buyers,Recent low spenders,4,39,2,21796.875,43593.75
+CUST00007921,Gold,Coupon-led buyers,Hibernating,2,168,5,8717.556,43587.78
+CUST00011859,Gold,Core high-value regulars,About to sleep,2,187,6,7255.436666666667,43532.62
+CUST00036319,Gold,Big-ticket Electronics buyers,Hibernating,2,142,4,10882.81,43531.24
+CUST00037556,Gold,Core high-value regulars,Recent low spenders,5,15,5,8701.736,43508.68
+CUST00007197,Gold,Coupon-led buyers,Needs attention,3,68,2,21745.205,43490.41
+CUST00025330,Gold,Big-ticket Electronics buyers,Hibernating,2,189,2,21707.775,43415.55
+CUST00026483,Gold,Coupon-led buyers,Needs attention,3,96,5,8681.452000000001,43407.26
+CUST00000737,Gold,Core high-value regulars,Hibernating,2,165,3,14451.803333333331,43355.41
+CUST00007707,Gold,Coupon-led buyers,Needs attention,3,98,4,10838.6625,43354.65
+CUST00033800,Gold,Coupon-led buyers,Needs attention,3,93,4,10837.2325,43348.93
+CUST00015421,Gold,Big-ticket Electronics buyers,Recent low spenders,4,34,2,21664.895,43329.79
+CUST00003749,Gold,Coupon-led buyers,Loyal,4,55,6,7206.759999999999,43240.56
+CUST00017183,Gold,Core high-value regulars,Recent low spenders,4,52,5,8647.826,43239.13
+CUST00028774,Gold,Coupon-led buyers,Recent low spenders,5,14,5,8646.82,43234.1
+CUST00036013,Gold,Coupon-led buyers,Recent low spenders,4,46,4,10806.38,43225.52
+CUST00019740,Gold,Coupon-led buyers,Hibernating,2,164,4,10798.565,43194.26
+CUST00038004,Gold,Big-ticket Electronics buyers,Needs attention,3,64,3,14387.573333333334,43162.72
+CUST00022542,Gold,Core high-value regulars,Needs attention,3,86,3,14385.646666666667,43156.94
+CUST00026385,Gold,Coupon-led buyers,Loyal,4,49,6,7188.693333333334,43132.16
+CUST00029647,Gold,Big-ticket Electronics buyers,Needs attention,3,64,3,14373.86,43121.58
+CUST00033634,Gold,Big-ticket Electronics buyers,Hibernating,1,381,1,43075.89,43075.89
+CUST00008095,Gold,Big-ticket Electronics buyers,Hibernating,1,465,1,43075.89,43075.89
+CUST00004103,Gold,Coupon-led buyers,About to sleep,1,243,6,7176.18,43057.08
+CUST00016202,Gold,Core high-value regulars,About to sleep,2,140,6,7172.771666666667,43036.630000000005
+CUST00013200,Gold,Big-ticket Electronics buyers,Recent low spenders,4,28,3,14334.113333333336,43002.34
+CUST00025501,Gold,Coupon-led buyers,Needs attention,3,68,4,10748.3725,42993.490000000005
+CUST00034523,Gold,Core high-value regulars,Recent low spenders,4,43,4,10748.1425,42992.57
+CUST00022917,Gold,Big-ticket Electronics buyers,Recent low spenders,4,29,2,21492.955,42985.91
+CUST00017791,Gold,Big-ticket Electronics buyers,Hibernating,2,155,3,14314.409999999998,42943.23
+CUST00030456,Gold,Coupon-led buyers,Hibernating,1,243,5,8583.429999999998,42917.15
+CUST00030335,Gold,Big-ticket Electronics buyers,Hibernating,2,194,3,14295.016666666668,42885.05
+CUST00037743,Silver,Core high-value regulars,Hibernating,2,121,3,14295.0,42885.0
+CUST00031784,Gold,Big-ticket Electronics buyers,Hibernating,2,127,1,42882.92,42882.92
+CUST00005975,Gold,Coupon-led buyers,Hibernating,2,160,5,8563.196,42815.98
+CUST00023471,Gold,Big-ticket Electronics buyers,Hibernating,2,189,1,42803.1,42803.1
+CUST00038034,Gold,Coupon-led buyers,Needs attention,3,83,5,8559.118,42795.59
+CUST00017133,Gold,Coupon-led buyers,Recent low spenders,5,18,4,10692.6725,42770.69
+CUST00008227,Gold,Core high-value regulars,Recent low spenders,4,37,4,10689.4025,42757.61
+CUST00015286,Gold,Coupon-led buyers,Recent low spenders,4,58,4,10688.32,42753.28
+CUST00035884,Silver,Big-ticket Electronics buyers,Hibernating,1,288,1,42753.1,42753.1
+CUST00028055,Gold,Coupon-led buyers,Recent low spenders,4,53,5,8539.217999999999,42696.09
+CUST00005794,Gold,Coupon-led buyers,Recent low spenders,4,36,5,8532.428,42662.14
+CUST00000762,Gold,Big-ticket Electronics buyers,Recent low spenders,4,40,4,10665.0725,42660.29
+CUST00036810,Silver,Coupon-led buyers,Recent low spenders,5,27,5,8529.992,42649.96
+CUST00017048,Gold,Coupon-led buyers,Hibernating,1,217,5,8527.096,42635.48
+CUST00036094,Gold,Coupon-led buyers,Hibernating,2,143,4,10638.7075,42554.83
+CUST00026134,Gold,Coupon-led buyers,Loyal,5,14,7,6074.400000000001,42520.8
+CUST00003479,Silver,Big-ticket Electronics buyers,Hibernating,2,117,2,21259.08,42518.16
+CUST00010320,Gold,Coupon-led buyers,Loyal,4,58,7,6070.452857142857,42493.17
+CUST00029032,Gold,Coupon-led buyers,Recent low spenders,4,51,3,14151.69,42455.07
+CUST00038958,Gold,Big-ticket Electronics buyers,Recent low spenders,4,51,2,21221.825,42443.65
+CUST00033009,Gold,Big-ticket Electronics buyers,Recent low spenders,4,36,3,14144.6,42433.8
+CUST00018449,Gold,Coupon-led buyers,Hibernating,2,193,3,14121.596666666666,42364.79
+CUST00030658,Gold,Coupon-led buyers,Hibernating,1,217,4,10575.79,42303.16
+CUST00001806,Gold,Big-ticket Electronics buyers,Recent low spenders,5,19,2,21149.895,42299.78999999999
+CUST00011525,Gold,Core high-value regulars,Recent low spenders,4,44,5,8448.416,42242.08
+CUST00029188,Gold,Big-ticket Electronics buyers,Needs attention,3,66,4,10555.2825,42221.130000000005
+CUST00006925,Gold,Core high-value regulars,Needs attention,3,111,5,8438.066,42190.33
+CUST00004789,Gold,Big-ticket Electronics buyers,Recent low spenders,4,33,4,10546.805,42187.22
+CUST00027146,Gold,Big-ticket Electronics buyers,Hibernating,1,443,1,42169.88,42169.88
+CUST00002196,Gold,Coupon-led buyers,Hibernating,2,148,3,14052.446666666669,42157.34
+CUST00006720,Gold,Coupon-led buyers,Recent low spenders,5,23,5,8429.886,42149.43
+CUST00027135,Gold,Big-ticket Electronics buyers,Hibernating,1,523,1,42132.46,42132.46
+CUST00018254,Gold,Coupon-led buyers,Recent low spenders,5,20,5,8424.58,42122.9
+CUST00006781,Gold,Coupon-led buyers,Loyal,4,44,6,7019.746666666666,42118.48
+CUST00015483,Gold,Coupon-led buyers,About to sleep,1,220,6,7018.544999999999,42111.27
+CUST00035174,Gold,Coupon-led buyers,Recent low spenders,4,53,3,14023.55,42070.65
+CUST00032578,Gold,Coupon-led buyers,Needs attention,3,66,4,10516.9675,42067.87
+CUST00035043,Gold,Big-ticket Electronics buyers,Hibernating,2,138,3,14021.006666666666,42063.02
+CUST00027482,Gold,Coupon-led buyers,About to sleep,2,154,7,6007.907142857143,42055.350000000006
+CUST00003488,Gold,Coupon-led buyers,Recent low spenders,5,6,5,8407.566,42037.83
+CUST00034711,Gold,Coupon-led buyers,Hibernating,1,235,4,10502.5275,42010.11
+CUST00002313,Gold,Core high-value regulars,Recent low spenders,4,40,5,8399.974,41999.87
+CUST00038610,Gold,Coupon-led buyers,Hibernating,2,162,4,10477.2575,41909.03
+CUST00007307,Gold,Coupon-led buyers,Recent low spenders,5,24,5,8381.612,41908.06
+CUST00014938,Gold,Core high-value regulars,Hibernating,2,139,5,8374.624,41873.12
+CUST00000722,Gold,Core high-value regulars,Recent low spenders,4,29,5,8372.26,41861.3
+CUST00013889,Gold,Big-ticket Electronics buyers,Needs attention,3,85,4,10462.435,41849.74
+CUST00024660,Gold,Core high-value regulars,Hibernating,2,173,4,10456.85,41827.4
+CUST00026329,Gold,Core high-value regulars,Loyal,4,37,7,5974.477142857143,41821.34
+CUST00035364,Gold,Coupon-led buyers,Needs attention,3,81,5,8354.808,41774.04
+CUST00026810,Gold,Big-ticket Electronics buyers,Hibernating,2,195,4,10443.4975,41773.99
+CUST00037577,Silver,Big-ticket Electronics buyers,Hibernating,2,145,2,20883.565,41767.13
+CUST00001718,Gold,Coupon-led buyers,Hibernating,2,147,3,13905.466666666667,41716.4
+CUST00013395,Gold,Big-ticket Electronics buyers,Hibernating,1,237,2,20850.82,41701.64
+CUST00016043,Gold,Coupon-led buyers,Recent low spenders,4,46,4,10422.88,41691.52
+CUST00027289,Gold,Coupon-led buyers,Hibernating,2,151,5,8335.78,41678.9
+CUST00029500,Silver,Coupon-led buyers,Recent low spenders,5,3,4,10419.655,41678.62
+CUST00002745,Gold,Core high-value regulars,Loyal,4,62,6,6944.401666666668,41666.41
+CUST00015164,Gold,Coupon-led buyers,Recent low spenders,5,14,4,10409.945,41639.78
+CUST00038307,Gold,Coupon-led buyers,Hibernating,2,139,3,13871.213333333331,41613.64
+CUST00021794,Gold,Big-ticket Electronics buyers,Hibernating,1,364,1,41612.51,41612.51
+CUST00033470,Gold,Coupon-led buyers,About to sleep,2,114,6,6933.946666666667,41603.68
+CUST00007089,Gold,Core high-value regulars,Needs attention,3,94,4,10400.6025,41602.41
+CUST00017338,Gold,Big-ticket Electronics buyers,Needs attention,3,93,2,20757.890000000003,41515.780000000006
+CUST00026307,Silver,Big-ticket Electronics buyers,Hibernating,2,130,2,20752.135,41504.27
+CUST00018573,Gold,Coupon-led buyers,Needs attention,3,79,3,13804.586666666668,41413.76
+CUST00017389,Gold,Core high-value regulars,Recent low spenders,5,15,4,10346.835,41387.34
+CUST00004242,Gold,Big-ticket Electronics buyers,Hibernating,2,163,3,13766.39,41299.17
+CUST00013947,Gold,Core high-value regulars,Hibernating,2,190,4,10312.7025,41250.81
+CUST00002278,Gold,Big-ticket Electronics buyers,Hibernating,2,129,2,20623.31,41246.62
+CUST00026558,Gold,Big-ticket Electronics buyers,Needs attention,3,106,4,10310.955,41243.82
+CUST00037435,Gold,Big-ticket Electronics buyers,Hibernating,2,127,2,20589.89,41179.78
+CUST00007832,Gold,Core high-value regulars,Recent low spenders,4,48,3,13720.12,41160.36
+CUST00033277,Gold,Coupon-led buyers,Needs attention,3,74,4,10287.5625,41150.25
+CUST00007376,Gold,Coupon-led buyers,Recent low spenders,5,20,4,10287.1675,41148.67
+CUST00009291,Gold,Big-ticket Electronics buyers,Hibernating,1,215,2,20555.9,41111.8
+CUST00033134,Gold,Coupon-led buyers,Needs attention,3,84,4,10277.395,41109.58
+CUST00005885,Gold,Coupon-led buyers,Loyal,5,26,6,6850.713333333333,41104.28
+CUST00028703,Gold,Coupon-led buyers,Loyal,3,82,7,5869.9800000000005,41089.86
+CUST00023410,Gold,Big-ticket Electronics buyers,Recent low spenders,5,16,2,20541.23,41082.46
+CUST00036276,Silver,Big-ticket Electronics buyers,Hibernating,2,166,3,13690.133333333331,41070.4
+CUST00015952,Gold,Coupon-led buyers,Hibernating,1,253,5,8202.638,41013.19
+CUST00028611,Gold,Big-ticket Electronics buyers,Hibernating,1,220,2,20493.43,40986.86
+CUST00033927,Gold,Big-ticket Electronics buyers,Hibernating,2,118,4,10242.965,40971.86
+CUST00034957,Gold,Coupon-led buyers,Recent low spenders,5,22,3,13633.926666666666,40901.78
+CUST00013782,Gold,Coupon-led buyers,Hibernating,2,125,3,13627.933333333334,40883.8
+CUST00009830,Gold,Coupon-led buyers,About to sleep,1,273,8,5108.765,40870.12
+CUST00039796,Gold,Coupon-led buyers,Needs attention,3,102,5,8163.178,40815.89
+CUST00039054,Gold,Big-ticket Electronics buyers,Hibernating,1,340,1,40795.33,40795.33
+CUST00014690,Gold,Coupon-led buyers,Recent low spenders,5,20,5,8143.745999999999,40718.73
+CUST00018304,Gold,Big-ticket Electronics buyers,Hibernating,2,189,3,13569.953333333331,40709.86
+CUST00035965,Gold,Coupon-led buyers,Recent low spenders,4,57,4,10170.8825,40683.53
+CUST00002980,Gold,Big-ticket Electronics buyers,Hibernating,2,175,2,20329.83,40659.66
+CUST00038834,Gold,Big-ticket Electronics buyers,Recent low spenders,5,16,3,13547.856666666668,40643.57000000001
+CUST00014746,Gold,Core high-value regulars,Hibernating,2,171,4,10156.745,40626.98
+CUST00039971,Gold,Coupon-led buyers,Hibernating,2,143,4,10156.6025,40626.41
+CUST00027238,Silver,Core high-value regulars,Needs attention,3,107,3,13525.983333333335,40577.95
+CUST00008019,Silver,Coupon-led buyers,Hibernating,2,154,3,13521.386666666667,40564.16
+CUST00030341,Gold,Big-ticket Electronics buyers,Recent low spenders,5,16,3,13513.413333333336,40540.240000000005
+CUST00038727,Gold,Coupon-led buyers,Hibernating,1,279,3,13497.526666666668,40492.58
+CUST00037384,Gold,Coupon-led buyers,About to sleep,1,202,7,5780.599999999999,40464.2
+CUST00002289,Gold,Big-ticket Electronics buyers,Recent low spenders,4,50,5,8089.008,40445.04
+CUST00028213,Gold,Core high-value regulars,About to sleep,2,190,6,6737.2733333333335,40423.64
+CUST00000759,Gold,Coupon-led buyers,Loyal,3,96,6,6732.723333333332,40396.34
+CUST00007142,Gold,Coupon-led buyers,Hibernating,2,160,4,10096.0925,40384.37
+CUST00033386,Gold,Coupon-led buyers,Loyal,3,106,6,6727.139999999999,40362.84
+CUST00009818,Gold,Big-ticket Electronics buyers,Recent low spenders,4,55,2,20171.975,40343.95
+CUST00012841,Gold,Big-ticket Electronics buyers,Recent low spenders,4,53,2,20091.445,40182.89
+CUST00003050,Gold,Coupon-led buyers,Hibernating,1,230,4,10029.295,40117.18
+CUST00038466,Gold,Coupon-led buyers,Hibernating,1,225,3,13366.953333333331,40100.86
+CUST00000398,Gold,Coupon-led buyers,Recent low spenders,5,24,3,13342.596666666666,40027.79
+CUST00027516,Gold,Core high-value regulars,Hibernating,2,190,5,7984.517999999999,39922.59
+CUST00035807,Gold,Coupon-led buyers,About to sleep,2,129,7,5702.227142857142,39915.59
+CUST00004399,Gold,Big-ticket Electronics buyers,Hibernating,2,138,3,13304.316666666668,39912.95
+CUST00013773,Gold,Coupon-led buyers,Needs attention,3,76,4,9972.1875,39888.75
+CUST00030824,Gold,Core high-value regulars,Recent low spenders,4,58,3,13281.353333333333,39844.06
+CUST00020218,Gold,Coupon-led buyers,Recent low spenders,5,25,3,13277.446666666665,39832.34
+CUST00006693,Gold,Big-ticket Electronics buyers,Recent low spenders,4,57,2,19888.955,39777.91
+CUST00014089,Gold,Core high-value regulars,Loyal,4,32,7,5675.468571428572,39728.28
+CUST00024672,Gold,Core high-value regulars,Hibernating,2,112,4,9917.57,39670.28
+CUST00013846,Gold,Big-ticket Electronics buyers,Recent low spenders,4,47,3,13213.58,39640.74
+CUST00025284,Gold,Big-ticket Electronics buyers,Recent low spenders,4,60,3,13199.299999999996,39597.9
+CUST00004423,Gold,Big-ticket Electronics buyers,Hibernating,2,120,2,19765.465,39530.93
+CUST00014182,Gold,Core high-value regulars,Recent low spenders,5,22,5,7899.498,39497.49
+CUST00009232,Gold,Big-ticket Electronics buyers,Recent low spenders,5,14,2,19748.525,39497.05
+CUST00036001,Gold,Core high-value regulars,Hibernating,2,186,4,9868.7,39474.8
+CUST00015640,Gold,Coupon-led buyers,Needs attention,3,70,4,9847.5275,39390.11
+CUST00037524,Gold,Coupon-led buyers,Hibernating,2,117,5,7874.575999999999,39372.88
+CUST00030047,Gold,Core high-value regulars,Recent low spenders,5,8,3,13091.266666666668,39273.8
+CUST00019721,Gold,Core high-value regulars,Recent low spenders,5,24,3,13083.660000000002,39250.98
+CUST00003419,Gold,Big-ticket Electronics buyers,Hibernating,1,228,3,13081.066666666666,39243.2
+CUST00008548,Gold,Coupon-led buyers,Needs attention,3,92,5,7847.045999999999,39235.23
+CUST00003739,Gold,Big-ticket Electronics buyers,Needs attention,3,96,2,19607.855,39215.71
+CUST00034360,Gold,Core high-value regulars,Recent low spenders,4,60,3,13061.67,39185.01
+CUST00003915,Gold,Coupon-led buyers,Recent low spenders,4,46,3,13052.58,39157.74
+CUST00018649,Gold,Core high-value regulars,Recent low spenders,4,46,5,7828.694,39143.47
+CUST00034451,Gold,Core high-value regulars,Needs attention,3,66,4,9779.5875,39118.35
+CUST00017497,Gold,Coupon-led buyers,Recent low spenders,4,30,3,13026.506666666666,39079.52
+CUST00039999,Silver,Coupon-led buyers,Recent low spenders,4,58,3,13016.896666666667,39050.69
+CUST00021337,Gold,Coupon-led buyers,About to sleep,2,154,6,6501.075000000001,39006.45
+CUST00033614,Gold,Big-ticket Electronics buyers,Hibernating,2,112,4,9745.9175,38983.67
+CUST00013270,Gold,Big-ticket Electronics buyers,Recent low spenders,4,49,2,19490.365,38980.73
+CUST00008467,Gold,Coupon-led buyers,Needs attention,3,85,5,7786.053999999999,38930.27
+CUST00003601,Silver,Big-ticket Electronics buyers,Recent low spenders,5,7,2,19452.11,38904.22
+CUST00023974,Gold,Big-ticket Electronics buyers,Recent low spenders,4,62,2,19449.12,38898.24
+CUST00023253,Gold,Big-ticket Electronics buyers,Hibernating,1,200,2,19447.945,38895.89
+CUST00006539,Gold,Big-ticket Electronics buyers,Hibernating,1,467,1,38894.42,38894.42
+CUST00028374,Gold,Core high-value regulars,Needs attention,3,84,4,9722.98,38891.92
+CUST00000089,Gold,Coupon-led buyers,Recent low spenders,4,61,5,7771.867999999999,38859.34
+CUST00014204,Gold,Coupon-led buyers,About to sleep,1,279,6,6472.9766666666665,38837.86
+CUST00032431,Gold,Coupon-led buyers,Recent low spenders,5,21,4,9708.5725,38834.29
+CUST00021009,Gold,Coupon-led buyers,About to sleep,2,178,7,5547.547142857143,38832.83
+CUST00015767,Gold,Coupon-led buyers,Loyal,3,68,6,6468.128333333334,38808.77
+CUST00024296,Gold,Big-ticket Electronics buyers,Hibernating,2,186,2,19398.155,38796.310000000005
+CUST00039086,Gold,Big-ticket Electronics buyers,Recent low spenders,5,2,2,19383.385,38766.77
+CUST00027069,Gold,Coupon-led buyers,Recent low spenders,4,41,5,7752.456,38762.28
+CUST00023049,Gold,Coupon-led buyers,Hibernating,2,189,3,12915.226666666667,38745.68
+CUST00006841,Gold,Coupon-led buyers,Recent low spenders,4,40,5,7747.289999999999,38736.45
+CUST00018576,Gold,Big-ticket Electronics buyers,Hibernating,1,200,2,19363.925000000003,38727.850000000006
+CUST00028970,Gold,Coupon-led buyers,About to sleep,2,118,6,6454.296666666666,38725.78
+CUST00010062,Gold,Coupon-led buyers,Needs attention,3,72,3,12870.913333333332,38612.74
+CUST00020904,Gold,Coupon-led buyers,Recent low spenders,5,21,3,12870.206666666663,38610.62
+CUST00032257,Gold,Big-ticket Electronics buyers,Hibernating,1,205,1,38594.63,38594.63
+CUST00033986,Gold,Big-ticket Electronics buyers,Recent low spenders,5,20,2,19296.695,38593.39
+CUST00008234,Gold,Big-ticket Electronics buyers,Hibernating,1,430,1,38572.53,38572.53
+CUST00026160,Gold,Big-ticket Electronics buyers,Hibernating,1,299,1,38572.53,38572.53
+CUST00010652,Gold,Big-ticket Electronics buyers,Hibernating,1,235,1,38572.53,38572.53
+CUST00008839,Gold,Core high-value regulars,Recent low spenders,5,13,3,12810.73,38432.19
+CUST00012880,Gold,Coupon-led buyers,Hibernating,2,125,4,9602.75,38411.0
+CUST00035923,Gold,Big-ticket Electronics buyers,Hibernating,2,177,2,19196.905,38393.81
+CUST00015312,Gold,Coupon-led buyers,Recent low spenders,4,38,5,7678.098,38390.49
+CUST00020591,Gold,Coupon-led buyers,Recent low spenders,5,11,5,7677.946000000001,38389.73
+CUST00015269,Gold,Coupon-led buyers,Hibernating,1,252,4,9594.0425,38376.17
+CUST00010288,Gold,Coupon-led buyers,Hibernating,2,138,3,12781.243333333332,38343.73
+CUST00033503,Gold,Core high-value regulars,Hibernating,2,162,5,7667.32,38336.6
+CUST00020198,Gold,Coupon-led buyers,Loyal,5,3,7,5470.86,38296.02
+CUST00004161,Gold,Big-ticket Electronics buyers,Hibernating,2,146,4,9569.335,38277.34
+CUST00039656,Gold,Big-ticket Electronics buyers,Recent low spenders,5,10,1,38253.1,38253.1
+CUST00038671,Gold,Big-ticket Electronics buyers,Hibernating,1,369,1,38253.1,38253.1
+CUST00032419,Gold,Big-ticket Electronics buyers,Hibernating,2,183,3,12731.236666666666,38193.71
+CUST00030290,Gold,Coupon-led buyers,Hibernating,1,311,4,9533.1675,38132.67
+CUST00025026,Gold,Coupon-led buyers,Hibernating,2,150,5,7619.306,38096.53
+CUST00039468,Gold,Big-ticket Electronics buyers,Hibernating,1,355,1,38056.57,38056.57
+CUST00016527,Gold,Coupon-led buyers,Recent low spenders,4,62,3,12678.926666666666,38036.78
+CUST00001994,Gold,Coupon-led buyers,Hibernating,2,128,4,9505.8625,38023.45
+CUST00005716,Gold,Big-ticket Electronics buyers,Recent low spenders,5,15,2,18992.29,37984.58
+CUST00001586,Gold,Coupon-led buyers,Hibernating,1,316,3,12660.763333333334,37982.29
+CUST00036986,Gold,Big-ticket Electronics buyers,Hibernating,1,205,3,12658.416666666666,37975.25
+CUST00001698,Gold,Coupon-led buyers,Hibernating,2,126,4,9481.4425,37925.77
+CUST00030208,Gold,Coupon-led buyers,Hibernating,2,172,4,9479.845,37919.380000000005
+CUST00029544,Gold,Big-ticket Electronics buyers,Hibernating,2,130,2,18938.475,37876.95
+CUST00027702,Gold,Coupon-led buyers,Loyal,4,35,7,5408.351428571428,37858.46
+CUST00034399,Gold,Big-ticket Electronics buyers,Hibernating,1,231,2,18905.12,37810.24
+CUST00029750,Gold,Coupon-led buyers,Recent low spenders,5,10,4,9449.815,37799.26
+CUST00019414,Gold,Coupon-led buyers,Recent low spenders,4,33,5,7541.638000000001,37708.19
+CUST00033049,Gold,Big-ticket Electronics buyers,Recent low spenders,4,28,2,18850.425,37700.85
+CUST00036595,Gold,Core high-value regulars,Recent low spenders,5,20,4,9419.0375,37676.15
+CUST00003638,Gold,Coupon-led buyers,Loyal,4,54,6,6276.38,37658.28
+CUST00035529,Gold,Coupon-led buyers,Hibernating,2,112,4,9403.415,37613.66
+CUST00034369,Gold,Big-ticket Electronics buyers,Hibernating,1,213,2,18774.435,37548.87
+CUST00016863,Gold,Core high-value regulars,Needs attention,3,98,3,12511.736666666666,37535.21
+CUST00011830,Gold,Big-ticket Electronics buyers,Hibernating,2,176,3,12505.566666666666,37516.7
+CUST00005192,Gold,Big-ticket Electronics buyers,Hibernating,2,161,5,7495.598,37477.99
+CUST00026064,Gold,Core high-value regulars,Hibernating,2,152,4,9367.6325,37470.53
+CUST00024699,Gold,Big-ticket Electronics buyers,Needs attention,3,75,1,37408.02,37408.02
+CUST00015035,Gold,Coupon-led buyers,Recent low spenders,5,17,4,9333.3775,37333.51
+CUST00003240,Gold,Coupon-led buyers,Hibernating,2,171,4,9330.2075,37320.83
+CUST00002723,Gold,Coupon-led buyers,Needs attention,3,68,5,7452.312,37261.56
+CUST00026695,Gold,Big-ticket Electronics buyers,Recent low spenders,4,52,2,18627.16,37254.32
+CUST00012477,Gold,Core high-value regulars,Hibernating,2,130,3,12414.213333333331,37242.64
+CUST00001741,Gold,Coupon-led buyers,Hibernating,2,161,3,12411.1,37233.3
+CUST00030681,Gold,Core high-value regulars,Hibernating,2,169,3,12405.923333333332,37217.77
+CUST00001289,Gold,Coupon-led buyers,Needs attention,3,84,5,7440.122,37200.61
+CUST00009508,Gold,Big-ticket Electronics buyers,Hibernating,1,376,1,37196.63,37196.63
+CUST00030488,Gold,Core high-value regulars,Hibernating,2,131,4,9294.6625,37178.65
+CUST00005006,Gold,Coupon-led buyers,Recent low spenders,4,60,5,7429.452,37147.26
+CUST00010827,Gold,Core high-value regulars,Recent low spenders,4,30,3,12362.69,37088.07
+CUST00019286,Gold,Big-ticket Electronics buyers,Needs attention,3,63,2,18521.845,37043.69
+CUST00010150,Gold,Coupon-led buyers,Recent low spenders,5,9,5,7398.764,36993.82
+CUST00029058,Gold,Core high-value regulars,Needs attention,3,75,4,9245.96,36983.84
+CUST00028095,Gold,Coupon-led buyers,Needs attention,3,63,4,9240.05,36960.2
+CUST00038172,Gold,Coupon-led buyers,Hibernating,2,152,6,6152.075,36912.45
+CUST00003162,Gold,Coupon-led buyers,Hibernating,2,169,4,9207.325,36829.3
+CUST00003492,Gold,Coupon-led buyers,Needs attention,3,107,6,6126.763333333333,36760.58
+CUST00015163,Gold,Big-ticket Electronics buyers,Hibernating,2,142,2,18356.945,36713.89
+CUST00038324,Gold,Big-ticket Electronics buyers,Hibernating,2,192,2,18349.83,36699.66
+CUST00036483,Gold,Core high-value regulars,Hibernating,2,178,4,9153.5525,36614.21
+CUST00001693,Gold,Core high-value regulars,Recent low spenders,4,62,6,6092.488333333334,36554.93
+CUST00016880,Gold,Big-ticket Electronics buyers,Hibernating,1,398,3,12176.340000000002,36529.02
+CUST00004247,Gold,Coupon-led buyers,Recent low spenders,4,43,4,9129.8075,36519.23
+CUST00000888,Gold,Coupon-led buyers,Hibernating,1,217,5,7298.616,36493.08
+CUST00038960,Gold,Coupon-led buyers,Needs attention,3,83,4,9113.435,36453.740000000005
+CUST00031040,Gold,Coupon-led buyers,Hibernating,1,232,4,9113.005,36452.02
+CUST00038905,Gold,Big-ticket Electronics buyers,Hibernating,2,141,2,18182.525,36365.05
+CUST00019604,Gold,Big-ticket Electronics buyers,Hibernating,1,205,3,12116.863333333333,36350.59
+CUST00032167,Gold,Coupon-led buyers,Recent low spenders,4,60,2,18150.995,36301.99
+CUST00036253,Gold,Core high-value regulars,Recent low spenders,4,53,4,9057.56,36230.24
+CUST00024814,Gold,Big-ticket Electronics buyers,Hibernating,2,165,3,12057.203333333331,36171.61
+CUST00039163,Gold,Big-ticket Electronics buyers,Hibernating,2,156,2,18049.24,36098.48
+CUST00027397,Gold,Core high-value regulars,Recent low spenders,5,14,6,6015.363333333334,36092.18
+CUST00012921,Gold,Big-ticket Electronics buyers,Hibernating,1,197,4,8999.81,35999.24
+CUST00021914,Gold,Coupon-led buyers,Needs attention,3,80,4,8996.06,35984.24
+CUST00020881,Gold,Coupon-led buyers,Needs attention,3,75,4,8995.4125,35981.65
+CUST00019249,Gold,Coupon-led buyers,Needs attention,3,84,5,7196.111999999999,35980.56
+CUST00038440,Gold,Big-ticket Electronics buyers,Hibernating,1,199,2,17988.454999999998,35976.91
+CUST00031061,Gold,Core high-value regulars,Recent low spenders,5,27,5,7192.426,35962.13
+CUST00033422,Gold,Core high-value regulars,Hibernating,2,133,3,11984.82,35954.46
+CUST00016798,Gold,Core high-value regulars,Recent low spenders,4,30,4,8986.17,35944.68
+CUST00005791,Silver,Big-ticket Electronics buyers,Hibernating,2,171,2,17965.34,35930.68
+CUST00034991,Silver,Coupon-led buyers,Recent low spenders,5,10,5,7181.223999999999,35906.119999999995
+CUST00017997,Gold,Coupon-led buyers,Hibernating,1,241,4,8975.9875,35903.95
+CUST00012424,Gold,Big-ticket Electronics buyers,Hibernating,1,406,1,35887.32,35887.32
+CUST00021211,Gold,Big-ticket Electronics buyers,Hibernating,2,140,2,17921.455,35842.91
+CUST00028983,Gold,Coupon-led buyers,Recent low spenders,5,9,3,11924.42,35773.26
+CUST00030773,Gold,Coupon-led buyers,Hibernating,1,397,2,17883.440000000002,35766.880000000005
+CUST00035472,Gold,Coupon-led buyers,Hibernating,2,138,6,5951.563333333333,35709.38
+CUST00030717,Gold,Big-ticket Electronics buyers,Needs attention,3,69,2,17840.34,35680.68
+CUST00028154,Gold,Coupon-led buyers,Recent low spenders,5,24,2,17839.765000000003,35679.530000000006
+CUST00003366,Gold,Core high-value regulars,Recent low spenders,5,18,5,7124.504000000001,35622.520000000004
+CUST00016083,Gold,Coupon-led buyers,Hibernating,2,122,3,11859.146666666667,35577.44
+CUST00006900,Silver,Coupon-led buyers,Recent low spenders,5,5,4,8889.43,35557.72
+CUST00015680,Silver,Core high-value regulars,Recent low spenders,5,1,5,7099.134,35495.67
+CUST00019743,Gold,Coupon-led buyers,Recent low spenders,5,8,5,7092.064,35460.32
+CUST00011657,Gold,Core high-value regulars,Recent low spenders,5,22,4,8859.4725,35437.89
+CUST00024059,Gold,Big-ticket Electronics buyers,Recent low spenders,4,32,3,11796.993333333332,35390.98
+CUST00002012,Gold,Big-ticket Electronics buyers,Recent low spenders,4,29,2,17680.120000000003,35360.240000000005
+CUST00022939,Gold,Big-ticket Electronics buyers,Recent low spenders,4,42,4,8833.0575,35332.23
+CUST00038506,Gold,Coupon-led buyers,Needs attention,3,99,5,7061.914,35309.57
+CUST00032081,Gold,Big-ticket Electronics buyers,Recent low spenders,5,13,2,17641.035,35282.07
+CUST00030272,Silver,Coupon-led buyers,Hibernating,2,154,4,8808.425,35233.7
+CUST00028370,Gold,Coupon-led buyers,Needs attention,3,109,4,8806.3975,35225.59
+CUST00013626,Silver,Coupon-led buyers,Recent low spenders,4,55,6,5862.281666666667,35173.69
+CUST00017034,Gold,Coupon-led buyers,Recent low spenders,5,7,4,8789.7925,35159.17
+CUST00017540,Gold,Core high-value regulars,Hibernating,2,159,3,11706.086666666664,35118.259999999995
+CUST00033388,Gold,Core high-value regulars,Hibernating,2,117,5,7021.674000000001,35108.37
+CUST00005323,Gold,Coupon-led buyers,Hibernating,1,255,5,7021.298,35106.49
+CUST00020052,Gold,Coupon-led buyers,Hibernating,1,203,3,11692.226666666667,35076.68
+CUST00009011,Gold,Big-ticket Electronics buyers,Hibernating,2,161,4,8764.645,35058.58
+CUST00000726,Gold,Core high-value regulars,Hibernating,2,116,3,11664.326666666666,34992.98
+CUST00002092,Silver,Coupon-led buyers,Hibernating,2,136,6,5827.998333333333,34967.99
+CUST00014361,Gold,Big-ticket Electronics buyers,Hibernating,1,252,1,34897.41,34897.41
+CUST00000954,Gold,Coupon-led buyers,Hibernating,2,131,3,11621.04,34863.119999999995
+CUST00001887,Gold,Core high-value regulars,Hibernating,2,190,5,6966.376000000001,34831.880000000005
+CUST00019503,Gold,Big-ticket Electronics buyers,Hibernating,1,336,1,34826.24,34826.24
+CUST00012200,Gold,Big-ticket Electronics buyers,Hibernating,1,469,1,34826.24,34826.24
+CUST00011828,Gold,Coupon-led buyers,Recent low spenders,5,7,4,8703.5025,34814.01
+CUST00037215,Gold,Coupon-led buyers,Hibernating,2,112,4,8694.0425,34776.17
+CUST00027410,Gold,Core high-value regulars,Hibernating,2,158,4,8688.307499999999,34753.23
+CUST00029481,Gold,Coupon-led buyers,Needs attention,3,73,5,6944.81,34724.05
+CUST00018812,Gold,Big-ticket Electronics buyers,Hibernating,2,161,2,17338.735,34677.47
+CUST00020098,Gold,Core high-value regulars,Hibernating,2,122,3,11536.156666666668,34608.47
+CUST00032315,Gold,Coupon-led buyers,Hibernating,2,172,5,6915.752,34578.76
+CUST00020758,Gold,Coupon-led buyers,Loyal,3,93,7,4937.092857142857,34559.649999999994
+CUST00036320,Gold,Coupon-led buyers,Loyal,5,19,7,4934.248571428571,34539.74
+CUST00039398,Gold,Coupon-led buyers,Recent low spenders,5,14,5,6901.622,34508.11
+CUST00027808,Gold,Coupon-led buyers,Hibernating,2,165,5,6890.492,34452.46
+CUST00002813,Gold,Coupon-led buyers,Hibernating,2,147,4,8613.067500000001,34452.270000000004
+CUST00021938,Gold,Big-ticket Electronics buyers,Hibernating,1,249,2,17218.75,34437.5
+CUST00039116,Gold,Coupon-led buyers,Needs attention,3,78,3,11451.86,34355.58
+CUST00025224,Gold,Coupon-led buyers,Recent low spenders,5,7,3,11447.686666666666,34343.06
+CUST00035468,Gold,Big-ticket Electronics buyers,Hibernating,2,150,2,17170.184999999998,34340.369999999995
+CUST00032226,Gold,Big-ticket Electronics buyers,Hibernating,2,193,2,17160.59,34321.18
+CUST00004914,Gold,Coupon-led buyers,Recent low spenders,4,57,3,11440.316666666666,34320.95
+CUST00027140,Gold,Coupon-led buyers,Recent low spenders,4,43,4,8575.455,34301.82
+CUST00015190,Gold,Coupon-led buyers,Hibernating,2,180,3,11428.29,34284.869999999995
+CUST00022125,Gold,Coupon-led buyers,Hibernating,2,188,6,5713.463333333333,34280.78
+CUST00016247,Gold,Coupon-led buyers,Hibernating,2,121,4,8568.572499999998,34274.28999999999
+CUST00006196,Gold,Coupon-led buyers,Recent low spenders,4,56,5,6849.526,34247.63
+CUST00038569,Gold,Big-ticket Electronics buyers,Needs attention,3,97,2,17118.52,34237.04
+CUST00002592,Gold,Core high-value regulars,Recent low spenders,4,42,4,8552.94,34211.76
+CUST00010536,Gold,Coupon-led buyers,Hibernating,2,174,6,5687.123333333333,34122.74
+CUST00014612,Gold,Big-ticket Electronics buyers,Hibernating,2,159,1,34081.56,34081.56
+CUST00020533,Silver,Core high-value regulars,Needs attention,3,102,4,8501.8575,34007.43
+CUST00021225,Gold,Coupon-led buyers,Needs attention,3,80,6,5667.191666666667,34003.15
+CUST00016441,Gold,Coupon-led buyers,Recent low spenders,5,21,5,6791.755999999999,33958.78
+CUST00025598,Gold,Coupon-led buyers,Recent low spenders,5,27,2,16964.100000000002,33928.200000000004
+CUST00029352,Gold,Coupon-led buyers,Hibernating,2,122,3,11281.78,33845.34
+CUST00015181,Silver,Big-ticket Electronics buyers,Needs attention,3,103,2,16918.345,33836.69
+CUST00030668,Gold,Core high-value regulars,Recent low spenders,5,17,4,8445.6675,33782.67
+CUST00030193,Gold,Core high-value regulars,Recent low spenders,5,11,4,8436.9025,33747.61
+CUST00002754,Gold,Core high-value regulars,Recent low spenders,5,21,3,11247.13,33741.39
+CUST00023177,Gold,Coupon-led buyers,Hibernating,2,118,5,6740.856,33704.28
+CUST00011079,Gold,Coupon-led buyers,Needs attention,3,88,3,11233.97,33701.91
+CUST00025020,Silver,Big-ticket Electronics buyers,Hibernating,1,407,1,33653.2,33653.2
+CUST00021802,Gold,Coupon-led buyers,Recent low spenders,4,57,5,6719.523999999999,33597.619999999995
+CUST00024667,Gold,Big-ticket Electronics buyers,Hibernating,2,149,3,11192.866666666669,33578.6
+CUST00032432,Gold,Coupon-led buyers,Hibernating,2,184,4,8390.877499999999,33563.509999999995
+CUST00011516,Gold,Big-ticket Electronics buyers,Hibernating,2,166,1,33553.2,33553.2
+CUST00016902,Gold,Coupon-led buyers,Recent low spenders,5,11,4,8388.1175,33552.47
+CUST00023867,Gold,Coupon-led buyers,Hibernating,1,201,3,11164.876666666663,33494.63
+CUST00014395,Gold,Big-ticket Electronics buyers,Needs attention,3,73,1,33424.09,33424.09
+CUST00016216,Gold,Core high-value regulars,Recent low spenders,4,40,3,11119.656666666668,33358.97
+CUST00008061,Gold,Coupon-led buyers,Recent low spenders,5,7,6,5554.663333333333,33327.98
+CUST00001888,Gold,Big-ticket Electronics buyers,Hibernating,1,261,2,16603.09,33206.18
+CUST00008551,Gold,Big-ticket Electronics buyers,Needs attention,3,105,2,16600.84,33201.68
+CUST00019387,Gold,Core high-value regulars,Needs attention,3,104,3,11054.43,33163.29
+CUST00016432,Gold,Coupon-led buyers,Hibernating,2,121,3,11020.723333333332,33062.17
+CUST00036611,Gold,Big-ticket Electronics buyers,Recent low spenders,5,7,2,16501.53,33003.06
+CUST00029123,Gold,Big-ticket Electronics buyers,Hibernating,2,122,3,10995.036666666669,32985.11
+CUST00012760,Gold,Coupon-led buyers,Needs attention,3,90,3,10965.486666666666,32896.46
+CUST00004129,Gold,Big-ticket Electronics buyers,Recent low spenders,4,41,2,16444.7,32889.4
+CUST00005889,Gold,Coupon-led buyers,Hibernating,2,138,6,5476.751666666667,32860.51
+CUST00027209,Gold,Coupon-led buyers,Recent low spenders,5,0,5,6523.794,32618.97
+CUST00006806,Gold,Coupon-led buyers,Hibernating,2,149,5,6515.364,32576.82
+CUST00016725,Gold,Coupon-led buyers,Hibernating,2,125,6,5427.473333333333,32564.84
+CUST00033024,Gold,Core high-value regulars,Recent low spenders,4,35,4,8128.0,32512.0
+CUST00024172,Gold,Core high-value regulars,Needs attention,3,90,4,8124.23,32496.92
+CUST00001111,Gold,Big-ticket Electronics buyers,Hibernating,1,263,1,32453.52,32453.52
+CUST00012995,Gold,Coupon-led buyers,Hibernating,1,209,6,5406.695,32440.17
+CUST00022896,Silver,Core high-value regulars,Hibernating,1,200,4,8085.407499999999,32341.63
+CUST00028603,Gold,Big-ticket Electronics buyers,Hibernating,2,179,3,10758.416666666666,32275.25
+CUST00020637,Gold,Coupon-led buyers,Needs attention,3,89,3,10753.18,32259.54
+CUST00018533,Gold,Core high-value regulars,Recent low spenders,4,48,5,6428.124,32140.62
+CUST00029014,Gold,Core high-value regulars,Needs attention,3,110,3,10710.446666666669,32131.34
+CUST00023085,Gold,Coupon-led buyers,Recent low spenders,5,5,5,6403.166,32015.83
+CUST00020950,Gold,Core high-value regulars,Hibernating,2,181,5,6399.576,31997.88
+CUST00011537,Gold,Coupon-led buyers,Recent low spenders,5,21,3,10603.66,31810.98
+CUST00007988,Gold,Core high-value regulars,Hibernating,2,127,5,6362.1900000000005,31810.95
+CUST00012509,Silver,Big-ticket Electronics buyers,Needs attention,3,63,2,15894.46,31788.92
+CUST00022611,Silver,Big-ticket Electronics buyers,Hibernating,2,187,2,15885.385,31770.77
+CUST00015769,Gold,Big-ticket Electronics buyers,Hibernating,1,365,2,15873.635,31747.27
+CUST00039258,Gold,Core high-value regulars,Recent low spenders,5,12,4,7923.8725,31695.49
+CUST00022590,Gold,Coupon-led buyers,Recent low spenders,5,18,6,5274.686666666667,31648.120000000003
+CUST00009065,Gold,Core high-value regulars,Recent low spenders,5,19,3,10521.166666666666,31563.5
+CUST00008699,Gold,Coupon-led buyers,Recent low spenders,4,28,3,10518.733333333334,31556.2
+CUST00015174,Gold,Coupon-led buyers,Needs attention,3,76,4,7886.014999999999,31544.06
+CUST00013819,Gold,Coupon-led buyers,Recent low spenders,4,46,4,7834.1875,31336.75
+CUST00022676,Gold,Coupon-led buyers,Needs attention,3,101,4,7767.952499999999,31071.81
+CUST00011237,Gold,Big-ticket Electronics buyers,Needs attention,3,80,3,10351.326666666668,31053.980000000003
+CUST00025845,Silver,Coupon-led buyers,Hibernating,1,208,4,7720.71,30882.84
+CUST00019574,Gold,Coupon-led buyers,Needs attention,3,86,5,6170.562,30852.81
+CUST00021548,Gold,Big-ticket Electronics buyers,Hibernating,2,138,2,15401.735,30803.47
+CUST00000546,Gold,Coupon-led buyers,Needs attention,3,85,2,15374.84,30749.68
+CUST00030894,Silver,Core high-value regulars,Recent low spenders,4,32,4,7687.255,30749.02
+CUST00010819,Gold,Core high-value regulars,Recent low spenders,4,36,4,7684.745,30738.98
+CUST00011820,Gold,Coupon-led buyers,Hibernating,2,195,3,10236.63,30709.89
+CUST00039783,Silver,Coupon-led buyers,Hibernating,1,260,5,6127.786,30638.93
+CUST00001387,Gold,Big-ticket Electronics buyers,Needs attention,3,76,3,10201.3,30603.9
+CUST00014649,Gold,Core high-value regulars,Recent low spenders,4,62,3,10194.206666666669,30582.620000000003
+CUST00022954,Gold,Big-ticket Electronics buyers,Hibernating,2,119,2,15290.62,30581.24
+CUST00028236,Gold,Coupon-led buyers,Hibernating,1,213,3,10174.896666666667,30524.69
+CUST00021524,Gold,Coupon-led buyers,Hibernating,1,235,4,7612.405000000001,30449.620000000003
+CUST00023900,Gold,Big-ticket Electronics buyers,Hibernating,1,202,2,15208.94,30417.88
+CUST00038295,Gold,Coupon-led buyers,Needs attention,3,85,6,5068.098333333332,30408.59
+CUST00000628,Gold,Big-ticket Electronics buyers,Needs attention,3,90,2,15163.16,30326.32
+CUST00000708,Silver,Coupon-led buyers,Recent low spenders,5,20,4,7577.4825,30309.93
+CUST00032628,Gold,Big-ticket Electronics buyers,Needs attention,3,70,3,10035.323333333334,30105.97
+CUST00006491,Gold,Core high-value regulars,Recent low spenders,4,46,4,7524.395,30097.58
+CUST00021270,Gold,Coupon-led buyers,Recent low spenders,5,8,6,5013.965,30083.79
+CUST00021917,Silver,Big-ticket Electronics buyers,Needs attention,3,107,2,15025.79,30051.58
+CUST00027373,Silver,Big-ticket Electronics buyers,Hibernating,2,126,3,9977.003333333334,29931.01
+CUST00029582,Gold,Big-ticket Electronics buyers,Hibernating,2,143,2,14879.59,29759.18
+CUST00038547,Gold,Big-ticket Electronics buyers,Hibernating,1,243,2,14878.545,29757.09
+CUST00006804,Gold,Core high-value regulars,Hibernating,2,136,5,5919.616,29598.08
+CUST00025449,Silver,Coupon-led buyers,Hibernating,2,140,6,4929.251666666666,29575.51
+CUST00030825,Gold,Big-ticket Electronics buyers,Recent low spenders,5,25,2,14767.175,29534.35
+CUST00023172,Gold,Core high-value regulars,Recent low spenders,4,53,4,7366.815,29467.26
+CUST00014441,Gold,Coupon-led buyers,Recent low spenders,5,8,5,5885.064,29425.32
+CUST00025068,Silver,Coupon-led buyers,Hibernating,2,154,5,5877.678,29388.39
+CUST00014379,Gold,Big-ticket Electronics buyers,Hibernating,2,123,2,14656.669999999998,29313.34
+CUST00022365,Gold,Big-ticket Electronics buyers,Recent low spenders,5,17,1,29210.52,29210.52
+CUST00028041,Silver,Big-ticket Electronics buyers,Hibernating,1,378,1,29055.9,29055.9
+CUST00034821,Gold,Coupon-led buyers,Hibernating,2,118,3,9617.84,28853.52
+CUST00031056,Gold,Coupon-led buyers,Loyal,5,0,7,4117.935714285714,28825.55
+CUST00030500,Gold,Core high-value regulars,Hibernating,2,148,3,9605.17,28815.51
+CUST00014840,Gold,Big-ticket Electronics buyers,Needs attention,3,63,1,28780.82,28780.82
+CUST00025133,Silver,Core high-value regulars,Needs attention,3,66,4,7194.4275,28777.71
+CUST00002857,Gold,Coupon-led buyers,Hibernating,2,175,3,9590.043333333331,28770.13
+CUST00000674,Gold,Coupon-led buyers,Recent low spenders,4,50,5,5732.21,28661.05
+CUST00004836,Gold,Coupon-led buyers,Hibernating,2,194,2,14324.195,28648.39
+CUST00037024,Gold,Coupon-led buyers,Hibernating,2,114,4,7133.6275000000005,28534.51
+CUST00024934,Gold,Big-ticket Electronics buyers,Hibernating,2,170,2,14263.535,28527.07
+CUST00029919,Silver,Coupon-led buyers,Recent low spenders,5,10,5,5700.834,28504.17
+CUST00010290,Gold,Coupon-led buyers,Needs attention,3,77,4,7105.465,28421.86
+CUST00021054,Gold,Core high-value regulars,Hibernating,2,143,4,7067.54,28270.16
+CUST00010001,Gold,Coupon-led buyers,Recent low spenders,4,31,4,7061.1075,28244.43
+CUST00016871,Gold,Big-ticket Electronics buyers,Needs attention,3,96,3,9399.906666666666,28199.72
+CUST00025814,Gold,Coupon-led buyers,Recent low spenders,5,2,3,9394.616666666669,28183.85
+CUST00001886,Gold,Core high-value regulars,Needs attention,3,96,3,9382.543333333331,28147.63
+CUST00014112,Gold,Coupon-led buyers,Hibernating,1,210,3,9382.043333333331,28146.13
+CUST00013687,Gold,Big-ticket Electronics buyers,Needs attention,3,110,3,9381.65,28144.95
+CUST00028953,Gold,Coupon-led buyers,Recent low spenders,5,2,4,7029.1475,28116.59
+CUST00027479,Gold,Core high-value regulars,Needs attention,3,80,3,9351.723333333332,28055.17
+CUST00022893,Gold,Coupon-led buyers,Recent low spenders,5,17,4,6996.0625,27984.25
+CUST00009708,Gold,Core high-value regulars,Recent low spenders,4,31,3,9325.706666666669,27977.12
+CUST00013899,Silver,Big-ticket Electronics buyers,Recent low spenders,4,58,2,13978.535,27957.07
+CUST00039670,Silver,Big-ticket Electronics buyers,Recent low spenders,4,41,2,13943.509999999998,27887.02
+CUST00018105,Gold,Coupon-led buyers,Hibernating,1,352,4,6968.305,27873.22
+CUST00022961,Gold,Coupon-led buyers,Recent low spenders,5,16,5,5556.776,27783.88
+CUST00033955,Gold,Coupon-led buyers,Hibernating,1,274,3,9248.636666666667,27745.91
+CUST00008789,Gold,Coupon-led buyers,Hibernating,2,114,2,13860.82,27721.64
+CUST00002111,Gold,Coupon-led buyers,Needs attention,3,98,4,6918.33,27673.32
+CUST00024118,Gold,Coupon-led buyers,Recent low spenders,4,41,5,5530.872,27654.36
+CUST00010004,Gold,Coupon-led buyers,Hibernating,2,185,2,13810.81,27621.62
+CUST00035659,Gold,Coupon-led buyers,Recent low spenders,5,0,4,6903.4975,27613.99
+CUST00009927,Gold,Core high-value regulars,Recent low spenders,5,10,5,5504.1720000000005,27520.86
+CUST00034495,Gold,Coupon-led buyers,Recent low spenders,5,22,5,5500.428,27502.14
+CUST00034028,Gold,Big-ticket Electronics buyers,Hibernating,2,176,2,13695.655,27391.31
+CUST00027636,Gold,Coupon-led buyers,Recent low spenders,5,5,4,6805.365,27221.46
+CUST00022472,Gold,Coupon-led buyers,Recent low spenders,4,56,4,6799.4475,27197.79
+CUST00039555,Gold,Coupon-led buyers,Hibernating,2,117,3,9020.676666666666,27062.03
+CUST00016502,Gold,Coupon-led buyers,Recent low spenders,5,5,4,6759.13,27036.52
+CUST00010740,Gold,Coupon-led buyers,Hibernating,1,232,3,9004.423333333334,27013.27
+CUST00017091,Silver,Big-ticket Electronics buyers,Needs attention,3,64,2,13475.65,26951.3
+CUST00007008,Gold,Big-ticket Electronics buyers,Hibernating,2,133,2,13444.815,26889.63
+CUST00000265,Gold,Big-ticket Electronics buyers,Hibernating,1,242,1,26885.26,26885.26
+CUST00012435,Gold,Coupon-led buyers,Hibernating,2,112,3,8936.63,26809.89
+CUST00012119,Silver,Coupon-led buyers,Hibernating,2,155,3,8929.886666666665,26789.66
+CUST00021325,Gold,Coupon-led buyers,Recent low spenders,4,57,4,6694.715,26778.86
+CUST00026503,Silver,Coupon-led buyers,Recent low spenders,4,56,4,6692.655,26770.62
+CUST00024902,Gold,Coupon-led buyers,Needs attention,3,76,2,13323.385,26646.77
+CUST00031190,Gold,Big-ticket Electronics buyers,Hibernating,1,261,3,8880.519999999999,26641.56
+CUST00024632,Gold,Coupon-led buyers,Needs attention,3,73,3,8853.916666666666,26561.75
+CUST00037668,Gold,Coupon-led buyers,Needs attention,3,95,3,8817.113333333333,26451.34
+CUST00016331,Gold,Big-ticket Electronics buyers,Recent low spenders,4,57,1,26423.69,26423.69
+CUST00029744,Gold,Coupon-led buyers,Recent low spenders,4,30,5,5272.088,26360.44
+CUST00004142,Gold,Coupon-led buyers,Recent low spenders,4,51,4,6568.765,26275.06
+CUST00036938,Gold,Big-ticket Electronics buyers,Hibernating,2,116,1,26228.68,26228.68
+CUST00018959,Gold,Big-ticket Electronics buyers,Hibernating,1,319,1,26228.68,26228.68
+CUST00009258,Gold,Coupon-led buyers,Hibernating,2,138,6,4357.49,26144.94
+CUST00011532,Gold,Core high-value regulars,Needs attention,3,106,4,6530.397500000001,26121.590000000004
+CUST00002999,Silver,Big-ticket Electronics buyers,Hibernating,1,260,1,26113.59,26113.59
+CUST00037792,Gold,Big-ticket Electronics buyers,Hibernating,2,113,2,13038.9,26077.8
+CUST00038689,Gold,Coupon-led buyers,Recent low spenders,5,25,5,5183.682,25918.41
+CUST00010933,Gold,Coupon-led buyers,Needs attention,3,93,3,8629.766666666666,25889.3
+CUST00038073,Gold,Coupon-led buyers,Needs attention,3,99,4,6453.42,25813.68
+CUST00027915,Silver,Coupon-led buyers,Hibernating,1,290,4,6450.235000000001,25800.94
+CUST00011370,Gold,Big-ticket Electronics buyers,Recent low spenders,5,24,2,12900.195,25800.39
+CUST00000077,Gold,Big-ticket Electronics buyers,Hibernating,1,342,1,25735.79,25735.79
+CUST00024712,Gold,Coupon-led buyers,Hibernating,2,179,5,5145.134,25725.67
+CUST00018516,Gold,Big-ticket Electronics buyers,Hibernating,2,125,2,12857.33,25714.66
+CUST00021062,Gold,Coupon-led buyers,Hibernating,2,120,4,6416.19,25664.76
+CUST00003149,Gold,Core high-value regulars,Hibernating,2,118,3,8504.393333333333,25513.18
+CUST00034333,Gold,Coupon-led buyers,Hibernating,2,146,4,6310.664999999999,25242.66
+CUST00002739,Silver,Core high-value regulars,Recent low spenders,5,20,5,5047.438,25237.19
+CUST00002015,Gold,Core high-value regulars,Recent low spenders,5,24,4,6280.65,25122.6
+CUST00029021,Gold,Coupon-led buyers,Hibernating,2,127,4,6244.915,24979.66
+CUST00002393,Gold,Coupon-led buyers,Hibernating,2,183,3,8322.316666666668,24966.95
+CUST00022536,Gold,Coupon-led buyers,Recent low spenders,4,49,5,4990.288,24951.44
+CUST00021340,Gold,Coupon-led buyers,Hibernating,2,119,5,4981.6900000000005,24908.45
+CUST00017020,Gold,Big-ticket Electronics buyers,Hibernating,1,252,3,8302.050000000001,24906.15
+CUST00005172,Gold,Coupon-led buyers,Recent low spenders,5,20,3,8277.78,24833.34
+CUST00004221,Gold,Coupon-led buyers,Needs attention,3,87,6,4130.638333333333,24783.83
+CUST00002366,Silver,Coupon-led buyers,Hibernating,2,150,4,6194.705000000001,24778.820000000003
+CUST00012739,Gold,Big-ticket Electronics buyers,Hibernating,2,179,1,24775.77,24775.77
+CUST00008933,Gold,Big-ticket Electronics buyers,Needs attention,3,90,1,24775.77,24775.77
+CUST00037218,Silver,Coupon-led buyers,Needs attention,3,77,3,8250.800000000001,24752.4
+CUST00034653,Gold,Core high-value regulars,Recent low spenders,4,33,3,8250.596666666666,24751.79
+CUST00008688,Gold,Coupon-led buyers,Hibernating,1,218,5,4947.438,24737.19
+CUST00028357,Silver,Big-ticket Electronics buyers,Hibernating,2,116,2,12355.83,24711.66
+CUST00017560,Gold,Coupon-led buyers,Needs attention,3,73,3,8229.863333333333,24689.59
+CUST00011886,Gold,Coupon-led buyers,Recent low spenders,4,31,5,4921.904,24609.52
+CUST00024706,Gold,Coupon-led buyers,Needs attention,3,90,5,4894.792,24473.96
+CUST00014623,Gold,Big-ticket Electronics buyers,Hibernating,1,226,2,12166.570000000002,24333.140000000003
+CUST00010630,Silver,Coupon-led buyers,Recent low spenders,4,40,4,6082.105,24328.42
+CUST00000289,Silver,Coupon-led buyers,Recent low spenders,4,43,3,8105.693333333334,24317.08
+CUST00009484,Silver,Big-ticket Electronics buyers,Hibernating,2,190,5,4850.156,24250.78
+CUST00027345,Gold,Core high-value regulars,Recent low spenders,5,7,3,8050.846666666667,24152.54
+CUST00001475,Gold,Big-ticket Electronics buyers,Recent low spenders,4,32,1,24086.65,24086.65
+CUST00003503,Gold,Big-ticket Electronics buyers,Hibernating,2,174,1,24086.65,24086.65
+CUST00007455,Gold,Coupon-led buyers,Recent low spenders,5,22,5,4813.764,24068.82
+CUST00017663,Gold,Big-ticket Electronics buyers,Hibernating,1,217,2,11972.37,23944.74
+CUST00015777,Gold,Big-ticket Electronics buyers,Recent low spenders,4,50,2,11965.445,23930.89
+CUST00015759,Gold,Coupon-led buyers,Recent low spenders,4,43,4,5978.8675,23915.47
+CUST00003819,Gold,Coupon-led buyers,Recent low spenders,4,41,6,3980.991666666667,23885.95
+CUST00001216,Silver,Coupon-led buyers,Needs attention,3,69,4,5967.6075,23870.43
+CUST00005778,Gold,Coupon-led buyers,Needs attention,3,83,4,5942.5425000000005,23770.17
+CUST00027707,Gold,Coupon-led buyers,Hibernating,1,213,3,7890.256666666665,23670.77
+CUST00018528,Gold,Core high-value regulars,Needs attention,3,104,4,5897.495,23589.98
+CUST00005523,Silver,Coupon-led buyers,Hibernating,2,164,3,7824.056666666666,23472.17
+CUST00012599,Gold,Coupon-led buyers,Recent low spenders,5,4,6,3899.8366666666666,23399.02
+CUST00038308,Gold,Big-ticket Electronics buyers,Needs attention,3,84,4,5844.299999999999,23377.2
+CUST00002856,Gold,Coupon-led buyers,Needs attention,3,91,3,7762.886666666666,23288.66
+CUST00036120,Gold,Coupon-led buyers,Needs attention,3,98,3,7756.303333333333,23268.91
+CUST00007429,Gold,Coupon-led buyers,Recent low spenders,4,33,3,7684.2,23052.6
+CUST00007168,Gold,Coupon-led buyers,Hibernating,1,217,3,7671.799999999999,23015.4
+CUST00028860,Gold,Big-ticket Electronics buyers,Hibernating,2,123,4,5725.4525,22901.81
+CUST00006830,Gold,Big-ticket Electronics buyers,Needs attention,3,67,1,22815.0,22815.0
+CUST00036676,Gold,Coupon-led buyers,Recent low spenders,4,51,5,4560.828,22804.14
+CUST00020306,Gold,Coupon-led buyers,Hibernating,1,241,2,11340.315,22680.63
+CUST00020825,Gold,Big-ticket Electronics buyers,Recent low spenders,5,4,2,11338.62,22677.24
+CUST00036502,Gold,Coupon-led buyers,Needs attention,3,65,4,5663.65,22654.6
+CUST00012514,Gold,Coupon-led buyers,Hibernating,1,236,5,4516.864,22584.32
+CUST00001028,Gold,Big-ticket Electronics buyers,Needs attention,3,63,2,11284.3,22568.6
+CUST00029453,Gold,Big-ticket Electronics buyers,Recent low spenders,5,27,2,11238.895,22477.79
+CUST00024308,Silver,Big-ticket Electronics buyers,Recent low spenders,5,7,2,11218.36,22436.72
+CUST00013062,Silver,Coupon-led buyers,Hibernating,2,190,4,5575.9225,22303.69
+CUST00021380,Silver,Coupon-led buyers,Recent low spenders,4,43,6,3670.713333333333,22024.28
+CUST00002261,Silver,Big-ticket Electronics buyers,Recent low spenders,4,55,2,10973.765,21947.53
+CUST00018513,Gold,Core high-value regulars,Needs attention,3,98,3,7259.099999999999,21777.3
+CUST00026314,Gold,Big-ticket Electronics buyers,Needs attention,3,79,1,21666.13,21666.13
+CUST00017244,Gold,Coupon-led buyers,Hibernating,2,182,3,7198.09,21594.27
+CUST00034794,Gold,Coupon-led buyers,Recent low spenders,4,39,4,5388.81,21555.24
+CUST00016422,Gold,Coupon-led buyers,Recent low spenders,5,6,3,7124.156666666667,21372.47
+CUST00016256,Gold,Big-ticket Electronics buyers,Hibernating,2,127,2,10622.655,21245.31
+CUST00029262,Gold,Big-ticket Electronics buyers,Recent low spenders,5,2,2,10584.135,21168.27
+CUST00007018,Gold,Coupon-led buyers,Needs attention,3,96,4,5262.2625,21049.05
+CUST00035639,Silver,Coupon-led buyers,Needs attention,3,91,6,3484.235,20905.41
+CUST00008956,Silver,Big-ticket Electronics buyers,Recent low spenders,4,47,3,6961.143333333333,20883.43
+CUST00030918,Silver,Coupon-led buyers,Recent low spenders,5,7,4,5184.3,20737.2
+CUST00000990,Gold,Big-ticket Electronics buyers,Recent low spenders,4,38,2,10311.995,20623.99
+CUST00009128,Gold,Coupon-led buyers,Hibernating,2,174,3,6859.339999999999,20578.02
+CUST00018053,Gold,Coupon-led buyers,Needs attention,3,81,4,5114.5925,20458.37
+CUST00002183,Gold,Coupon-led buyers,Recent low spenders,4,44,4,5108.77,20435.08
+CUST00011248,Gold,Core high-value regulars,Recent low spenders,4,32,4,5102.6775,20410.71
+CUST00027567,Silver,Coupon-led buyers,Needs attention,3,72,4,5079.27,20317.08
+CUST00003478,Gold,Coupon-led buyers,Hibernating,1,332,4,5028.6575,20114.63
+CUST00010371,Gold,Coupon-led buyers,Recent low spenders,4,50,3,6701.06,20103.18
+CUST00029601,Gold,Coupon-led buyers,Recent low spenders,5,11,4,5001.225,20004.9
+CUST00031087,Silver,Coupon-led buyers,Needs attention,3,96,3,6648.723333333334,19946.17
+CUST00015781,Silver,Big-ticket Electronics buyers,Hibernating,1,197,2,9972.65,19945.3
+CUST00006921,Silver,Coupon-led buyers,Hibernating,1,228,5,3968.636,19843.18
+CUST00018570,Silver,Coupon-led buyers,Hibernating,1,246,4,4944.9525,19779.81
+CUST00011833,Silver,Coupon-led buyers,Hibernating,1,228,4,4936.83,19747.32
+CUST00017908,Silver,Big-ticket Electronics buyers,Hibernating,1,462,1,19687.98,19687.98
+CUST00018652,Silver,Coupon-led buyers,Needs attention,3,71,3,6562.213333333333,19686.64
+CUST00008233,Silver,Big-ticket Electronics buyers,Hibernating,2,159,2,9821.335,19642.67
+CUST00008359,Silver,Big-ticket Electronics buyers,Hibernating,2,145,2,9779.78,19559.56
+CUST00027239,Silver,Big-ticket Electronics buyers,Hibernating,1,247,1,19551.42,19551.42
+CUST00002554,Silver,Coupon-led buyers,Hibernating,1,236,3,6511.823333333333,19535.47
+CUST00026675,Silver,Coupon-led buyers,Needs attention,3,65,3,6458.7,19376.1
+CUST00024989,Silver,Coupon-led buyers,Recent low spenders,4,53,3,6447.68,19343.04
+CUST00039989,Silver,Big-ticket Electronics buyers,Hibernating,2,182,2,9658.95,19317.9
+CUST00018873,Silver,Big-ticket Electronics buyers,Hibernating,1,204,2,9654.965,19309.93
+CUST00033740,Silver,Coupon-led buyers,Recent low spenders,5,10,5,3837.89,19189.45
+CUST00000994,Silver,Coupon-led buyers,Hibernating,1,203,3,6394.32,19182.96
+CUST00010436,Silver,Coupon-led buyers,Recent low spenders,4,45,6,3157.5366666666664,18945.22
+CUST00032649,Silver,Big-ticket Electronics buyers,Needs attention,3,96,2,9403.675,18807.35
+CUST00038010,Silver,Big-ticket Electronics buyers,Hibernating,2,167,3,6238.393333333333,18715.18
+CUST00003603,Silver,Big-ticket Electronics buyers,Needs attention,3,76,1,18704.01,18704.01
+CUST00023952,Silver,Coupon-led buyers,Recent low spenders,5,14,5,3733.904,18669.52
+CUST00037340,Silver,Coupon-led buyers,Needs attention,3,94,4,4649.554999999999,18598.22
+CUST00028091,Silver,Coupon-led buyers,Needs attention,3,90,6,3089.73,18538.38
+CUST00035615,Silver,Coupon-led buyers,Recent low spenders,5,16,5,3703.824,18519.12
+CUST00031015,Silver,Big-ticket Electronics buyers,Hibernating,2,192,2,9211.085,18422.17
+CUST00025859,Silver,Coupon-led buyers,Needs attention,3,80,2,9203.245,18406.49
+CUST00023760,Silver,Coupon-led buyers,Hibernating,1,221,3,6123.556666666667,18370.67
+CUST00030159,Silver,Core high-value regulars,Recent low spenders,4,37,4,4574.38,18297.52
+CUST00035088,Silver,Big-ticket Electronics buyers,Recent low spenders,5,27,2,9068.025,18136.050000000003
+CUST00020143,Silver,Coupon-led buyers,Recent low spenders,4,46,4,4533.5075,18134.03
+CUST00010766,Silver,Big-ticket Electronics buyers,Recent low spenders,5,25,1,18128.31,18128.31
+CUST00014292,Silver,Coupon-led buyers,Recent low spenders,5,22,2,8946.835,17893.67
+CUST00001587,Silver,Coupon-led buyers,Hibernating,2,168,5,3549.1220000000003,17745.61
+CUST00001937,Silver,Big-ticket Electronics buyers,Needs attention,3,90,2,8819.86,17639.72
+CUST00024436,Silver,Coupon-led buyers,Needs attention,3,106,3,5849.826666666667,17549.48
+CUST00027268,Silver,Big-ticket Electronics buyers,Hibernating,2,123,2,8689.295,17378.59
+CUST00025316,Silver,Core high-value regulars,Needs attention,3,109,3,5751.19,17253.57
+CUST00017270,Silver,Big-ticket Electronics buyers,Hibernating,2,120,2,8581.45,17162.9
+CUST00038150,Silver,Big-ticket Electronics buyers,Hibernating,2,142,2,8563.165,17126.33
+CUST00009733,Silver,Coupon-led buyers,Hibernating,2,143,4,4269.6675000000005,17078.670000000002
+CUST00019980,Silver,Big-ticket Electronics buyers,Recent low spenders,4,29,2,8507.445,17014.89
+CUST00003754,Silver,Coupon-led buyers,Needs attention,3,108,4,4250.9800000000005,17003.920000000002
+CUST00020499,Silver,Big-ticket Electronics buyers,Hibernating,2,138,2,8492.065,16984.13
+CUST00021882,Silver,Coupon-led buyers,Hibernating,1,216,6,2826.5750000000003,16959.45
+CUST00002661,Silver,Big-ticket Electronics buyers,Recent low spenders,4,55,2,8437.240000000002,16874.480000000003
+CUST00037661,Silver,Big-ticket Electronics buyers,Recent low spenders,5,14,2,8408.815,16817.63
+CUST00005513,Silver,Big-ticket Electronics buyers,Hibernating,2,136,2,8396.6,16793.2
+CUST00030123,Silver,Coupon-led buyers,Needs attention,3,86,4,4172.21,16688.84
+CUST00004521,Silver,Big-ticket Electronics buyers,Recent low spenders,4,52,2,8315.15,16630.3
+CUST00028922,Silver,Big-ticket Electronics buyers,Hibernating,1,221,1,16629.58,16629.58
+CUST00024788,Silver,Coupon-led buyers,Hibernating,2,112,6,2749.313333333333,16495.88
+CUST00038661,Silver,Big-ticket Electronics buyers,Needs attention,3,98,2,8171.04,16342.08
+CUST00038527,Silver,Coupon-led buyers,Needs attention,3,106,3,5413.336666666667,16240.01
+CUST00021348,Silver,Coupon-led buyers,Hibernating,2,190,3,5403.66,16210.98
+CUST00036921,Silver,Big-ticket Electronics buyers,Needs attention,3,107,2,8101.48,16202.96
+CUST00024822,Silver,Coupon-led buyers,Hibernating,1,208,4,4039.9825,16159.93
+CUST00031211,Silver,Big-ticket Electronics buyers,Hibernating,1,427,1,16150.62,16150.62
+CUST00025996,Silver,Coupon-led buyers,Recent low spenders,4,41,6,2685.0516666666667,16110.31
+CUST00014571,Silver,Big-ticket Electronics buyers,Hibernating,1,323,1,16020.3,16020.3
+CUST00020646,Silver,Big-ticket Electronics buyers,Needs attention,3,76,1,15928.73,15928.73
+CUST00038637,Silver,Coupon-led buyers,Needs attention,3,63,3,5306.663333333333,15919.989999999998
+CUST00028100,Silver,Big-ticket Electronics buyers,Recent low spenders,4,46,2,7875.455,15750.91
+CUST00034513,Silver,Big-ticket Electronics buyers,Recent low spenders,5,3,2,7871.68,15743.36
+CUST00000161,Silver,Coupon-led buyers,Loyal,3,104,8,1952.45125,15619.61
+CUST00030424,Silver,Coupon-led buyers,Hibernating,1,220,2,7809.315,15618.63
+CUST00013269,Silver,Coupon-led buyers,Hibernating,2,112,2,7770.765,15541.53
+CUST00002588,Silver,Big-ticket Electronics buyers,Needs attention,3,94,2,7732.68,15465.36
+CUST00031510,Silver,Big-ticket Electronics buyers,Recent low spenders,4,35,2,7714.44,15428.88
+CUST00032095,Silver,Coupon-led buyers,Recent low spenders,4,40,4,3854.6675,15418.67
+CUST00022759,Silver,Big-ticket Electronics buyers,Needs attention,3,83,1,15407.12,15407.12
+CUST00001091,Silver,Coupon-led buyers,Hibernating,2,137,3,5107.3533333333335,15322.06
+CUST00030709,Silver,Big-ticket Electronics buyers,Needs attention,3,93,3,5031.81,15095.43
+CUST00019252,Silver,Coupon-led buyers,Needs attention,3,74,3,5026.3533333333335,15079.06
+CUST00022439,Silver,Big-ticket Electronics buyers,Recent low spenders,5,10,2,7518.705,15037.41
+CUST00022403,Silver,Coupon-led buyers,Hibernating,2,114,2,7517.315,15034.63
+CUST00011740,Silver,Coupon-led buyers,Recent low spenders,4,36,2,7468.47,14936.94
+CUST00037268,Silver,Big-ticket Electronics buyers,Needs attention,3,105,2,7362.865,14725.73
+CUST00015671,Silver,Coupon-led buyers,Hibernating,1,216,4,3658.23,14632.92
+CUST00035525,Silver,Big-ticket Electronics buyers,Recent low spenders,4,58,2,7212.315,14424.63
+CUST00007559,Silver,Coupon-led buyers,Hibernating,2,173,4,3585.845,14343.38
+CUST00004902,Silver,Coupon-led buyers,Needs attention,3,78,4,3562.165,14248.66
+CUST00020061,Silver,Coupon-led buyers,Hibernating,2,154,3,4745.166666666667,14235.5
+CUST00023061,Silver,Coupon-led buyers,Recent low spenders,4,40,3,4736.963333333333,14210.89
+CUST00039745,Silver,Big-ticket Electronics buyers,Needs attention,3,72,2,6976.92,13953.84
+CUST00036939,Silver,Big-ticket Electronics buyers,Hibernating,2,193,2,6917.179999999999,13834.36
+CUST00018870,Silver,Big-ticket Electronics buyers,Hibernating,2,160,1,13735.98,13735.98
+CUST00013208,Silver,Big-ticket Electronics buyers,Hibernating,1,354,1,13612.06,13612.06
+CUST00004081,Silver,Big-ticket Electronics buyers,Needs attention,3,100,2,6752.389999999999,13504.78
+CUST00038517,Silver,Big-ticket Electronics buyers,Hibernating,2,133,2,6719.15,13438.3
+CUST00026493,Silver,Coupon-led buyers,Needs attention,3,67,3,4434.456666666667,13303.37
+CUST00020794,Silver,Big-ticket Electronics buyers,Recent low spenders,4,51,2,6611.64,13223.28
+CUST00023715,Silver,Big-ticket Electronics buyers,Needs attention,3,86,2,6600.21,13200.42
+CUST00006715,Silver,Coupon-led buyers,Recent low spenders,4,50,3,4373.6466666666665,13120.94
+CUST00039576,Silver,Big-ticket Electronics buyers,Hibernating,2,122,2,6458.835,12917.67
+CUST00002455,Silver,Big-ticket Electronics buyers,Hibernating,2,117,2,6425.54,12851.08
+CUST00037799,Silver,Big-ticket Electronics buyers,Hibernating,2,173,2,6223.075000000001,12446.15
+CUST00006128,Silver,Coupon-led buyers,Hibernating,2,124,4,3014.315,12057.259999999998
+CUST00016028,Silver,Coupon-led buyers,Recent low spenders,4,56,3,3938.72,11816.16
+CUST00029183,Silver,Big-ticket Electronics buyers,Needs attention,3,78,2,5905.965,11811.93
+CUST00014978,Silver,Big-ticket Electronics buyers,Hibernating,1,291,2,5879.555,11759.11
+CUST00020096,Silver,Coupon-led buyers,Hibernating,1,347,4,2877.61,11510.44
+CUST00020153,Silver,Big-ticket Electronics buyers,Recent low spenders,5,7,2,5740.56,11481.12
+CUST00027885,Silver,Big-ticket Electronics buyers,Hibernating,1,246,1,11398.83,11398.83
+CUST00018134,Silver,Big-ticket Electronics buyers,Hibernating,1,234,1,10537.64,10537.64
+CUST00025591,Silver,Coupon-led buyers,Recent low spenders,4,42,4,2592.3,10369.2
+CUST00027871,Silver,Coupon-led buyers,Needs attention,3,109,2,4453.865,8907.73
+CUST00001350,Silver,Big-ticket Electronics buyers,Needs attention,3,77,1,8354.44,8354.44
+CUST00003524,Silver,Coupon-led buyers,Needs attention,3,64,3,2679.866666666667,8039.6
+CUST00011710,Silver,Coupon-led buyers,Hibernating,1,306,4,1997.46,7989.84
+CUST00016292,Silver,Coupon-led buyers,Hibernating,2,127,3,2570.363333333333,7711.09
+CUST00034036,Silver,Coupon-led buyers,Hibernating,1,212,4,1430.8249999999998,5723.299999999999
+CUST00011414,Silver,Big-ticket Electronics buyers,Hibernating,1,367,1,5700.27,5700.27
+CUST00029726,Silver,Big-ticket Electronics buyers,Hibernating,2,119,1,5700.27,5700.27
+CUST00014329,Silver,Big-ticket Electronics buyers,Recent low spenders,4,39,1,5380.09,5380.09
+CUST00029644,Silver,Big-ticket Electronics buyers,Hibernating,2,144,1,5325.78,5325.78
+CUST00027098,Silver,Big-ticket Electronics buyers,Hibernating,1,289,1,5156.55,5156.55
+CUST00006550,Silver,Coupon-led buyers,Hibernating,2,124,3,1636.6833333333332,4910.049999999999
+CUST00039174,Silver,Big-ticket Electronics buyers,Recent low spenders,4,38,1,4631.51,4631.51
+CUST00028915,Silver,Big-ticket Electronics buyers,Hibernating,1,254,1,3536.5,3536.5
