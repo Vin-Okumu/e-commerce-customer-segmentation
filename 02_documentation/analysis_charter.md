@@ -87,7 +87,7 @@ This charter is written before any analysis is run in this repository, so the on
 |---|---|
 | *Report* | [`analysis_report.md`](https://github.com/Vin-Okumu/e-commerce-sales-analytics/blob/main/02_documentation/analysis_report.md) in e-commerce-sales-analytics |
 | *Dictionary* | [`data_dictionary.md`](https://github.com/Vin-Okumu/e-commerce-sales-analytics/blob/main/02_documentation/data_dictionary.md) in e-commerce-sales-analytics |
-| *NB01–NB05* | Notebooks `03_analysis/01`–`05` in this repository |
+| *NB01–NB06* | Notebooks `03_analysis/01`–`06` in this repository |
 
 ### What the first project established
 
@@ -480,6 +480,7 @@ The segment playbook, a scored customer-level file (`customer_id`, segment, RFM 
 | `03_analysis/03_kmeans_segmentation.ipynb` | Choosing k, clustering, stability checks and profiling |
 | `03_analysis/04_validation_tier_and_holdout.ipynb` | Objectives 2 and 3 |
 | `03_analysis/05_coupons_and_cross_sell.ipynb` | Objectives 4 and 5 |
+| `03_analysis/06_segment_playbook.ipynb` | Objective 6: calculates every figure in the playbook, sizes the recommended trials and builds the scored customer file *(added during the project, so that playbook figures are calculated in a notebook)* |
 | `04_report/segment_playbook.md` | Objective 6 playbook and executive summary |
 | `04_report/figures/` | Charts used in the README and playbook |
 | `01_data/output/customer_segments.csv` | Scored customer-level file |
@@ -494,7 +495,7 @@ e-commerce-customer-segmentation/
 ├── 02_documentation/
 │   ├── analysis_charter.md
 │   └── feature_dictionary.md
-├── 03_analysis/          # notebooks 01–05
+├── 03_analysis/          # notebooks 01–06
 ├── 04_report/
 │   ├── segment_playbook.md
 │   └── figures/
