@@ -77,7 +77,7 @@ The processed tables from the first project, `01_data/processed/` in [e-commerce
 Every figure in this repository has one of two sources, and each one is cited:
 
 1. **Reported in the first project.** Cited to the document and section where it appears, for example *[Report §3.4]*.
-2. **Calculated in this project.** Cited to the notebook that calculates it, for example *[NB01]*.
+2. **Calculated in this project.** Cited to the notebook that calculates it, for example *[Notebook 1]*.
 
 This charter is written before any analysis is run in this repository, so the only figures it contains come from the first project. Questions that need new figures are listed below and answered in the notebooks.
 
@@ -87,7 +87,7 @@ This charter is written before any analysis is run in this repository, so the on
 |---|---|
 | *Report* | [`analysis_report.md`](https://github.com/Vin-Okumu/e-commerce-sales-analytics/blob/main/02_documentation/analysis_report.md) in e-commerce-sales-analytics |
 | *Dictionary* | [`data_dictionary.md`](https://github.com/Vin-Okumu/e-commerce-sales-analytics/blob/main/02_documentation/data_dictionary.md) in e-commerce-sales-analytics |
-| *NB01–NB06* | Notebooks `03_analysis/01`–`06` in this repository |
+| *Notebook 1–Notebook 6* | Notebooks `03_analysis/01`–`06` in this repository |
 
 ### What the first project established
 
@@ -105,7 +105,7 @@ This charter is written before any analysis is run in this repository, so the on
 | `total_orders` and `total_spent` in the customer file match the transactions for only 28.7% of customers | Report §5 | All customer metrics must be calculated from `Fact_Sales` |
 | The data is likely synthetic (very even status split and delivery-day spread) | Report §5 | Clusters may be weakly separated, and this must be reported honestly |
 
-### Data questions to answer first (NB01)
+### Data questions to answer first (Notebook 1)
 
 These questions shape how the features are built:
 
@@ -286,7 +286,7 @@ Decide who to target for win-back, how early to step in, and whether long-standi
 
 ### Hypothesis
 
-Segments with low Recency or falling Frequency at the end of 2025 account for most of the customers who bought between Jun 2024 and Dec 2025 but placed no order in Jan–Jun 2026. The size of that group is calculated in NB01.
+Segments with low Recency or falling Frequency at the end of 2025 account for most of the customers who bought between Jun 2024 and Dec 2025 but placed no order in Jan–Jun 2026. The size of that group is calculated in Notebook 1.
 
 ### Analysis
 
@@ -348,7 +348,7 @@ Decide which segments should receive coupons, which type of coupon to use, and w
 
 ### Hypothesis
 
-Coupons cost little overall (1.04% of gross order value *[Report §3.2]*) and do little to raise order value, but they may be linked to customers continuing to buy in certain segments. The order-value comparison is calculated in NB01 and broken down by segment in NB05.
+Coupons cost little overall (1.04% of gross order value *[Report §3.2]*) and do little to raise order value, but they may be linked to customers continuing to buy in certain segments. The order-value comparison is calculated in Notebook 1 and broken down by segment in Notebook 5.
 
 ### Analysis
 
