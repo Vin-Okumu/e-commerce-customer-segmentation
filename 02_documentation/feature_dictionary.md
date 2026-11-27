@@ -69,9 +69,9 @@ Taken from `Dim_Customers`. Used only to describe and validate segments.
 | `registration_cohort` | Registration month (`YYYY-MM`), 12 cohorts from 2023-06 to 2024-05 |
 | `tenure_days` | Days from registration to the snapshot date |
 
-## Treatment decisions from NB01
+## Treatment decisions from Notebook 1
 
-| Decision | Reason *[NB01]* |
+| Decision | Reason *[Notebook 1]* |
 |---|---|
 | Customers with no valid orders are kept in the tables but excluded from clustering | 66 customers (0.17%) in the full period have no spend, basket or category mix to compare |
 | `frequency`, `monetary` and `aov` are log-transformed before clustering | Spend is right-skewed (skewness 1.40); AOV is more skewed still (2.08) |
