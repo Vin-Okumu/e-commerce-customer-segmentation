@@ -31,7 +31,7 @@ This is the follow-up to **[E-Commerce Sales Analytics](https://github.com/Vin-O
 | Revenue at risk, Jul–Dec 2026 | **₹261.2 M** expected, **79.6%** of it in the top 3 segments | Protecting the top three is where the next rupee belongs |
 | Predicting who stops buying | Recency, RFM and K-means: **AUC ≈ 0.50** (chance). Tier × segment: **0.606** | Recency-based win-back campaigns would not have found the customers who left |
 | Coupons | **+1.5%** order value, **no** effect on retention | Coupons subsidise customers who would buy anyway |
-| `SAVE10` capped at ₹1,000 | About **₹9.7 M** saved per six months | One pricing rule removes most coupon cost *[NB05, NB06]* |
+| `SAVE10` capped at ₹1,000 | About **₹9.7 M** saved per six months | One pricing rule removes most coupon cost *[Notebook 5, Notebook 6]* |
 | Cross-sell (Sports first) | **₹2.0–8.2 M** at 5%–20% take-up | Worth a trial, but cross-selling cannot fix the Electronics dependence |
 
 Source tags such as *[Report §x]* points to the [first project's report](https://github.com/Vin-Okumu/e-commerce-sales-analytics/blob/main/02_documentation/analysis_report.md).
@@ -191,7 +191,7 @@ The full [segment playbook](04_report/segment_playbook.md) gives each segment a 
 | 4 | Who can we cross-sell to? | 3,302 Electronics-led customers have room to add a category; Sports adds the most expected value | **Run a Sports-first cross-sell trial**, judged against the 16.1% who add Sports without a campaign |
 | 5 | Should we change the tiers? | Under-tiered customers spent like their own tier in 2026 | **Keep the tier rules.** Test an upgrade incentive on a random half of the 1,858 candidates before changing anything |
 
-Every action is framed as a **controlled trial**. NB06 sizes each one: the `SAVE10` cap trial could detect a 1.2-point change in lapse rate, and the smallest list-based trial a 6.1-point change. The customer file [`customer_segments.csv`](01_data/output/customer_segments.csv) carries each customer's segment, scores, expected lapse probability, action and list flags, ready for a CRM.
+Every action is framed as a **controlled trial**. Notebook 6 sizes each one: the `SAVE10` cap trial could detect a 1.2-point change in lapse rate, and the smallest list-based trial a 6.1-point change. The customer file [`customer_segments.csv`](01_data/output/customer_segments.csv) carries each customer's segment, scores, expected lapse probability, action and list flags, ready for a CRM.
 
 ## 6. What this changes from the first project
 
@@ -219,7 +219,7 @@ jupyter notebook   # run 01 to 06 in order
 ```
 
 - Each notebook reads the outputs of the ones before it from `01_data/output/`. The processed data is already in `01_data/processed/`.
-- NB03 takes about 10 minutes because of the 50-resample stability check at each number of clusters. The other notebooks run in a minute or two.
+- Notebook 3 takes about 10 minutes because of the 50-resample stability check at each number of clusters. The other notebooks run in a minute or two.
 - Built and tested with Python 3.13, pandas 3.0, scikit-learn 1.9, SciPy 1.18 and matplotlib 3.10.
 - The cover image is rebuilt with `python make_cover.py` in `04_report/figures/` after the notebooks have run.
 
